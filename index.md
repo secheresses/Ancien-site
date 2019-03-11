@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Le pourquoi
-permalink: /pourquoi/
+layout: default
 ---
 
 À votre place nous aurions aimé avoir été prévenus en avance.
@@ -27,3 +25,5 @@ Nous relayons et travaillons à rendre compréhensibles et concrètes des donné
 - que des non-scientifiques composent les équipes d’investigation. Si les données ou les critères permettant de définir qu'une zone est à risque nous ne passons pas à l’étape suivante. Lorsqu’il est question de protection des populations nous considérons que tout le monde doit pouvoir comprendre.
 - de documenter nos explorations dont le questionnement des experts
 - de ne pas parler de “solutions” à mettre en place même si nous avons des idées. Nous considérons que votre réaction vous appartient et que c’est à vous de décider ce qu’il convient de faire
+
+
