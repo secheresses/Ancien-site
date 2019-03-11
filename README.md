@@ -21,7 +21,7 @@ Si vous êtes de l'extérieur de l'*organisation* cela nous enverra une proposit
 
 * [Pour créer mon compte github](http://www.multibao.org/#multibao/documentation/blob/master/fiches/creer_compte.md)
 * [Mettre en forme le titre - écrire en markdown (super simple)](http://www.multibao.org/#multibao/documentation/blob/master/fiches/mise_forme_texte.md)
-* [Insérer une image - général](http://www.multibao.org/#multibao/documentation/blob/master/fiches/inserer_image.md]
+* [Insérer une image - général](http://www.multibao.org/#multibao/documentation/blob/master/fiches/inserer_image.md)
 
 # Credits
 
