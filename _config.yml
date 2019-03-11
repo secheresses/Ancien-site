@@ -22,7 +22,7 @@ github_username:  cellule-information
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
