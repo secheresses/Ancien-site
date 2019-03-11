@@ -8,16 +8,16 @@ Nous sommes des citoyens qui avons à cœur la **protection des populations** vi
 
 Nous relayons et travaillons à rendre compréhensibles et concrètes des données existantes qui ont été produites par des organismes publics français et internationaux : Météo France, les acteurs publics de l'eau, le GIEC, l'État, etc. Nous trouvons que ces données scientifiques sont très difficilement compréhensibles dans le sens où elles ne nous permettent en tant que non-scientifiques de savoir où auront lieu les *pénuries d'eau potable*, l'*amplification des sécheresses agricoles*, les *extrêmes climatiques*, etc.
 
-##Notre première exploration
+## Notre première exploration
 
 > Localiser les nouvelles zones (métropole + dom) susceptibles de subir des ravitaillement en eau potable dans les 30 prochaines années. 
 
-##Nous produirons
+## Nous produirons
 
 * les *récits de nos explorations*
 * des *tutoriels* et autres supports librement réutilisables par tous
 
-##Nous faisons le choix
+## Nous faisons le choix
 
 - de commencer avec une thématique et de voir où ça nous mène
 - d'être en lien avec dès le début avec celles et ceux qui subissent déjà ces impacts
