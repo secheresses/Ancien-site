@@ -16,8 +16,8 @@
 title: Cellule indépendante - urgences climatiques
 email: anticipation@mail.com
 description: A votre place nous aurions aimé avoir été prévenus. Nous sommes des citoyens qui avons à cœur la protection des populations vis-à-vis des risques amplifiés par le changement climatique qui attaqueront nos conditions d'existences dans les trois prochaines décennies.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 
+url: 
 github_username:  cellule-information
 
 # Build settings
