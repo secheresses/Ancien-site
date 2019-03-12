@@ -10,7 +10,7 @@ pour écrire ou mettre un jour un article connectez vous et éditez le:
 * [la page "ravitaillements"](../pages/ravitaillements.md)
 * pour ajouter un article il faut créer un nouveau fichier dans le dossier *pages* et le faire finir par .md. Comme /bonjour.md. Regardez comment sont faits les autres articles.
 
-### Le saviez vous? 
+## Le saviez vous? 
 
 * Si vous êtes membre de l'*organisation* vous pourrez automatiquement modifier les articles. 
 * Si vous êtes de l'extérieur de l'*organisation* cela nous enverra une proposition de modification qu'un des membres de l'*organisation* devra valider
