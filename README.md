@@ -6,8 +6,8 @@ pour écrire ou mettre un jour un article connectez vous et éditez le:
 * [le présent document](..README.md)
 * [la page de présentation sur le site](..index.md)
 * [le titre du site](.._config.yml)
-* [la page "méthode"](../tree/master/pages/methode.md)
-* [la page "ravitaillements"](../tree/master/pages/ravitaillements.md)
+* [la page "méthode"](https://github.com/anticiper/anticiper.github.io/tree/master/pages)
+* [la page "ravitaillements"](https://github.com/anticiper/anticiper.github.io/tree/master/pages)
 * pour ajouter un article il faut créer un nouveau fichier dans le dossier *pages* et le faire finir par .md. Comme /bonjour.md. Regardez comment sont faits les autres articles.
 
 ## Le saviez vous? 
