@@ -10,7 +10,7 @@ Nous relayons et travaillons à rendre compréhensibles et concrètes des donné
 
 ## Notre première exploration
 
-> Localiser les nouvelles zones (métropole + dom) susceptibles de subir des ravitaillement en eau potable dans les 30 prochaines années. 
+> Localiser les nouvelles zones (métropole + dom) susceptibles de subir des ravitaillements en eau potable dans les 30 prochaines années. 
 
 ## Nous produirons
 
