@@ -20,7 +20,7 @@ permalink: /methode
 8. Fournir ces réponses aux *UXdesigners* et leur permettre de concevoir une conception. Leur fournir les contacts des personnes interviewées pour qu'ils puissent tester leurs conceptions. 
 9. Lorsque le prototype validé est prêt réunir un groupe de travail pour diffuser l'information et inviter sa réutilisation.
 
-La collaboration avec les institutions (syndicats de bassins versants, DREALs, etc.) est la bienvenue si le fond de cette approche est respectée.
+La contribution des institutions (syndicats de bassins versants, DREALs, etc.) est plus que bienvenue si le fond de cette approche est respectée.
 
 Les engagements
 ---
