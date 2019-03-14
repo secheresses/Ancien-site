@@ -8,60 +8,19 @@ permalink: /methode
 
 *Cécile je veux bien incorporer la photo ici: soit tu peux le faire direct soit me la filer*
 
-> Cette méthode a été designée du 5 au 7 mars 2019 dans un corps de ferme récupéré par *Caroline* et *Thomas*. Étaient aussi présents *Marie-Gabrielle*, *Camille*, *Anton*, *Cécile*, *Fanny* & *Thomas P*.
+> Cette méthode a été designée du 5 au 7 mars 2019 dans un corps de ferme récupéré par *Caroline* et *Thomas*. Étaient aussi présents *Marie-Gabrielle*, *Camille*, *Anton*, *Cécile*, *Fanny* (& *Thomas P* et *Noémie G.* et *Caroline P.* en observateurs).
 
-Première phase: rendre visible les zones à risque vis à vis d’une problématique concrète et grave
----
-​​
-**Étape 1**
-​​Se poser, seul ou à plusieurs, autour d’une problématique estimée: pénuries d’eau potable, sécheresses, etc. et réfléchir ensemble à des critères permettant de repérer la problématique sur le territoire français (Dom et métropole). 
-	
-**Étape 2**	
-​​Aller, seul ou à plusieurs, à la rencontre des personnes que l’on imagine déjà actuellement touchés par la problématique et se faire une idée, écouter, les questionner. 
+1. Réfléchir, seul ou à plusieurs, sur une problématique: pénuries d'eau potable, sécheresses, montée des eaux et le faire savoir aux autres pour qu'on essaye 
+2. Aller, seul ou à plusieurs, à la rencontre de celles et ceux qui rencontrent déjà la problématique pour les écouter, les questionner. En s'engageant à ne leur parler d'aucune solution mais d'apprendre de leur quotidien, de ce que ça représente pour eux, etc. 
+3. Réunir un groupe mixte de travail et restituer ce qu'on a appris jusqu'à là. Faire le choix où non de se lancer sur la thématique. Se poser la question des critères comme par exemple: *"Quels sont les critères qui lorsqu'ils sont réunisnous permettraient d'être sûrs qu'une zone risque de subir des pénuries d'eau potable. Des villages qui dépendent de petites sources + présence de roches impérméable + beaucoup de jours d'eau sans pluie? Comment fait-on pour le savoir?"*. Lister des questions pour les *experts*
+4. Consulter des *experts* (hydrogéologues, climatologues, etc.) sur notre définition des critères: que doit-on découvrir? Que ne comprenons-nous pas? Toutes les réponses aux questions sont enregistrées de manière à ce que l'investigation soit publique.
+5. Réunir un groupe mixte de travail et restituer ce qu'on a appris jusqu'à là. Comprendre et décider des critères retenus. Faire une recherche des jeux de données publics permettant de visualiser les zones.
+6. Questionner les *experts* sur la validité des jeux de données et rendre visible les incertitudes liées aux jeux de données
+7. Créer avec les *UXdesigners* (ou celles et ceux qui savent rendre compréhensibles des données complexes) un protoype et le présenter à la population déjà concernée pour leur demander leur retour, les questionner
+8. Fournir ces réponses aux *UXdesigners* et leur permettre de concevoir une conception. Leur fournir les contacts des personnes interviewées pour qu'ils puissent tester leurs conceptions. 
+9. Lorsque le prototype validé est prêt réunir un groupe de travail pour diffuser l'information et inviter sa réutilisation.
 
-> Aller sur place. Prendre le temps de manger, discuter. Faire quelque chose pour des personnes qu'on a jamais rencontré ça sent la gamelle.
-
-**Étape 3**
-Réunir un collectif mixte. Faire le choix où non de se lancer sur la problématique. Parce que ça va prendre du temps, de la disponibilité d'esprit.
-
-
-**Étape 4**
-Si on se dit qu'on se lance sur la thématique se questionner les critères qui permettraient de localiser les zones. Rechercher des jeux de données et les représenter. Lister les questions concrètes qui devront être clarifiées. 
-	
-> Atelier en présentiel ou à distance - tous bienvenus
-​​
-**Étape 5**
-Questionner des “experts” en climatologie, hydrogéologie, pédologie etc. ou toutes disciplines nécessaires. Enregistrer les réponses aux questions. Se réunir et poser à nouveau des questions. 
-
-**Étape 6**
-​​Lorsque l’ensemble des membres du groupe - dont des non scientifiques - ont acté les critères permettant de repérer les zones à risque, les critères sont validés. Il faut aller trouver des jeux de données à coupler pour visualiser les données et ne pas hésiter à questionner les scientiques en cas de doute. 
-	
-**Étape 7**
-Ne pas hésiter à aller à la rencontre des personnes que l’on imagine touchées et se faire une idée de si les problématiques qu’on imagine être les leurs sont bien réelles. Leur demander ce qu’ils aimeraient savoir. 
-	
-​​Sur place / au téléphone avec la population. Au moins 5 réels interviews où l’on écoute. 
-
-**Étape 8**
-	
-​​Fournir aux UX / Designers les données scientifiques + les retours des interviews terrains et les contacts des personnes interviewées afin qu’ils puissent construire un prototype
-	
-**Étape 9**
-	
-​​Crashtester auprès de la population concernée le prototype et ceci avant d’envoyer les datas. Revoir le prototype. ​​Sur place / au téléphone avec la population. Au moins 5 réels interviews où l’on présente et où l’on observe les réactions. 
-
-**Étape 10**
-	
-​​Validation du prototype dès lors que c’est prouvé que ça parle grave aux citoyens
-	
-Deuxième phase: Se faire dépasser
----
-​
-**Étape 1**
-	
-​​Favoriser par tous les moyens possibles la diffusion. A minima licences libres / support simple à comprendre. Toute personne extérieure de la cellule d’information a la possibilité de se saisir des supports et de les réutiliser. 
-	
-​​Atelier en solo où à plusieurs
-
+La collaboration avec les institutions (syndicats de bassins versants, DREALs, etc.) est la bienvenue si le fond de cette approche est respectée.
 
 Les engagements
 ---
