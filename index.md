@@ -21,9 +21,9 @@ Nous relayons et travaillons à rendre compréhensibles et concrètes des donné
 
 - de commencer avec une thématique et de voir où ça nous mène
 - d'être en lien avec dès le début avec celles et ceux qui subissent déjà ces impacts
+- de consulter par nous-même des *experts scientifiques* et de souhaiter comprendre
 - de ne que partir de données publiques reconnues et produites par des établissements publics ou l’État
-- que des non-scientifiques composent les équipes d’investigation. Si les données ou les critères permettant de définir qu'une zone est à risque nous ne passons pas à l’étape suivante. Lorsqu’il est question de protection des populations nous considérons que tout le monde doit pouvoir comprendre.
-- d'être au clair avec les facteurs aggravants qui sont actuellement en jeu face à ces risques
+- que des non-scientifiques composent les équipes d’investigation. Lorsqu’il est question de protection des populations nous considérons que tout le monde doit pouvoir comprendre.
 - de documenter nos explorations dont le questionnement des experts
 - de respecter le principe *"votre réaction vous appartient"*
 
