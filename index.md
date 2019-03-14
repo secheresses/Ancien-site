@@ -25,6 +25,6 @@ Nous relayons et travaillons à rendre compréhensibles et concrètes des donné
 - que des non-scientifiques composent les équipes d’investigation. Si les données ou les critères permettant de définir qu'une zone est à risque nous ne passons pas à l’étape suivante. Lorsqu’il est question de protection des populations nous considérons que tout le monde doit pouvoir comprendre.
 - d'être au clair avec les facteurs aggravants qui sont actuellement en jeu face à ces risques
 - de documenter nos explorations dont le questionnement des experts
-- de respecter le principe *"votre réaction vous appartient*
+- de respecter le principe *"votre réaction vous appartient"*
 
 
