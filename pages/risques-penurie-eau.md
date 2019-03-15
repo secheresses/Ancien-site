@@ -29,7 +29,7 @@ Mais tout ça on en sait rien du coup on va demander.
 
 **Le type d'exemples qui nous ont interpellé**
 
-Comme les plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) qui ont vécu des ravitaillement en eau potable par citerne et des raccordements. 
+Comme les plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) qui ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
 
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
