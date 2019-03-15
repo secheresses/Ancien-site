@@ -4,22 +4,22 @@ title: Accès aux données climat, sous-sol, ...
 permalink: /donnees
 ---
 
-# Données liées aux prévisions climatiques pour la métropole & les outre-mer
+# Données liées aux estimations climatiques pour la métropole & les outre-mer
 
 > Les principaux jeux de données brutes que nous utilisons sont ceux du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*. Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
 
-Représenter les estimations des évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
+Représenter les prévisions  des évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
-* basées sur les données du *GIEC 2014*
+* prévisions  basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2014*
 * si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *températures* 
 
-Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères comme *par an le nombre de journées d'été (le nombre de jours présentant une température supérieure à 25°C)* jusqu'à un horizon lointain. Ce qui donne par exemple ceci: 
+Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères. Comme ci dessous la moyenne du nombre de journées d'été (journées avec des températures supérieures à 25°C), par an, à différents horizons temporels. 
 
 ![Journées d'été](../pages/images/climatjourneesete.png)
 *Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5*
 
-**Vous avez la possibilité de représenter les estimations des données suivantes sur plusieurs horizons par mois, saisons, années**
+**Vous avez la possibilité de représenter les prévisions des données suivantes sur plusieurs horizons par mois, saisons, années**
 * Température moyenne - °C 
 * Température minimale - °C
 * Température maximale - °C
@@ -38,12 +38,12 @@ Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/ex
 * Nombre de jours anormalement froids (température minimale inférieure de plus de 5°C à la normale) - NBJ 
 * Nombre de jours de vague de froid (température minimale inférieure de plus de 5°C à la normale pendant au moins 5 jours consécutifs) - NBJ
 
-> Note: nous vous proposons de ne pas utiliser les données faisant référence *"à la normale"* comme les écarts de températures par rapport *à la normale*. 
+> Note: nous vous proposons de ne pas utiliser les données faisant référence *"à la normale"* (comme les écarts de températures par rapport *à la normale*). 
 
 Représenter les estimations des évolutions des précipitations jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
-* basées sur les données du *GIEC 2014*
+* prévisions basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2014*
 * si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *précipitations* 
 
 
@@ -68,14 +68,12 @@ Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/ex
 Représenter les estimations de la sécheresse des sols jusqu'aux environ 2070 - *métropole*
 ---
 
-**La sécheresse des sols: initiation à la visualisation des données*
-
-* basées sur les données du *GIEC 2007* et du laboratoire public *Climsec*
-* [voici une explication pour comprendre pourquoi et comment ils mesurent la sécheresse des sols](https://www.umr-cnrm.fr/spip.php?article605)
+* basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2007* et du laboratoire public *Climsec*
+* [voici une explication pour comprendre les mesures de sécheresse de l'humidité des sols](https://www.umr-cnrm.fr/spip.php?article605)
 
 **Visualiser les données de la sécheresse des sols**
 
-Le visualiseur du Climsec-Drias ([cliquez ici](http://drias-climat.fr/decouverte/carte/climsec/experience)) va vous permettre de représenter l'évolution de la sécheresse des sols nommée *Indicateur sècheresse d'humidité des sols (SSWI)*. Ce qui donne ceci pour avec le *scénario pessimiste* pour les *étés*:
+Le visualiseur du *Climsec-Drias* ([cliquez ici](http://drias-climat.fr/decouverte/carte/climsec/experience)) va vous permettre de représenter l'évolution de la sécheresse des sols nommée *Indicateur sècheresse d'humidité des sols (SSWI)*. Ce qui donne ceci pour avec le *scénario pessimiste* pour les *étés*:
 
 ![Sécheresses](../pages/images/anomaliessecheresses.png)
 *Sécheresse des sols en été* / *Climsec* / *Scénario dit "pessimiste A2"*
@@ -89,7 +87,7 @@ Se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climath
 Représenter les estimations des risques de possibilité de feux de forêt - *métropole*
 ---
 
-* basées sur les données du *GIEC 2007* et du laboratoire public *Climsec*
+* prévisions basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2007* et du laboratoire public *Climsec*
 * [voici une explication pour comprendre comment l'indice de risque est défini - par météo limoux](http://meteolimoux.fr/meteo%20feux%20de%20for%C3%AAt/index.html)
 
 ![Risque de feux](../pages/images/feudeforet.png)
@@ -103,21 +101,17 @@ Pour savoir où en sont les nappes phréatiques mois par mois consulter les [car
 
 **Voici un exemple**
 ![BRGM état nappes](../pages/images/brgm-nappes.png)
-[État nappes 1er janvier 2019](https://www.brgm.fr/publication-presse/etat-nappes-eau-souterraine-1er-janvier-2019) 
+[État nappes 1er janvier 2019, BRGM](https://www.brgm.fr/publication-presse/etat-nappes-eau-souterraine-1er-janvier-2019) 
 
 Localisation et nature des nappes phréatiques: pour aller plus loin
 ---
 
-* [accès au visualiseur des *entités hydrogéologiques* des acteurs de l'eau en France métropolitaine](https://bdlisa.eaufrance.fr/carte)
- * la couche *Entités hydrogéologiques affleurantes par nature* qui représente la *présence potentielle où non d'eau dans la roche*. Attention ça peut être contre-intuitif. Dans le *Doubs* c'est un grand massif calcaire ("secteur karstique") qui est en bleu puisqu'il y a potentiellement de l'eau et ça ne les a pas empêché de subir un ravitaillement en eau potable pour *35 communes*. 
- * la couche *Entités hydrogéologiques affleurantes par thème*. Les zones en *rouge* dites "socle" sont des zones où il y a peu de nappes phréatiques
- * la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière.
- * la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Les grandes zones en *bleu clair* dites *affleurantes* sont des grandes zones calcaires aves des sources, des cascades.
+Accéder au [visualiseur des *entités hydrogéologiques de métropole*](https://bdlisa.eaufrance.fr/carte) conçu par les acteurs publics de l'eau en France. Pour les outre-mer vous avez possibilité de télécharger les données brutes sur [data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=bdlisa)
 
-> L'ensemble des données présentées ci dessus + pour les *DOM* peuvent être téléchargées (licence libre autorisant leur réutilisation) [ici](https://www.data.gouv.fr/fr/search/?q=bdlisa)
-
-
-
+* la couche *Entités hydrogéologiques affleurantes par nature* qui représente la *présence potentielle où non d'eau dans la roche*. Attention ça peut être contre-intuitif. Dans le *Doubs* c'est un grand massif calcaire ("secteur karstique") qui est en bleu puisqu'il y a potentiellement de l'eau et ça ne les a pas empêché de subir un ravitaillement en eau potable pour *35 communes*. 
+* la couche *Entités hydrogéologiques affleurantes par thème*. Les zones en *rouge* dites "socle" sont des zones où il y a peu de nappes phréatiques
+* la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière.
+* la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Les grandes zones en *bleu clair* dites *affleurantes* sont des grandes zones calcaires aves des sources, des cascades.
 
 
 
