@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Données géographiques brutes / sources
+title: Accès aux données climat, sous-sol, ...
 permalink: /donnees
 ---
 
