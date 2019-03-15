@@ -6,7 +6,7 @@ permalink: /risques-penurie-eau
 
 # Où seront les zones qui présentent un risque de pénurie d'eau potable - métropole & outre-mer? 
 
-> Nous en sommes à l'étape 4 de notre [méthode d'investigation](../methode) où nous vérifions nos hypothèses auprès d'experts du domaine. *Camille* a déjà demandé à un *climatologue expert dans l'eau* s'il serait disponible pour répondre à nos questions et il a répondu que oui avec plaisir. *Thomas W* part se former dans le Jura le docteur en hydrogéologie *Guy Faure* le 8 et 9 avril 2019 pour lui poser nos questions. 
+> Nous en sommes à l'étape 4 de notre [méthode d'investigation](../methode) où nous vérifions nos hypothèses auprès d'experts du domaine. *Camille* a déjà demandé à un *climatologue expert dans l'eau* s'il serait disponible pour répondre à nos questions et il a répondu que oui avec plaisir. *Thomas W* part se former dans le Jura avec le docteur en hydrogéologie *Guy Faure* le 8 et 9 avril 2019 afin de lui poser nos questions. 
 
 Rappel de l'étape 3
 ---
