@@ -37,7 +37,7 @@ Comme les plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) q
 
 Une liste de questions pour les climatologues et hydrogéologues est posée. La plupart de ces questions sont spécifiques. Pour les milieux calcaires on se demande par exemple des questions sur la *recharge* des nappes phréatiques. Pour les roches imperméables on se questionne comment se forment les *sources* sur les zones. On se questionne aussi sur l'influence de *précipitations intenses* vs des *précipitations régulières*. 
 
-On décide que tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) et *Caro* (même chose) ne comprendront pas les réponses données par les *experts* on continuera à poser des questions. Lorsque ce sera clair on publiera les questions - réponses.
+On décide que tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts* on continuera à poser des questions. Lorsque ce sera clair on publiera les questions - réponses.
 
 
 Rappel de l'étape 2
