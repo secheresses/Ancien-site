@@ -10,7 +10,7 @@ Nous relayons et travaillons à rendre compréhensibles et concrètes des donné
 
 ## Notre première exploration
 
-> Localiser les nouvelles zones (métropole + dom) susceptibles de subir des ravitaillements en eau potable dans les 30 prochaines années. 
+> Rendre visible les zones (métropole + outre-mer) à risques amplfifiés par les dérèglements climatiques susceptibles de subir dans les 30 prochaines années des pénuries d'eau potable.
 
 ## Nous produirons
 

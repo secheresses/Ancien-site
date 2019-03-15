@@ -23,7 +23,7 @@ pour écrire ou mettre un jour un article connectez vous et éditez le:
  * donner un titre explicite à l'image
  * la mettre dans un format non volumineux (taille 640x480, possibilité de le faire en ligne grâce à des logiciels style http://ipiccy.com) pour que ce soit facile à visionner pour les lecteurs
  * la déposer dans le dossier assets/img/posts (vous pouvez faire un déposé dans le dossier en question)
- * et incorporer dans votre article le code ![Titre explicite de l'image](../assets/img/posts/nomdufichier.jpg)
+ * et incorporer dans votre article le code ![Titre explicite de l'image](../pages/images/nomdufichier.jpg)
  
 ## Tutoriels
 
