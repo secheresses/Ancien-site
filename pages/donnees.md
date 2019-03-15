@@ -6,19 +6,19 @@ permalink: /donnees
 
 # Prévisions climatiques
 
-> Les principaux jeux de données brutes que nous utilisons sont ceux du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*. Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*«Drias*](http://drias-climat.fr/). 
+> Les principaux jeux de données brutes que nous utilisons sont ceux du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*. Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
 
 Représenter les estimations des évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
 * basées sur les données du *GIEC 2014*
-* pour observer les mesures des évolutions des températures entre 2014 et aujourd'hui consultez [*Climat HD*](http://www.meteofrance.fr/climat-passe-et-futur/climathd)
-* à ce jour nous utilisons le scénario *8,5: scénario sans politique climatique*
+* pour les mesures des évolutions des températures entre 2014 et aujourd'hui consultez [*Climat HD*](http://www.meteofrance.fr/climat-passe-et-futur/climathd)
 
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères comme *par an le nombre de journées d'été (le nombre de jours présentant une température supérieure à 25°C)* jusqu'à un horizon lointain. Ce qui donne par exemple ceci: 
 
 ![Journées d'été](../pages/images/climatjourneesete.png)
 *Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5*
+
 *Pour visualiser en grand: clic droit, afficher image*
 
 **Vous avez la possibilité de représenter les estimations des données suivantes sur plusieurs horizons par mois, saisons, années**
@@ -46,8 +46,7 @@ Représenter les estimations des évolutions des précipitations jusqu'aux envir
 ---
 
 * basées sur les données du *GIEC 2014*
-* pour observer les mesures des évolutions des températures entre 2014 et aujourd'hui consultez [*Climat HD*](http://www.meteofrance.fr/climat-passe-et-futur/climathd)
-* à ce jour nous utilisons le scénario *8,5: scénario sans politique climatique*
+* pour les mesures des évolutions des températures entre 2014 et aujourd'hui consultez [*Climat HD*](http://www.meteofrance.fr/climat-passe-et-futur/climathd)
 
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères comme le *les anomalies de précipitations intenses en été* sur plusieurs horizons. Ce qui donne par exemple ceci: 
 
@@ -80,6 +79,7 @@ Le visualiseur du Climsec-Drias ([cliquez ici](http://drias-climat.fr/decouverte
 
 ![Sécheresses](../pages/images/anomaliessecheresses.png)
 *Sécheresse des sols en été* / *Climsec* / *Scénario dit "pessimiste A2"*
+
 *Pour visualiser en grand: clic droit, afficher image*
 
 > Plus la couleur vire vers le rouge plus les sols seront *très secs* par rapport à en 1970. Si dans le *sud* de la métropole une partie de la zone reste en jaune dont en critère *normal* c'est il n'y a pas d'évolution de la sécheresse des sols. Ces sols étaient déjà considérés comme *très secs* en 1970. Un sol "très sec" ne veut pas non plus dire qu'il n'y a plus d'eau dans le sous-sol de la zone. On parle ici de sécheresse des sols de surface.
@@ -92,6 +92,7 @@ Représenter les estimations des risques de possibilité de feux de forêt - *m�
 
 ![Risque de feux](../pages/images/feudeforet.png)
 *Risques de possibilité de feux de forêt en été* / *Climsec* / *Scénario dit "pessimiste A2"*
+
 *Pour visualiser en grand: clic droit, afficher image*
 
 # Sous-sol et eaux sous-terraines (nappes phréatiques, zones imperméables, ...) métropole + outre-mer
@@ -103,7 +104,6 @@ Pour savoir où en sont les nappes phréatiques tapper dans votre moteur de rech
 **Voici un exemple**
 ![BRGM état nappes](../pages/images/brgm-nappes.png)
 [État nappes 1er janvier 2019](https://www.brgm.fr/publication-presse/etat-nappes-eau-souterraine-1er-janvier-2019) 
-*Pour visualiser en grand: clic droit, afficher image*
 
 Localisation et nature des nappes phréatiques: pour aller plus loin
 ---
