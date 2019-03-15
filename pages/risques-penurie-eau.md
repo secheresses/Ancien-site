@@ -18,20 +18,24 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 Nous faisons l'hypothèse que les municipalités qui présentent un fort risque de pénurie d'eau potable:
 
-* sont des municipalités qui sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) et où il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees))
-* sont des municpalités qui sont établies sur des grands ensembles de roches calcaires (voir [données](../donnees)) et où il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees))
+* sont des municipalités qui sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) et où il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees)) aggravant le risque plusieurs mois plus tard
+* sont des municpalités qui sont établies sur des grands ensembles de roches calcaires (voir [données](../donnees)) et où il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees)) aggravant le risque plusieurs mois plus tard
 
-Nous faisons l'hypothèse que dans ces 2 types de municipalités il y a en plus une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...) ce qui accélère les pénuries. 
+Nous faisons aussi l'hypothèse:
+* que dans ces 2 types de municipalités il y a en plus une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...) ce qui accélère les pénuries. 
+* que lorsqu'il ne pleut pas ou peu durant au moins 2 mois alors le risque de pénurie survient plusieurs mois plus tard (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Les sécheresses de l'été semblent mener aux pénuries en automne.
 
-**Le type d'exemples qui nous ont beaucoup questionné**
+Mais tout ça on en sait rien du coup on va demander.
 
-Comme les presque 10% des communes du territoire du *Doubs* (massif du *Jura*) qui ont vécu des ravitaillement en eau potable par citerne et des raccordements. 
+**Le type d'exemples qui nous ont interpellé**
+
+Comme les plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) qui ont vécu des ravitaillement en eau potable par citerne et des raccordements. 
 
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
 **Nos questionnements**
 
-Une liste de questions pour les climatologues et hydrogéologues est posée. La plupart de ces questions sont spécifiques. Pour les milieux calcaires on se demande par exemple des questions sur la *recharge* des nappes phréatiques. Pour les roches imperméables on se questionne comment il se fait qu'il y a des *sources* sur les zones. On se questionne aussi sur l'influence de *précipitations intenses* vs des *précipitations régulières*. 
+Une liste de questions pour les climatologues et hydrogéologues est posée. La plupart de ces questions sont spécifiques. Pour les milieux calcaires on se demande par exemple des questions sur la *recharge* des nappes phréatiques. Pour les roches imperméables on se questionne comment se forment les *sources* sur les zones. On se questionne aussi sur l'influence de *précipitations intenses* vs des *précipitations régulières*. 
 
 On décide que tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) et *Caro* (même chose) ne comprendront pas les réponses données par les *experts* on continuera à poser des questions. Lorsque ce sera clair on publiera les questions - réponses.
 
