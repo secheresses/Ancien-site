@@ -10,7 +10,7 @@ Nous relayons et travaillons à rendre compréhensibles et concrètes des donné
 
 ## Notre première exploration
 
-> Rendre visible les zones (métropole + outre-mer) à risques amplfifiés par les dérèglements climatiques susceptibles de subir dans les 30 prochaines années des pénuries d'eau potable.
+> Rendre visible les zones risquant des pénuries d'eau potable (métropole + outre-mer) avec un risque amplifié par les dérèglements climatiques
 
 ## Nous produirons
 
