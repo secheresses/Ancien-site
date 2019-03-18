@@ -22,8 +22,8 @@ pour écrire ou mettre un jour un article connectez vous et éditez le:
 3. Pour incorporer une image il faut 
  * donner un titre explicite à l'image
  * la mettre dans un format non volumineux (taille 640x480, possibilité de le faire en ligne grâce à des logiciels style http://ipiccy.com) pour que ce soit facile à visionner pour les lecteurs
- * la déposer dans le dossier assets/img/posts (vous pouvez faire un déposé dans le dossier en question)
- * et incorporer dans votre article le code ![Titre explicite de l'image](../pages/images/nomdufichier.jpg)
+ * la déposer dans le dossier pages/images (vous pouvez faire un déposé dans le dossier en question)
+ * et incorporer dans votre article le code \!\[Titre explicite de l'image]\(../pages/images/nomdufichier.jpg)
  
 ## Tutoriels
 
@@ -32,14 +32,12 @@ pour écrire ou mettre un jour un article connectez vous et éditez le:
 
 ## Il s'agit d'un site ultra-adaptable et personnalisable
 
-* Si on part là dessus ce sera un jeu d'enfant pour les développeurs et UX designers de contribuer au projet
-* C'était la volonté de Cécile, Anton et Alyssa de découvrir ça
+* Si on part là dessus ce sera plus aisé pour les développeurs et UX designers de contribuer au projet
+* C'était la volonté de Cécile, Anton et Alyssa de découvrir ce type de technologie
 * Tout est accessible, modifiable et versé dans le domaine publique
 * Toutes les fiches ... peuvent déjà être visualisées depuis n'importe quel autre site web. Et si on modifie la fiche sur ce dossier github ça modifiera aussi la fiche telle que présentée sur le site web en question. A savoir que la fiche prendra la mise en page du site sur lequel elle apparaît. [Voici comment faire](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md)
 
 ## Credits
 
 * sauf mentions contraires tous les articles sont publiés selon les termes de la licence [Creative Commons 0 - Public Domain]. Vous êtes juridiquement libres de réutiliser et d'adapter tous les contenus selon votre volonté.
-
-
 
