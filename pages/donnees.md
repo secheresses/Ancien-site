@@ -17,7 +17,7 @@ Représenter les prévisions  des évolutions de températures jusqu'aux environ
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères. Comme ci dessous la moyenne du nombre de journées d'été (journées avec des températures supérieures à 25°C), par an, à différents horizons temporels. 
 
 ![Journées d'été](../pages/images/climatjourneesete.png)
-*Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5*
+*Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5 / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)*
 
 **Vous avez la possibilité de représenter les prévisions des données suivantes sur plusieurs horizons par mois, saisons, années**
 * Température moyenne - °C 
@@ -50,7 +50,7 @@ Représenter les estimations des évolutions des précipitations jusqu'aux envir
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères comme le *les anomalies de précipitations intenses en été* sur plusieurs horizons. Ce qui donne par exemple ceci: 
 
 ![Anomalies de precipitations](../pages/images/anomaliesprecipitationsete.png)
-*Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5*
+*Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
 > La carte ci dessus n'est pas évidente à lire mais nous donne des renseignements précieux. Dans l'horizon de référence (disons qu'il s'agissait de l'an 1990) on voit qu'il y a déjà dans le *sud de la métropole* des *précipitations intenses supérieures entre 80 et 85%* (en violet). Cala signifie que 80 à 85% des pluies y sont intenses. Dans l'horizon proche déjà on voit ce nombre de précipitations intenses augmenter avec une estimation de +10%. Autrement dit 90-95% des précipitations qui sont intenses. Pour la Bretagne où il pleut beaucoup en terme de *cumul* mais de manière régulière on part dans l'horizon de référence avec moins de 55% de précipitations intenses. Lorsqu'on regarde les anomalies il faut à chaque fois regarder d'où on part et comment ça évolue.
 
@@ -76,7 +76,7 @@ Représenter les estimations de la sécheresse des sols jusqu'aux environ 2070 -
 Le visualiseur du *Climsec-Drias* ([cliquez ici](http://drias-climat.fr/decouverte/carte/climsec/experience)) va vous permettre de représenter l'évolution de la sécheresse des sols nommée *Indicateur sècheresse d'humidité des sols (SSWI)*. Ce qui donne ceci pour avec le *scénario pessimiste* pour les *étés*:
 
 ![Sécheresses](../pages/images/anomaliessecheresses.png)
-*Sécheresse des sols en été* / *Climsec* / *Scénario dit "pessimiste A2"*
+*Sécheresse des sols en été* / *Climsec* / *Scénario dit "pessimiste A2"* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
 > Plus la couleur vire vers le rouge plus les sols seront *très secs* par rapport à en 1970. Si dans le *sud* de la métropole une partie de la zone reste en jaune dont en critère *normal* c'est il n'y a pas d'évolution de la sécheresse des sols. Ces sols étaient déjà considérés comme *très secs* en 1970. Un sol "très sec" ne veut pas non plus dire qu'il n'y a plus d'eau dans le sous-sol de la zone. On parle ici de sécheresse des sols de surface.
 
@@ -91,7 +91,7 @@ Représenter les estimations des risques de possibilité de feux de forêt - *m�
 * [voici une explication pour comprendre comment l'indice de risque est défini - par météo limoux](http://meteolimoux.fr/meteo%20feux%20de%20for%C3%AAt/index.html)
 
 ![Risque de feux](../pages/images/feudeforet.png)
-*Risques de possibilité de feux de forêt en été* / *Climsec* / *Scénario dit "pessimiste A2"*
+*Risques de possibilité de feux de forêt en été* / *Climsec* / *Scénario dit "pessimiste A2"* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
 # Données liées au sous-sol et eaux sous-terraines (nappes phréatiques, zones imperméables, ...) métropole & les outre-mer
 
