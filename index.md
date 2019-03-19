@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Changements climatiques
 ---
 
 À votre place nous aurions aimé avoir été prévenus en avance.
