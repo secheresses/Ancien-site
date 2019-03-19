@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Accès aux données climat, sous-sol, ...
-description: Les données que nous utilisons à ce jour.
+title: Accès aux données
+description: Les prévisions climatiques, du sous-sol, des impacts comme les feux de forêt, etc. que nous utilisons à ce jour pour les investigations
 permalink: /donnees
 ---
 
