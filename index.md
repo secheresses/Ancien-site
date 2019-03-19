@@ -7,11 +7,11 @@ title: Changements climatiques
 
 > L'eau potable semble être une ressource illimitée lorsqu'elle sort de nos robinets. Pourtant des municipalités de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries d'eau potable avec des ravitaillement par camion citerne comme c'est le cas dans le *Doubs*, dans le *Limousin*... 
 
-Le changement climatique amplifie les risques de pénuries en eau potable pour de nouvelles zones et l'aggrave pour les zones existantes. **Nous souhaitons rendre visible ces zones à risques** [Découvrez où nous en sommes!](../risques-penurie-eau)
+Le changement climatique amplifie les risques de pénuries en eau potable pour de nouvelles zones et l'aggrave pour les zones existantes. **Nous souhaitons rendre visible ces zones à risques.** [Découvrez où nous en sommes.](../risques-penurie-eau)
 
 # Les prochaines étapes / comment participer?
 
-> Les [les estimations du climat](../donnees), même lorsqu'elles existent, sont tellement difficilement compréhensibles qu'on du mal à les rendre concrètes. Nous avons décidé de comprendre ce que ces estimations sigifient en terme de zones à risques (*pénuries en eau potable*, l'*amplification des sécheresses*, des *tempêtes*, ...) et de le rendre visible aux citoyens. A savoir que pour nous les *citoyens* ce ne sont pas "juste" les habitants des zones, mais aussi des hopîtaux, des écoles, des maisons de retraite, etc. 
+> Les [estimations du climat à venir](../donnees), même lorsqu'elles existent, sont tellement difficilement compréhensibles qu'on du mal à comprendre ce que ça signifie *concrètement*. [Nous avons décidé de comprendre ce que ces estimations sigifient en terme de zones à risques (*pénuries en eau potable*, l'*amplification des sécheresses*, des *tempêtes*, ...) et de le rendre visible aux citoyens](../methode). A savoir que pour nous les *citoyens* ce ne sont pas "juste" les habitants des zones, mais aussi des hopîtaux, des écoles, des maisons de retraite, etc. 
 
 **La participation aux [explorations](../methode) est ouverte à tous et se fait sur différents territoires. Que diriez vous si l'on vous proposait de...**
 
@@ -25,6 +25,6 @@ Le changement climatique amplifie les risques de pénuries en eau potable pour d
 
 *Envie de faire connaissance, d'échanger ou de proposer quelque chose? Téléphonez à Thomas W. et c'est parti : 06 42 45 97 81*
 
-Au plaisir de faire connaissance,
+Au plaisir de vous rencontrer,
 
 *Cécile, Alyssa, Caroline, Thomas, Fanny, Anton, Camille, Marie-Gabrielle, Nicolas*
