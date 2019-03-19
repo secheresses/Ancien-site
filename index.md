@@ -19,7 +19,7 @@ Le changement climatique amplifie les risques de pénuries en eau potable pour d
 * Nous prêter votre local pour un évènement meetup, une session de travail
 * D'aller à la rencontre des citoyens déjà impactés pour les questionner
 * De questionner des experts scientifiques ou techniques et de rendre visible leurs réponses.
-* [De participer à vérifier la crédibilité et les incertitudes liées aux estimations](../donnees)
+* [De participer à vérifier la crédibilité / les incertitudes des données utilisées](../donnees)
 * [D'améliorer le site, les tutoriels](https://github.com/anticiper/anticiper.github.io)
 * [De lancer une exploration sur autre thématique que les pénuries en eau potable](../methode)
 
