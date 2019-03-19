@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accès aux données climat, sous-sol, ...
+description: Les données que nous utilisons à ce jour.
 permalink: /donnees
 ---
 
