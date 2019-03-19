@@ -11,18 +11,19 @@ Le changement climatique amplifie les risques de pénuries en eau potable pour d
 
 # Les prochaines étapes / comment participer?
 
-> On a beau faire ce qu'on veut les [les estimations du climat](../donnees) sont tellement difficilement compréhensibles qu'elles sont utilisables ... mais surtout par des spécialistes. A moins qu'on se retrousse les manches, qu'on essaye de comprendre ce qu'elles signifient et qu'on essaye de rendre visible aux citoyens les zones à risques (*pénuries en eau potable*, l'*amplification des sécheresses*, des *tempêtes*, ...). Pour nous les citoyens ce ne sont pas "juste" les habitants des zones, mais aussi des hopîtaux, des écoles, des maisons de retraite, etc qui y sont. 
+> Les [les estimations du climat](../donnees), même lorsqu'elles existent, sont tellement difficilement compréhensibles qu'on du mal à les rendre concrètes. Nous avons décidé de comprendre ce que ces estimations sigifient en terme de zones à risques (*pénuries en eau potable*, l'*amplification des sécheresses*, des *tempêtes*, ...) et de le rendre visible aux citoyens. A savoir que pour nous les *citoyens* ce ne sont pas "juste" les habitants des zones, mais aussi des hopîtaux, des écoles, des maisons de retraite, etc. 
 
-**La participation aux [explorations](../methode) est ouverte à tous et se fait sur différents territoires:**
+**La participation aux [explorations](../methode) est ouverte à tous et se fait sur différents territoires. Que diriez vous si l'on vous proposait de*
 
-* Aller à la rencontre des habitants impactés pour les questionner
-* Participer à un évènement meetup pour se former gratuitement à la lecture des cartes climatiques et réfléchir aux prochaines questions à poser aux experts pour faire avancer les explorations
-* Recevoir un évènement meetup, une session de travail, une présentation
-* Rencontrer les experts. [Voir où nous en sommes](../risques-penurie-eau)
-* [Vérifier la crédibilité et les incertitudes liées aux estimations](../donnees)
-* [Améliorer le site, les tutoriels](https://github.com/anticiper)
-* [Lancer une autre thématique que l'exploration des zones à risque pour les pénuries en eau potable](../methode)
-* Envie de faire connaissance, d'échanger ou de proposer quelque chose? Téléphonez à Thomas W. et c'est parti : 06 42 45 97 81
+* Participer à un évènement meetup pour vous former gratuitement à la lecture des cartes climatiques et aider à réfléchir aux prochaines questions à poser aux experts
+* Nous prêter votre local pour un évènement meetup, une session de travail
+* D'aller à la rencontre des citoyens déjà impactés pour les questionner
+* De rencontrer les experts. [Voir où nous en sommes](../risques-penurie-eau)
+* [De participer à vérifier la crédibilité et les incertitudes liées aux estimations](../donnees)
+* [D'méliorer le site, les tutoriels](https://github.com/anticiper)
+* [De lancer une autre thématique que les pénuries en eau potable](../methode)
+
+*Envie de faire connaissance, d'échanger ou de proposer quelque chose? Téléphonez à Thomas W. et c'est parti : 06 42 45 97 81*
 
 Au plaisir de faire connaissance,
 
