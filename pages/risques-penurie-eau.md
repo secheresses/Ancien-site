@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Où sont/seront les zones qui présentent un risque de pénurie d'eau potable?
+title: Zones à risque de pénurie en eau potable?
+description: Une investigation pour découvrir où seront, en métropole et dans les outre-mer, les zones les plus vulnérables face au risque de pénurie en eau potable.
 permalink: /risques-penurie-eau
 ---
 
