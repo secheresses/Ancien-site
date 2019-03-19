@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Le risque de pénurie en eau potable
+# Le risque de pénurie en eau potable
 
 > L'eau potable semble être une ressource illimitée lorsqu'elle sort de nos robinets. Pourtant, plusieurs zones de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries d'eau : le *Doubs*, le *Limousin*... avec notamment des ravitaillements par camion citerne.
 
@@ -12,7 +12,7 @@ Le changement climatique amplifie les risques de pénuries en eau potable pour d
 
 > On a beau faire ce qu'on veut les [les estimations du climat](../donnees) sont tellement difficilement compréhensibles qu'elles sont utilisables ... mais surtout par des spécialistes. A moins qu'on se retrousse les manches, qu'on essaye de comprendre ce qu'elles signifient et qu'on essaye de rendre visible aux citoyens les zones à risques (*pénuries en eau potable*, l'*amplification des sécheresses*, des *tempêtes*, ...). Pour nous les citoyens ce ne sont pas "juste" les habitants des zones, mais aussi des hopîtaux, des écoles, des maisons de retraite, etc qui y sont. 
 
-**La participation aux [explorations](../methode) est ouverte à tous et se fait sur différents territoires:
+**La participation aux [explorations](../methode) est ouverte à tous et se fait sur différents territoires:**
 
 * Aller à la rencontre des habitants impactés pour les questionner
 * Participer à un évènement meetup pour se former gratuitement à la lecture des cartes climatiques et réfléchir aux prochaines questions à poser aux experts pour faire avancer les explorations
