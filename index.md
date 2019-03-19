@@ -18,9 +18,9 @@ Le changement climatique amplifie les risques de pénuries en eau potable pour d
 * Participer à un évènement meetup pour vous former gratuitement à la lecture des cartes climatiques et aider à réfléchir aux prochaines questions à poser aux experts
 * Nous prêter votre local pour un évènement meetup, une session de travail
 * D'aller à la rencontre des citoyens déjà impactés pour les questionner
-* De rencontrer les experts. [Voir où nous en sommes](../risques-penurie-eau)
+* De questionner des experts scientifiques ou techniques et de rendre visible leurs réponses.
 * [De participer à vérifier la crédibilité et les incertitudes liées aux estimations](../donnees)
-* [D'méliorer le site, les tutoriels](https://github.com/anticiper)
+* [D'améliorer le site, les tutoriels](https://github.com/anticiper/anticiper.github.io)
 * [De lancer une autre thématique que les pénuries en eau potable](../methode)
 
 *Envie de faire connaissance, d'échanger ou de proposer quelque chose? Téléphonez à Thomas W. et c'est parti : 06 42 45 97 81*
