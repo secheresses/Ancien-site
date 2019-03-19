@@ -4,13 +4,13 @@ layout: default
 
 À votre place nous aurions aimé avoir été prévenus en avance.
 
-Nous sommes des citoyens qui avons à cœur la **protection des populations** vis-à-vis des **risques amplifiés par le changement climatique** qui attaqueront nos **conditions d'existence** au cours des **trois prochaines décennies**.
+Nous sommes des citoyens ayant à cœur la **protection des populations** vis-à-vis des **risques amplifiés par le changement climatique** qui attaqueront nos **conditions d'existence** au cours des **trois prochaines décennies**.
 
-Nous relayons & travaillons notamment à rendre compréhensibles, concrètes des données existantes qui ont été produites par des organismes publics français et internationaux : *Météo France*, les *acteurs publics de l'eau*, le *GIEC*, l'*État*, etc. Nous trouvons que ces données scientifiques sont difficilement compréhensibles dans le sens où elles ne nous permettent en tant que non-scientifiques de savoir où auront lieu les zones métropolitaines & outre-mer les plus à risque en terme de *pénuries d'eau potable*, *amplification des sécheresses agricoles*, *extrêmes climatiques*, etc.
+Nous relayons & travaillons notamment à rendre compréhensibles, concrètes des données existantes qui ont été produites par des organismes publics français et internationaux : *Météo France*, les *acteurs publics de l'eau*, le *GIEC*, l'*État*, etc. Nous trouvons que ces données scientifiques sont difficilement compréhensibles dans le sens où elles ne nous permettent pas en tant que non-scientifiques de savoir où auront lieu les zones métropolitaines & outre-mer les plus à risque en terme de *pénuries d'eau potable*, *amplification des sécheresses agricoles*, *extrêmes climatiques*, etc.
 
-## Notre première exploration
+## Le risque de pénurie en eau potable
 
-> Rendre visible les zones risquant des pénurie d'eau potable (métropole + outre-mer). Le risque de pénurie d'eau potable étant amplifié par les dérèglements climatiques.
+> L'eau semble être une ressource illimité lorsqu'elle sort de nos robinets. Pourtant, plusieurs zones de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries ou des restrictions d'eau : le Jura, le Limousin, le Haut-Doubt ... Le changement climatique amplifie ces risques. Les régions alertent des pénuries en temps réel, mais ne permettent pas de les anticiper. Rendons visibles les zones risquant des pénurie d'eau potable (métropole + outre-mer) ! x personnes ont déjà contribué à cette exploration. Voici où nous en sommes. 
 
 ## Nous produirons
 
