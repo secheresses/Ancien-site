@@ -25,6 +25,7 @@ Si oui réfléchir :
 
 ## Créer des supports accessibles
 7 - Créer avec des UXdesigners ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des données complexes) un protoype et le présenter à la population déjà concernée. Leur demander leurs retours. Comprennent-ils ces informations? Répondent-elles aux questions qu’ils se posent ? 
+
 8 - Fournir ces retours d’entretiens aux UXdesigners, ce qui leur permettra d’améliorer le prototype. Leur doner les contacts des personnes interviewées pour qu’ils puissent leur présenter le nouveau support.
 
 ## Diffuser l'information
