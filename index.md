@@ -10,7 +10,9 @@ Nous relayons & travaillons notamment à rendre compréhensibles, concrètes des
 
 ## Le risque de pénurie en eau potable
 
-> L'eau semble être une ressource illimité lorsqu'elle sort de nos robinets. Pourtant, plusieurs zones de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries ou des restrictions d'eau : le Jura, le Limousin, le Haut-Doubt ... Le changement climatique amplifie ces risques. Les régions alertent des pénuries en temps réel, mais ne permettent pas de les anticiper. Rendons visibles les zones risquant des pénurie d'eau potable (métropole + outre-mer) ! x personnes ont déjà contribué à cette exploration. Voici où nous en sommes. 
+> L'eau semble être une ressource illimité lorsqu'elle sort de nos robinets. Pourtant, plusieurs zones de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries ou des restrictions d'eau : le Jura, le Limousin, le Haut-Doubt ... Le changement climatique amplifie ces risques. Les régions alertent des pénuries en temps réel, mais ne permettent pas de les anticiper. 
+
+Rendons visibles les zones risquant des pénurie d'eau potable (métropole + outre-mer) ! x personnes ont déjà contribué à cette exploration. Voici où nous en sommes. 
 
 ## Nous produirons
 
