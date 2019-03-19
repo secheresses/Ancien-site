@@ -1,4 +1,4 @@
----
+Vo---
 layout: default
 title: Changements climatiques
 ---
@@ -9,17 +9,16 @@ title: Changements climatiques
 
 Le changement climatique amplifie les zones à risques de pénuries en eau potable et l'aggrave pour les zones existantes. **Nous souhaitons rendre visible ces zones à risques.** [Découvrez où nous en sommes.](../risques-penurie-eau)
 
-# Les prochaines étapes / comment participer?
+# Comment participer aux prochaines étapes ?
 
-> Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont tellement difficilement interprétables qu'on du mal à comprendre **à quel point on doit s'inquiéter**, **ce que ça signifie concrètement** et **si elles sont fiables**. [Nous avons décidé de commencer ce travail qui ira jusqu'à essayer de rendre visible aux citoyens des zones à risques (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...)](../methode). Lorsque nous pensons aux *citoyens* ce ne sont pas *juste* aux habitants des zones auxquels nous pensons. Mais aussi aux hopîtaux, aux maisons de retraite, ...
+> Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont difficiles à interprêter. Comment savoir **à quel point on doit s'inquiéter** ? **Ce que ça signifie concrètement** ? **si les données sont fiables** ? Nous avons commencé cette exploration et tentons de rendre visible aux citoyens des [zones à risques (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...)](../methode). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, ...
 
 **Que diriez vous si l'on vous proposait de...**
 
-* Participer à un évènement meetup pour vous former gratuitement à la lecture des cartes climatiques et aider à réfléchir aux prochaines questions à poser aux experts
-* Nous prêter votre local pour un évènement meetup, une session de travail
-* D'aller à la rencontre des citoyens déjà impactés pour les questionner
+* Vous former gratuitement à la lecture des cartes climatiques lors d'un évènement meetup 
+* De rencontrer des citoyens impactés par des pénuries
 * De questionner des experts scientifiques ou techniques et de rendre visible leurs réponses.
-* [De participer à vérifier la crédibilité / les incertitudes des données utilisées](../donnees)
+* [De participer à la vérification de la crédibilité / des incertitudes des données utilisées](../donnees)
 * [D'améliorer le site, les tutoriels](https://github.com/anticiper/anticiper.github.io)
 * [De lancer une exploration sur autre thématique que les pénuries en eau potable](../methode)
 
