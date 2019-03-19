@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zones à risque de pénurie en eau potable?
+title: Pénuries en eau potable?
 description: Découvrir où seront en <strong>métropole</strong> et dans les <strong>outre-mer</strong> les zones risquant des pénuries en eau potable.
 permalink: /risques-penurie-eau
 ---
