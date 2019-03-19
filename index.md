@@ -11,9 +11,9 @@ Le changement climatique amplifie les risques de pénuries en eau potable pour d
 
 # Les prochaines étapes / comment participer?
 
-> Les [estimations du climat à venir](../donnees), même lorsqu'elles existent, sont tellement difficilement compréhensibles qu'on du mal à comprendre ce que ça signifie *concrètement*. [Nous avons décidé de comprendre ce que ces estimations sigifient en terme de zones à risques (*pénuries en eau potable*, l'*amplification des sécheresses*, des *tempêtes*, ...) et de le rendre visible aux citoyens](../methode). A savoir que pour nous les *citoyens* ce ne sont pas "juste" les habitants des zones, mais aussi des hopîtaux, des écoles, des maisons de retraite, etc. 
+> Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont tellement difficilement interprétables qu'on du mal à comprendre **à quel point on doit s'inquiéter**, **ce que ça signifie concrètement** et **si elles sont fiables**. [Nous avons décidé de commencer ce travail qui ira jusqu'à essayer de rendre visible aux citoyens des zones à risques (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...)](../methode). Lorsque nous pensons aux *citoyens* ce ne sont pas *juste* aux habitants des zones auxquels nous pensons. Mais aussi aux hopîtaux, aux maisons de retraite, ...
 
-**La participation aux explorations est ouverte à tous et se fait sur différents territoires. Que diriez vous si l'on vous proposait de...**
+**Que diriez vous si l'on vous proposait de...**
 
 * Participer à un évènement meetup pour vous former gratuitement à la lecture des cartes climatiques et aider à réfléchir aux prochaines questions à poser aux experts
 * Nous prêter votre local pour un évènement meetup, une session de travail
