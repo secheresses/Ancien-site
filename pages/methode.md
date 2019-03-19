@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Méthode d'investigation
-description: Un descriptif de la méthode d'investigation pour anticiper les zones à risque / version 1 - mars 2019
+title: Méthode d'investigation collaborative
+description: Un descriptif de la méthode d'investigation pour anticiper ensemble les zones à risque 
 permalink: /methode
 ---
 
 *Cécile je veux bien incorporer la photo ici: soit tu peux le faire direct soit me la filer*
+
+# La méthode version 1 - mars 2019
 
 > Cette méthode a été designée du 5 au 7 mars 2019 dans un corps de ferme récupéré par *Caroline* et *Thomas*. Étaient aussi présents *Marie-Gabrielle*, *Camille*, *Anton*, *Cécile*, *Fanny* (& *Thomas P* et *Noémie G.* et *Caroline P.* en observateurs).
 
