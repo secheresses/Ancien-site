@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Méthode d'investigation
+description: Un descriptif de la méthode d'investigation pour anticiper les zones à risque / version 1 - mars 2019
 permalink: /methode
 ---
-
-# La méthode d'investigation version 1 - mars 2019
 
 *Cécile je veux bien incorporer la photo ici: soit tu peux le faire direct soit me la filer*
 
