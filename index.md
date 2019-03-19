@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Changements climatiques
 ---
 
-# Le risque de pénurie en eau potable
+# Les risques de pénuries en eau potable
 
-> L'eau potable semble être une ressource illimitée lorsqu'elle sort de nos robinets. Pourtant, plusieurs zones de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries d'eau : le *Doubs*, le *Limousin*... avec notamment des ravitaillements par camion citerne.
+> L'eau potable semble être une ressource illimitée lorsqu'elle sort de nos robinets. Pourtant des municipalités de France métropolitaine et d'Outre-mer connaissent actuellement des pénuries d'eau potable avec des ravitaillement par camion citerne comme c'est le cas dans le *Doubs*, dans le *Limousin*... 
 
 Le changement climatique amplifie les risques de pénuries en eau potable pour de nouvelles zones et l'aggrave pour les zones existantes. **Nous souhaitons rendre visible ces zones à risques** [Découvrez où nous en sommes!](../risques-penurie-eau)
 
