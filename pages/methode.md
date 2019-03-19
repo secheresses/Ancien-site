@@ -7,19 +7,30 @@ permalink: /methode
 
 *Cécile je veux bien incorporer la photo ici: soit tu peux le faire direct soit me la filer*
 
-# La méthode version 1 - mars 2019
+# Comment diffuser des connaissances scientifiques sur des risques climatiques ? 
 
-> Cette méthode a été designée du 5 au 7 mars 2019 dans un corps de ferme récupéré par *Caroline* et *Thomas*. Étaient aussi présents *Marie-Gabrielle*, *Camille*, *Anton*, *Cécile*, *Fanny* (& *Thomas P* et *Noémie G.* et *Caroline P.* en observateurs).
+> Cette méthode a été définie du 5 au 7 mars 2019 chez *Caroline* et *Thomas*. Étaient aussi présents *Marie-Gabrielle*, *Camille*, *Anton*, *Cécile*, *Fanny* (& *Thomas P*, *Noémie G.*, *Caroline P.* en observateurs).
 
-1. Réfléchir, seul ou à plusieurs, sur une problématique: pénuries d'eau potable, sécheresses, montée des eaux et le faire savoir aux autres pour qu'on essaye 
-2. Aller, seul ou à plusieurs, à la rencontre de celles et ceux qui rencontrent déjà la problématique pour les écouter, les questionner. En s'engageant à ne leur parler d'aucune solution mais d'apprendre de leur quotidien, de ce que ça représente pour eux, etc. 
-3. Réunir un groupe mixte de travail et restituer ce qu'on a appris jusqu'à là. Faire le choix où non de se lancer sur la thématique. Se poser la question des critères comme par exemple: *"Quels sont les critères qui lorsqu'ils sont réunisnous permettraient d'être sûrs qu'une zone risque de subir des pénuries d'eau potable. Des villages qui dépendent de petites sources + présence de roches impérméable + beaucoup de jours d'eau sans pluie? Comment fait-on pour le savoir?"*. Lister des questions pour les *experts*
-4. Consulter des *experts* (hydrogéologues, climatologues, etc.) sur notre définition des critères: que doit-on découvrir? Que ne comprenons-nous pas? Toutes les réponses aux questions sont enregistrées de manière à ce que l'investigation soit publique.
-5. Réunir un groupe mixte de travail et restituer ce qu'on a appris jusqu'à là. Comprendre et décider des critères retenus. Faire une recherche des jeux de données publics permettant de visualiser les zones.
-6. Questionner les *experts* sur la validité des jeux de données et rendre visible les incertitudes liées aux jeux de données
-7. Créer avec les *UXdesigners* (ou celles et ceux qui savent rendre compréhensibles des données complexes) un protoype et le présenter à la population déjà concernée pour leur demander leur retour, les questionner
-8. Fournir ces réponses aux *UXdesigners* et leur permettre de concevoir une conception. Leur fournir les contacts des personnes interviewées pour qu'ils puissent tester leurs conceptions. 
-9. Lorsque le prototype validé est prêt réunir un groupe de travail pour diffuser l'information et inviter sa réutilisation.
+## Comprendre
+1. Choisir une problématique (monté des eaux, ….) et le faire savoir
+2. Aller à la **rencontre** de ceux qui vivent actuellement le problème. Les écouter et les questionner sur leur quotidien (ne proposez pas de solution). 
+3. Réunir un **groupe de travail mixte** (plusieurs spécialités, personnalités…) et leur présenter ce que l’on a appris. Se lance t-on dans cette thématique ? 
+Si oui réfléchir : 
+-  aux **facteurs de risque** / aux **critères réunis permettant d’affirmer qu’une zone présente un risque**. Ex : *Comment savoir qu’une zone peut risquer des pénuries en eau : la présence de roches imperméables ? Un nombre important de jours sans pluie ? … *
+- aux **sources d’informations** 
+- lister des **questions** pour des experts
+4. Consulter des **experts** (hydrogéologues, climatologues, etc.) . Toujours questionner sur ce que l’on ne comprend pas et rester ouvert à la découverte de nouveaux paramètres. Toutes les réponses aux questions sont **enregistrées** de manière à ce que l’investigation soit publique.
+5. Réunir de nouveau un groupe de travail mixte et leur présenter les avancées.  Comprendre ensemble les critères et décider de ceux que l’on retient.  C’est un compromis entre justesse et accessibilité. Faire une recherche des jeux de données publics permettant de visualiser les zones.
+6. Questionner les experts sur la validité des jeux de données et rendre visible leurs incertitudes.
+
+## Créer des supports accessibles
+7 - Créer avec des UXdesigners ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des données complexes) un protoype et le présenter à la population déjà concernée. Leur demander leurs retours. Comprennent-ils ces informations? Répondent-elles aux questions qu’ils se posent ? 
+8 - Fournir ces retours d’entretiens aux UXdesigners, ce qui leur permettra d’améliorer le prototype. Leur doner les contacts des personnes interviewées pour qu’ils puissent leur présenter le nouveau support.
+
+## Diffuser l'information
+9 - Lorsque les UX designers ont validé le prototype, réunir un groupe de travail pour diffuser l’information et inviter à sa réutilisation.
+
+
 
 La contribution des institutions (syndicats de bassins versants, DREALs, etc.) est plus que bienvenue si le fond de cette approche est respectée.
 
