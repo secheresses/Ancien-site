@@ -19,7 +19,7 @@ Si oui réfléchir :
 -  aux **facteurs de risque** / aux **critères réunis permettant d’affirmer qu’une zone présente un risque**. Ex : *Comment savoir qu’une zone peut risquer des pénuries en eau : la présence de roches imperméables ? Un nombre important de jours sans pluie ? … *
 - aux **sources d’informations** 
 - lister des **questions** pour des experts
-4. Consulter des **experts** (hydrogéologues, climatologues, etc.) . Toujours questionner sur ce que l’on ne comprend pas et rester ouvert à la découverte de nouveaux paramètres. Toutes les réponses aux questions sont **enregistrées** de manière à ce que l’investigation soit publique.
+4. Consulter des **experts** (hydrogéologues, climatologues, etc.) . Toujours questionner sur ce que l’on ne comprend pas et rester ouvert à la découverte de nouveaux paramètres. Si possible les réponses aux questions sont enregistrées et publiées sur ce site de manière à ce que l’investigation soit publique.
 5. Réunir de nouveau un groupe de travail mixte et leur présenter les avancées.  Comprendre ensemble les critères et décider de ceux que l’on retient.  C’est un compromis entre justesse et accessibilité. Faire une recherche des jeux de données publics permettant de visualiser les zones.
 6. Questionner les experts sur la validité des jeux de données et rendre visible leurs incertitudes.
 
@@ -31,8 +31,7 @@ Si oui réfléchir :
 9 - Lorsque les UX designers ont validé le prototype, réunir un groupe de travail pour diffuser l’information et inviter à sa réutilisation.
 
 
-
-La contribution des institutions (syndicats de bassins versants, DREALs, etc.) est plus que bienvenue si le fond de cette approche est respectée.
+La contribution des institutions (syndicats de bassins versants, Départements, Régions, DDTS, DREALs, etc.) est plus que bienvenue si le fond de cette approche est respectée.
 
 # Vision 
 
