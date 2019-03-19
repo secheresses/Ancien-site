@@ -5,7 +5,7 @@ description: Découvrir où seront en <strong>métropole</strong> et dans les <s
 permalink: /risques-penurie-eau
 ---
 
-Nous en sommes à l'étape 4 de notre [méthode d'investigation](../methode) où nous vérifions nos hypothèses auprès d'experts du domaine. *Camille* a déjà demandé à un *climatologue expert dans l'eau* s'il serait disponible pour répondre à nos questions et il a répondu que oui avec plaisir. *Thomas W* part se former dans le Jura avec le docteur en hydrogéologie *Guy Faure* le 8 et 9 avril 2019 afin de lui poser nos questions. 
+Nous en sommes à l'étape 4 de notre [méthode d'investigation](../methode) où nous vérifions nos hypothèses auprès d'experts du domaine. *Camille* a déjà demandé à un *climatologue du GIEC* s'il serait disponible pour répondre à nos questions et il a répondu que oui avec plaisir. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019 afin de lui poser nos questions. 
 
 Rappel de l'étape 3
 ---
