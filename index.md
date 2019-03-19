@@ -12,7 +12,7 @@ Le changement climatique amplifie les zones à risques de pénuries en eau potab
 
 # Comment participer aux prochaines étapes ?
 
-> Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont difficiles à interprêter. Comment savoir **à quel point on doit s'inquiéter** ? **Ce que ça signifie concrètement** ? **Si les données sont fiables** ? Nous avons commencé cette exploration et tentons de rendre visible aux citoyens des [zones à risques (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...)](../methode). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, ...
+> Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont difficiles à interprêter. Comment savoir **à quel point on doit s'inquiéter** ? **Ce que ça signifie concrètement** ? **Si les données sont fiables** ? Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...)](../methode). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, ...
 
 **Que diriez vous si l'on vous proposait de...**
 
