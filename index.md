@@ -3,13 +3,15 @@ layout: default
 title: Comprendre sans attendre 
 ---
 
-Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter** ? **Les conséquences concrètes** ?
+Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter** ? **Les conséquences concrètes** ?
 
-Face aux risques présents en France (pénuries d’eau, submersibilité …), nous citoyens, souhaitons rendre compréhensibles ces données pour chacun.
+ Il existe pourtant des risques en France : pénuries d’eau, submersibilité … 
+ Nous citoyens, souhaitons relayer et rendre compréhensibles les données scientifiques pour chacun.
 
 # Les risques de pénuries en eau potable
 
-Aujourd’hui, nous nous inquiètons pour l’accès à l’eau potable. Elle paraît illimité en sortant du robinet ? Pourtant, il existe déjà des pénuries d'eau dans le *Doubs*, ravitaillé cet été par camion citerne, et des restrictions dans bien d'autres régions. Le changement climatique amplifie les risques de pénurie et aggrave les existantes. **Nous souhaitons rendre visibles les zones à risque.  Prenez part à notre exploration sur les [pénuries d'eau potable](../risques-penurie-eau)**
+Aujourd’hui, nous nous inquiètons pour l’accès à l’eau potable. Elle paraît illimité en sortant du robinet ? Pourtant, il existe déjà des pénuries d'eau dans le *Doubs*, ravitaillé cet été par camion citerne, et des restrictions dans d'autres régions. Le changement climatique amplifie les risques de pénurie et aggrave les existantes.
+**Nous souhaitons rendre visibles les zones à risque.**  Prenez part à notre exploration sur les [pénuries d'eau potable](../risques-penurie-eau).
 
 # Pourquoi des citoyens font ce travail ? 
 
