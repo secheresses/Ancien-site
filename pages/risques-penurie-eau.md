@@ -69,6 +69,7 @@ Les entretiens ont été réalisés *par Thomas W* avec 7 maires.
 ## Craintes et moyens d'information
 > "On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir. Quand on voit le manque d’eau qu’on a déjà : cette année 2 mois sans pluie, ça nous inquiète"
 **7/7 partagent cette crainte** 
+
 *Vers qui se tournent-t-ils ? :* 
 
 La plupart sont en attente de réponses des pouvoirs publics  :
