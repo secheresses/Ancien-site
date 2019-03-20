@@ -8,8 +8,9 @@ permalink: /risques-penurie-eau
 Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (4.). 
 >*Camille* a obtenu l'accord d'un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019.
 
-# Quel est le problème ? 
-> Comprendre : 1.
+# Des pénuries d'eau portable ?  
+> 1.
+
 En explorant les cartes climatiques, *Thomas W* a eu un doûte sur notre sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
 Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
@@ -17,7 +18,8 @@ Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu d
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
 # Rencontres avec des habitants concernés par des pénuries 
-> Comprendre : 2.
+> 2.
+
 Nous sommes allés discuter, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants rencontrés en live et/ou échanges téléphoniques. Ont connu ces 2 dernières années:
 
 - des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture  7/7
@@ -29,7 +31,8 @@ Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement
 En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
 
 # Hypothèses du groupe de travail
->Comprendre 3. 
+> 3. 
+
 >Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
 Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
 
