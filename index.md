@@ -14,12 +14,11 @@ Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles
 
 Le changement climatique amplifie les risques de pénurie et aggrave les existantes. **Nous souhaitons rendre visibles les zones à risque.**  Prenez part à notre exploration sur les [pénuries d'eau potable](../risques-penurie-eau).
 
-# Pourquoi des citoyens font ce travail ? 
+# Pourquoi des citoyens font-ils ce travail ? 
 
-Les données climatiques sont très complexes et les **niveaux d'incertitudes élevés** (des débats scientifiques ont lieu aujourd'hui même). Il est délicat pour les pouvoirs publics d'annoncer un risque sans connaître le niveau de ce risque.
-De plus, il manque pour les chercheurs français des **paramètres locaux** (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats.
+> Nous pensons qu'il vaut mieux que chacun puisse se saisir de manière concrète des connaissances scientifiques (en présentant les imperfections qu'elles présentent) plutôt que d'attendre que des catastrophes arrivent.
 
-Par précaution, nous pensons qu'il vaut mieux que chacun se saisissent des connaissances scientifiques, avec toutes les imperfections qu'elles présentent. 
+Les données climatiques sont très complexes. Il est délicat pour les pouvoirs publics d'annoncer un risque sans connaître le niveau de ce risque. De plus il manque pour les chercheurs français des **paramètres locaux** (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats.
 
 # Comment participer aux prochaines étapes ?
 
