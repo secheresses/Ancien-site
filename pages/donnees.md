@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Données brutes
-description: Données brutes à exploiter: prévisions climatiques, sous-sol, feux de forêt, sécheresse, submersibilité, ...
+description: Données brutes à exploiter comme les prévisions climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
 permalink: /donnees
 ---
 
