@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Accès aux données
-description: Les prévisions climatiques, du sous-sol, des impacts comme les feux de forêt, etc. que nous utilisons à ce jour pour les investigations
+title: Données brutes
+description: Données brutes à exploiter: prévisions climatiques, sous-sol, feux de forêt, sécheresse, submersibilité, ...
 permalink: /donnees
 ---
 
