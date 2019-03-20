@@ -1,18 +1,20 @@
 ---
 layout: default
-title: Changements climatiques
+title: Comprendre sans attendre 
 ---
 
+Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter** ? **Les conséquences concrètes** ? **La fiabilité des données** ? 
+
+Face aux risques présents en France (pénuries d’eau, submersibilité …), nous citoyens, souhaitons rendre compréhensibles ces données pour chacun.
 
 # Les risques de pénuries en eau potable
 
-> L'eau potable semble être une ressource illimitée lorsqu'elle sort de nos robinets. Pourtant des municipalités de France métropolitaine et d'Outre-mer connaissent actuellement des [pénuries d'eau potable](../risques-penurie-eau) avec notamment des ravitaillements par camion citerne comme c'est le cas dans le *Doubs*, dans le *Limousin*... 
+Aujourd’hui, nous nous inquiètons pour l’accès à l’eau potable. Elle vous paraît illimité ? Pourtant le changement climatique amplifie les risques de pénurie. Il aggrave celles qui existent déjà dans le *Limousin* ou le *Doubs*, ravitaillé cet été par camion citerne. **Nous souhaitons rendre visibles les zones à risque.  Prenez part à notre exploration sur les [pénuries d'eau potable](../risques-penurie-eau)**
 
-Le changement climatique amplifie les zones à risques de pénuries en eau potable et l'aggrave pour les zones existantes. **Nous souhaitons rendre visible ces zones à risques.** [Découvrez où nous en sommes.](../risques-penurie-eau)
 
 # Comment participer aux prochaines étapes ?
 
-> Les [estimations du climat à venir](../donnees) ont beau être publiques, elles sont difficiles à interprêter. Comment savoir **à quel point on doit s'inquiéter** ? **Ce que ça signifie concrètement** ? **Si les données sont fiables** ? Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques](../methode) (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, ...
+>  Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques](../methode) (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, ...
 
 **Que diriez vous si l'on vous proposait de...**
 
