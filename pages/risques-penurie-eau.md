@@ -5,41 +5,18 @@ description: Découvrir où seront en <strong>métropole</strong> et dans les <s
 permalink: /risques-penurie-eau
 ---
 
-Nous en sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (4.). 
+Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (4.). 
 >*Camille* a obtenu l'accord d'un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019.
 
-# Hypothèses formulées par le groupe de travail (3.) 
----
+# Quel est le problème (1.) ? 
 
-Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
-Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
+En explorant les cartes climatiques, *Thomas W* a eu un doûte sur notre sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
-** Critères pour localiser les municipalités risquant des pénuries d'eau potable   **
-
-* Les municipalités sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) OU des grands ensembles de roches calcaires (voir [données](../donnees)) 
-* il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees))
-* elles ont une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...)
-
-**Conséquence d'une sécheresse**
-* le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi, les sécheresses de l'été semblent mener aux pénuries en automne.
-
-Tout ces éléments sont des hypothèses que nous allons vérifier auprès d'experts. 
-
-**Le type d'exemples qui nous ont interpellé**
-
-Comme les plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) qui ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
+Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*)qui ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
 
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
-**Nos questionnements**
-
-Une liste de questions pour les climatologues et hydrogéologues est posée. La plupart de ces questions sont spécifiques. Pour les milieux calcaires on se demande par exemple des questions sur la *recharge* des nappes phréatiques. Pour les roches imperméables on se questionne comment se forment les *sources* sur les zones. On se questionne aussi sur l'influence de *précipitations intenses* vs des *précipitations régulières*. 
-
-On décide que tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts* on continuera à poser des questions. Lorsque ce sera clair on publiera les questions - réponses.
-
-
-Rappel de l'étape 2
----
+# Rencontres avec des habitants concernés par des pénuries (2.) 
 
 Nous sommes allés discuter, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants rencontrés en live et/ou échanges téléphoniques. Ont connu ces 2 dernières années:
 
@@ -47,6 +24,41 @@ Nous sommes allés discuter, par téléphone où en live, avec 7 maires de commu
 - des problèmes d’impossibilité de boire l’eau du robinet  4/7
 - un ravitaillement d’eau potable 1/7
 
+En bas de la page, retrouvez plus de détails sur leur ressentis et leur connaissance du probléme. 
+
+# Hypothèses du groupe de travail (3.) 
+---
+>Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
+Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
+
+**Critères pour localiser les municipalités risquant des pénuries d'eau potable**
+
+* Les municipalités sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) OU des grands ensembles de roches calcaires (voir [données](../donnees)) 
+* il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees))
+* elles ont une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...)
+
+**Conséquence d'une sécheresse**
+
+* le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi, les sécheresses de l'été semblent mener aux pénuries en automne.
+
+**Sources d'informations**
+
+* MétéoFrance
+* DRIAS Climat
+* BDLisa
+* Rapport Acclimaterra
+
+**Nos questionnements**
+
+* Comment se "rechargent" les nappes phréatiques sur de milieux calcaires?
+* Comment se forment les *sources* sur les zones ayant des roches imperméables ? 
+* Quelle différence d'influence entre des *précipitations intenses* et des *précipitations régulières* ? 
+
+Tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts*, on continuera à poser des questions ;) 
+
+
+#Entretiens avec les populations concernées
+---
 Ce qu'ils nous ont raconté: 
 
 **I: On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir et quand on voit le manque d’eau qu’on a déjà (“cette année 2 mois sans pluie”) ça nous inquiète 7/7**
@@ -65,8 +77,3 @@ Ce qu'ils nous ont raconté:
 
 **III: Crainte de se retrouver "isolés" 4/4**
 
-
-Rappel de l'étape 1
----
-
-C'est quand *Thomas W* qui explorait les cartes climatiques a eu a un doute sur la possibilité de pénuries d'eau potable et est tombé sur la carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes). 
