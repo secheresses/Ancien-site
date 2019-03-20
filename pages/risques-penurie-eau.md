@@ -13,18 +13,18 @@ Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../meth
 
 En explorant les cartes climatiques, *Thomas W* a eu un doûte sur notre sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
-Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
+Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements.
+
+**Carte des pénuries d'eau potable dans le Doubs au 23 octobre 2018**
 
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
+
+*Source : préfecture du Doubs*
 
 # Rencontres avec des habitants concernés par des pénuries 
 > cf [méthode](../methode) 2. Aller à la rencontre
 
-Nous sommes allés discuter, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants rencontrés en live et/ou échanges téléphoniques. Ont connu ces 2 dernières années:
-
-- des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture  7/7
-- des problèmes d’impossibilité de boire l’eau du robinet  4/7
-- un ravitaillement d’eau potable 1/7
+Nous avons discuté, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants, répartis en France métropolitaine. Tous ont connu des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture. Un a été contraint au ravitaillement en eau potable.
 
 Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement. Il est difficile de faire reconnaître l'état de catastrophe naturelle (utile pour des dédommagements) et cherchent des alternatives par eux-même. 
 
