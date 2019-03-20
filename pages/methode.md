@@ -25,10 +25,10 @@ Si oui réfléchir :
 
 5. Réunir de nouveau un groupe de travail mixte et leur présenter les avancées.  Comprendre ensemble les critères et décider de ceux que l’on retient : c’est un compromis entre justesse et accessibilité. 
 
-6. Faire une recherche des jeux de données publics permettant de visualiser les zone et questionner les experts sur leur validité. Rendre visibles leurs incertitudes.
+6. Faire une recherche des jeux de [données](../donnees) publics permettant de visualiser les zone et questionner les experts sur leur validité. Rendre visibles leurs incertitudes.
 
 ## Créer des supports accessibles
-7. Créer avec des UXdesigners ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des données complexes) un protoype.
+7. Créer avec des UXdesigners ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des [données](../donnees) complexes) un protoype.
 
 8. Le présenter à la population déjà concernée et leur demander leurs retours. Comprennent-ils ces informations? Répondent-elles aux questions qu’ils se posent ? 
 
