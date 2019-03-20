@@ -12,7 +12,7 @@ Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../meth
 
 En explorant les cartes climatiques, *Thomas W* a eu un doûte sur notre sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
-Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*)qui ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
+Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements. 
 
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
@@ -24,10 +24,10 @@ Nous sommes allés discuter, par téléphone où en live, avec 7 maires de commu
 - des problèmes d’impossibilité de boire l’eau du robinet  4/7
 - un ravitaillement d’eau potable 1/7
 
-En bas de la page, retrouvez plus de détails sur leur ressentis et leur connaissance du probléme. 
+En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
 
 # Hypothèses du groupe de travail (3.) 
----
+
 >Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
 Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
 
@@ -57,9 +57,8 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 Tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts*, on continuera à poser des questions ;) 
 
 
-#Entretiens avec les populations concernées
+# Entretiens avec les populations concernées
 ---
-Ce qu'ils nous ont raconté: 
 
 **I: On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir et quand on voit le manque d’eau qu’on a déjà (“cette année 2 mois sans pluie”) ça nous inquiète 7/7**
 
