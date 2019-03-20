@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Comprendre sans attendre 
+title: Changements climatiques
 ---
 
 Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter** ? **Les conséquences concrètes** ?
 
  Il existe pourtant des risques en France : pénuries d’eau, submersibilité … 
- Nous citoyens, souhaitons relayer et rendre compréhensibles les données scientifiques pour chacun.
+ Nous souhaitons essayer de relayer et rendre compréhensibles les données scientifiques pour chacun.
 
 # Les risques de pénuries en eau potable
 
