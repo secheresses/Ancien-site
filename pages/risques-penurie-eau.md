@@ -9,7 +9,7 @@ Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../meth
 >*Camille* a obtenu l'accord d'un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019.
 
 # Des pénuries d'eau potable ?  
-> cf 1. Choisir une problématique
+> cf [méthode](../methode) 1. Choisir une problématique
 
 En explorant les cartes climatiques, *Thomas W* a eu un doûte sur notre sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
@@ -18,7 +18,7 @@ Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu d
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
 # Rencontres avec des habitants concernés par des pénuries 
-> cf 2. Aller à la rencontre
+> cf [méthode](../methode) 2. Aller à la rencontre
 
 Nous sommes allés discuter, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants rencontrés en live et/ou échanges téléphoniques. Ont connu ces 2 dernières années:
 
@@ -31,7 +31,7 @@ Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement
 En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
 
 # Hypothèses du groupe de travail
-> cf 3. Réunir un groupe de travail mixte
+> cf [méthode](../methode) 3. Réunir un groupe de travail mixte
 
 >Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
 Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
@@ -44,7 +44,7 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 ## Conséquence d'une sécheresse
 
-* le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi, les sécheresses de l'été semblent mener aux pénuries en automne.
+Le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi, les sécheresses de l'été semblent mener aux pénuries en automne.
 
 ## Sources d'informations
 
@@ -59,16 +59,17 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 * Comment se forment les *sources* sur les zones ayant des roches imperméables ? 
 * Quelle différence d'influence entre des *précipitations intenses* et des *précipitations régulières* ? 
 
-Tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts*, on continuera à poser des questions ;) 
+>Tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts*, on continuera à poser des questions ;) 
 
 
 # Entretiens avec les populations concernées
----
+
 Les entretiens ont été réalisés *par Thomas W* avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dû à la sécheresse. 
 
 ## Craintes et moyens d'information
 
-"On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir. Quand on voit le manque d’eau qu’on a déjà : cette année 2 mois sans pluie, ça nous inquiète" **7/7 partagent cette crainte** 
+"On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir. Quand on voit le manque d’eau qu’on a déjà : cette année 2 mois sans pluie, ça nous inquiète" 
+>**7/7 partagent cette crainte** 
 
 *Vers qui se tournent-t-ils ? :* 
 La plupart sont en attente de réponses des pouvoirs publics  :
@@ -82,7 +83,8 @@ Ils attendent d'être avertis des évolutions de ressource en eau potable par �
 
 ## Dédommagements, reconnaissance de l'état de calamité climatique
 
-Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque les états de **calamité climatique** ou de **catastrophe naturelles** sont reconnus. C'est aux maires de fournir les preuves. Il est urgent pour eux d'alerter les pouvoirs publics, mais l'attente de leur réponse créé un fort stress. **5/7 énoncent cette problématique**
+Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque les états de **calamité climatique** ou de **catastrophe naturelles** sont reconnus. C'est aux maires de fournir les preuves. Il est urgent pour eux d'alerter les pouvoirs publics, mais l'attente de leur réponse créé un fort stress.
+>**5/7 énoncent cette problématique**
 
 *Comment alertent-ils de dégâts climatique ?*
 * les agriculteurs sont souvent les premiers à alterter la mairie pour la reconnaissance de l’état de catastrophe naturelle 5/7. 
@@ -94,5 +96,6 @@ Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque l
 * Problématiques aux bâtiments municipaux et aux particuliers. Fissures et dégradations ont été remboursées en partie minime par les assureurs suite à la reconnaissance de l’état de catastrophe naturelle.
 
 ## Isolement ou solidarité ? 
-Crainte de se retrouver "isolés" **4/4**
+Crainte de se retrouver "isolés" 
+>**4/4**
 
