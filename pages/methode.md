@@ -20,6 +20,7 @@ Si oui réfléchir :
 - aux **sources d’informations** 
 - lister des **questions** pour des experts
 
+
 4. Consulter des **experts** (hydrogéologues, climatologues, etc.) . Toujours questionner sur ce que l’on ne comprend pas et rester ouvert à la découverte de nouveaux paramètres. Si possible, enregistrer les réponses aux questions et les publier sur ce site pour que l’investigation soit publique.
 
 5. Réunir de nouveau un groupe de travail mixte et leur présenter les avancées.  Comprendre ensemble les critères et décider de ceux que l’on retient : c’est un compromis entre justesse et accessibilité. 
@@ -28,6 +29,7 @@ Si oui réfléchir :
 
 ## Créer des supports accessibles
 7. Créer avec des UXdesigners ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des données complexes) un protoype.
+
 8. Le présenter à la population déjà concernée et leur demander leurs retours. Comprennent-ils ces informations? Répondent-elles aux questions qu’ils se posent ? 
 
 9. Fournir ces retours d’entretiens aux UXdesigners, ce qui leur permettra d’améliorer le prototype. Leur donner les contacts des personnes interviewées pour qu’ils puissent leur présenter le nouveau support.
