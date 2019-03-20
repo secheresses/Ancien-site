@@ -64,15 +64,16 @@ Le risque de pénurie survient plusieurs mois après la période de sécheresse 
 
 # Entretiens avec les populations concernées
 
-Les entretiens ont été réalisés *par Thomas W* avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dû à la sécheresse. 
+Les entretiens ont été réalisés *par Thomas W* avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dus à la sécheresse. 
 
-## Craintes et moyens d'information
+## L'inconnu
 
 "On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir. Quand on voit le manque d’eau qu’on a déjà : cette année 2 mois sans pluie, ça nous inquiète" 
 >**7/7 partagent cette crainte** 
 
-*Vers qui se tournent-t-ils ? :* 
-La plupart sont en attente de réponses des pouvoirs publics  :
+*Vers qui se tournent-t-ils ? :*
+
+La plupart sont en attente :
 * d’une réaction de la Préfecture - État  5/7 .
 * d'une réponse sur l’avenir du syndicat de gestion du bassin versant 3/7
 * d’une réponse de l’Agence de l’Eau ou de la Chambre d’agri 1/7
@@ -81,9 +82,9 @@ Ils attendent d'être avertis des évolutions de ressource en eau potable par �
 *Comment cherchent-ils des alternatives?*
 * se renseignent par eux-mêmes 2/7 
 
-## Dédommagements, reconnaissance de l'état de calamité climatique
+## Etat de calamité climatique
 
-Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque les états de **calamité climatique** ou de **catastrophe naturelles** sont reconnus. C'est aux maires de fournir les preuves. Il est urgent pour eux d'alerter les pouvoirs publics, mais l'attente de leur réponse créé un fort stress.
+Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque les états de **calamité climatique** ou de **catastrophe naturelles** sont reconnus. C'est aux maires de fournir les preuves aux préfets. Il est urgent pour eux d'alerter les pouvoirs publics, mais l'attente de leur réponse créé un fort stress.
 >**5/7 énoncent cette problématique**
 
 *Comment alertent-ils de dégâts climatique ?*
@@ -95,7 +96,7 @@ Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque l
 * Le Fond national de soutien à l’agriculture (état, ministère de l’agriculture) peut dédommager sur les rendements si l’état de calamité climatique est reconnu. Là aussi c’est aux maires de prévenir sur base de preuves.
 * Problématiques aux bâtiments municipaux et aux particuliers. Fissures et dégradations ont été remboursées en partie minime par les assureurs suite à la reconnaissance de l’état de catastrophe naturelle.
 
-## Isolement ou solidarité ? 
+## Isolement ? 
 Crainte de se retrouver "isolés" 
 >**4/4**
 
