@@ -5,26 +5,25 @@ description: Découvrir où seront en <strong>métropole</strong> et dans les <s
 permalink: /risques-penurie-eau
 ---
 
-Nous en sommes à l'étape 4 de notre [méthode d'investigation](../methode) où nous vérifions nos hypothèses auprès d'experts du domaine. *Camille* a déjà demandé à un *climatologue du GIEC* s'il serait disponible pour répondre à nos questions et il a répondu que oui avec plaisir. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019 afin de lui poser nos questions. 
+Nous en sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (4.). 
+>*Camille* a obtenu l'accord d'un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019.
 
-Rappel de l'étape 3
+# Hypothèses formulées par le groupe de travail (3.) 
 ---
 
 Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
 Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
 
-**Concernant les critères permettant de localiser les zones**
+** Critères pour localiser les municipalités risquant des pénuries d'eau potable   **
 
-Nous faisons l'hypothèse que les municipalités qui présentent un fort risque de pénurie d'eau potable:
+* Les municipalités sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) OU des grands ensembles de roches calcaires (voir [données](../donnees)) 
+* il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees))
+* elles ont une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...)
 
-* sont des municipalités qui sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) et où il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees)) aggravant le risque plusieurs mois plus tard
-* sont des municpalités qui sont établies sur des grands ensembles de roches calcaires (voir [données](../donnees)) et où il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees)) aggravant le risque plusieurs mois plus tard
+**Conséquence d'une sécheresse**
+* le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi, les sécheresses de l'été semblent mener aux pénuries en automne.
 
-Nous faisons aussi l'hypothèse:
-* que dans ces 2 types de municipalités il y a en plus une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...) ce qui accélère les pénuries. 
-* que lorsqu'il ne pleut pas ou peu durant au moins 2 mois alors le risque de pénurie survient plusieurs mois plus tard (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Les sécheresses de l'été semblent mener aux pénuries en automne.
-
-Mais tout ça on en sait rien du coup on va demander.
+Tout ces éléments sont des hypothèses que nous allons vérifier auprès d'experts. 
 
 **Le type d'exemples qui nous ont interpellé**
 
