@@ -3,7 +3,7 @@ layout: default
 title: Changements climatiques
 ---
 
-Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter** ? **Les conséquences concrètes** ?
+Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter**? **Les conséquences concrètes**?
 
  Il existe pourtant des risques en France : pénuries d’eau, submersibilité … 
  Nous souhaitons essayer de relayer et rendre compréhensibles les données scientifiques pour chacun.
@@ -16,7 +16,7 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 
 # Pourquoi des citoyens font-ils ce travail ? 
 
-> Par *précaution* et par souci de *la capacité d'adaptation des populations* en amont de potentielles problématiques.
+> Par *précaution* et par souci de *la capacité d'adaptation des populations*.
 
 **Notre constat:**
 1. Les données climatiques sont très complexes et *les scientifiques ne s'accordent pas pas sur un modèle unique*. Chaque modèle présente de nombreuses incertitudes. Il manque par exemple pour les chercheurs français des paramètres locaux (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats.
