@@ -19,9 +19,9 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 > Par *précaution* et par souci de *la capacité d'adaptation des populations* en amont de potentielles problématiques.
 
 **Notre constat:**
-1. Les données climatiques sont très complexes et les scientifiques ne s'accordent pas pas sur un modèle unique. Chaque modèle présente de nombreuses incertitudes. Il manque par exemple pour les chercheurs français des **paramètres locaux** (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats.
-2. Les estimations climatiques sont difficilement compréhensibles. 
-3. La majeure partie des institutions semblent attendre l'annonce d'une *estimation climatique local précise faisant consensus* pour *annoncer aux citoyens un risque précis* et son niveau de risque. 
+1. Les données climatiques sont très complexes et **les scientifiques ne s'accordent pas pas sur un modèle unique**. Chaque modèle présente de nombreuses incertitudes. Il manque par exemple pour les chercheurs français des paramètres locaux (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats.
+2. Les **estimations climatiques** sont **difficilement compréhensibles**. 
+3. La majeure partie des institutions semble attendre l'annonce d'une **estimation climatique précise et locale faisant consensus** pour **annoncer aux citoyens un risque précis** et son niveau de risque. 
 
 # Comment participer aux prochaines étapes ?
 
