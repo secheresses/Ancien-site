@@ -12,7 +12,7 @@ Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles
 
 >Aujourd’hui, nous nous inquiètons pour l’accès à l’eau potable. Elle paraît illimité en sortant du robinet ? Pourtant il existe déjà des pénuries d'eau dans les Doms où des départements de métropole comme le *Doubs* (*Massif du Jura*) ravitaillé cet automne par camions citernes en eau potable.
 
-Le changement climatique amplifie les risques de pénurie et aggrave les existantes. **Nous souhaitons rendre visibles les zones à risque.**  Prenez part à notre exploration sur les [pénuries d'eau potable](../risques-penurie-eau).
+Le changement climatique amplifie les risques de pénurie et aggrave les existantes. **Nous souhaitons essayer de rendre visible aux citoyens les zones à risques.**  Prenez part à notre exploration sur les [pénuries d'eau potable](../risques-penurie-eau).
 
 # Pourquoi des citoyens font-ils ce travail ? 
 
