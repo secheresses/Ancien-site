@@ -7,7 +7,7 @@ permalink: /methode
 
 # Comment diffuser des connaissances scientifiques sur des risques climatiques ? 
 
-> Cette méthode a été définie du 5 au 7 mars 2019 chez *Caroline* et *Thomas*. Étaient aussi présents *Marie-Gabrielle*, *Camille*, *Anton*, *Cécile*, *Fanny* (& *Thomas P*, *Noémie G.*, *Caroline P.* en observateurs).
+> Cette méthode a été définie du 5 au 7 mars 2019 avec [*Marie-Gabrielle*, *Camille*, *Alyssa*, *Anton*, *Cécile*, *Fanny*, *Thomas* (& *Thomas P*, *Noémie G.*, *Caroline P.* en observateurs)](../collectif).
 
 ## Comprendre
 1. Choisir une problématique (monté des eaux, ….) et le faire savoir
