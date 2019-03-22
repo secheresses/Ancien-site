@@ -41,4 +41,4 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 
 Au plaisir de vous rencontrer,
 
-*Cécile, Alyssa, Caroline, Thomas, Fanny, Anton, Camille, Marie-Gabrielle, Nicolas*
+*Cécile, Alyssa, Caroline, Thomas, Fanny, Anton, Camille, Marie-Gabrielle, Nicolas [et tous les autres](../collectif)*
