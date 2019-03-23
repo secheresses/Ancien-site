@@ -33,18 +33,25 @@ En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs conna
 # Hypothèses du groupe de travail
 > cf [méthode](../methode) 3. Réunir un groupe de travail mixte
 
->Étaient présents *Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*.
+>Étaient présents [*Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*](../collectif).
 Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
 
 ## Critères pour localiser les municipalités risquant des pénuries d'eau potable
 
-* Les municipalités sont établies sur des ensembles de roches imperméables (voir [données](../donnees)) OU des grands ensembles de roches calcaires (voir [données](../donnees)) 
-* il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees))
-* elles ont une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...)
+**Les zones qui semblent être les plus fragiles**
+
+* Les municipalités sont établies sur des reliefs avec des grands ensembles de roches calcaires (voir [données](../donnees)). Il s'agirait donc de "zones karstiques avec des formations plissées et fortement tectonisées". 
+* s'il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees)) et que les communes ont une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...)
+
+**Les zones qui semblent aussi fragiles**
+
+* Les municipalités sont établies sur des grandes zones imperméables (voir [données](../donnees)) qui ne présentent pas de nappes phréatiques captives
+* en cas d'insuffissance des précipitations cela pourrait mener des sécheresses & des pénuries en cas d'épuisemement de la nappe phréatique
+* cette hypohèse est en cours d'exploration
 
 ## Conséquence d'une sécheresse
 
-Le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi, les sécheresses de l'été semblent mener aux pénuries en automne.
+Le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi sur des ensembles calcaires tels que décrits ci dessus les sécheresses de l'été semblent mener aux pénuries en automne.
 
 ## Sources d'informations
 
