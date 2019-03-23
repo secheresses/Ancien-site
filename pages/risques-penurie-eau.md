@@ -40,13 +40,17 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 **Les zones qui semblent être les plus fragiles**
 
-* Les municipalités sont établies sur des reliefs avec des grands ensembles de roches calcaires (voir [données](../donnees)). Il s'agirait donc de "zones karstiques avec des formations plissées et fortement tectonisées". 
-* s'il ne pleut pas assez durant au moins 2 mois (voir [données](../donnees)) et que les communes ont une gestion non régulée de l'eau (comme l'utilisation de l'*eau potable* pour les toilettes, non récupération de l'eau de pluie...)
+* Les municipalités qui sont localisées sont *sur des reliefs* (Languedoc, Alpes, Jura ...)
+* + qui sont localisées *sur de grands ensembles calcaires* (voir [données](../donnees) > bdlisa > zones karstiques). 
+* + en cas *insuffisance des précipitations sur au moins 2 mois* (voir [données](../donnees))
+* + si les communes ont une *gestion non régulée de l'eau* 
+
+Dans un terme scientifique il s'agirait donc de municipalités localisées sur des "*zones karstiques avec des formations plissées et fortement tectonisées*". 
 
 **Les zones qui semblent aussi fragiles**
 
-* Les municipalités sont établies sur des grandes zones imperméables (voir [données](../donnees)) qui ne présentent pas de nappes phréatiques captives
-* en cas d'insuffissance des précipitations cela pourrait mener des sécheresses & des pénuries en cas d'épuisemement de la nappe phréatique
+* Les municipalités sont établies sur des *grandes zones imperméables* (voir [données](../donnees)) *qui ne présentent pas de nappes phréatiques captives*
+* en cas d'*insuffissance des précipitations* cela pourrait mener des sécheresses & des pénuries en cas d'épuisemement de la nappe phréatique
 * cette hypohèse est en cours d'exploration
 
 ## Conséquence d'une sécheresse
