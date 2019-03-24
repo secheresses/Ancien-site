@@ -41,7 +41,7 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 ### Hypothèses sur les zones à risque I
 
-Ce seraient des municipalités *localisées sur de grands ensembles de roches calcaires* (dites "karstiques")+ *localisées sur des reliefs* + qui ne sont par exemple pas alimentés par des sources d'eau comme des glaciers + qui *subissent une insuffisance voir absence de précipitations sur au moins 2 mois, quelque soit la saison* + *ce sont des communes qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé* 
+Ce seraient des municipalités *localisées sur de grands ensembles de roches calcaires* + qui sont aussi *localisées sur des reliefs* + qui ne sont pas alimentés par des sources d'eau extérieures comme des glaciers + qui *subissent une insuffisance voir absence de précipitations sur au moins 2 mois, quelque soit la saison* + *qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé jusqu'à ce qu'il se passe quelque chose* 
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
@@ -51,7 +51,7 @@ Ce seraient des municipalités *localisées sur de grands ensembles de roches ca
 
 ### Hypothèses sur les zones à risque II
 
-Ce seraient des municipalités *localisées sur de grands ensembles imperméables* + *où il n'y aurait pas de nappe phréatique captive en dessous ou à proximité* + qui *subiraient une insuffisance voir absence de précipitations durant la période hivernale (recharge)* + *ce sont des communes qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé* 
+Ce seraient des municipalités *localisées sur de grands ensembles imperméables* + qui seraient aussi *localisées sur des zones sans nappe phréatique captive en dessous ou à proximité* + qui *subiraient une insuffisance voir absence de précipitations durant la période hivernale-printemps* + *qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé jusqu'à ce qu'il se passe quelque chose*  
 
 ![imperméables](https://bdlisa.eaufrance.fr/sites/default/files/inline-images/BDLISA_V2_carte_web.png)
 
@@ -59,7 +59,11 @@ Ce seraient des municipalités *localisées sur de grands ensembles imperméable
 
 ## Conséquences d'une insuffisance de précipitations
 
-Le risque de pénurie survient souvent plusieurs après la période d'insuffisance (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Sur des ensembles calcaires tels que décrits ci dessus les "sécheresses" de l'été semblent mener à un manque en automne. Sur des ensembles imperméable ce sont les "sécheresses" de l'hiver et du printemps qui semblent pouvoir mener à un manque en automne. Ce sont des hypothèses que nous allons faire vérifier. 
+Le risque de pénurie survient souvent plusieurs après la période d'insuffisance (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). 
+
+Nos hypothèses en bref:
+* Sur des ensembles calcaires tels que décrits ci dessus les "sécheresses" de l'été semblent mener à un manque en automne. La réaction est rapide car l'eau s'écoule par des fissures, des crevasses, des tunnels (comme ceux que l'on visite en *spéléologie*). 
+* Sur des ensembles imperméable ce sont les "sécheresses" de l'hiver et du printemps qui semblent pouvoir mener à un manque en automne. La réaction est plus lente que dans les ensembles calcaires car l'eau s'écoule par des petites fissures ou des milieux denses. De plus il n'y a pas ou peu de poches d'eau sous-terraines sur ces zones. 
 
 ## Sources d'informations pour construire les hypothèses
 
@@ -70,16 +74,16 @@ Le risque de pénurie survient souvent plusieurs après la période d'insuffisan
 
 ## Nos questionnements
 
-* Comment se "rechargent" les nappes phréatiques sur de milieux calcaires?
-* Comment se forment les *sources* sur les zones ayant des roches imperméables ? 
-* Quelle différence d'influence entre des *précipitations intenses* et des *précipitations régulières* ? 
+> En cours de préparation.
 
->Tant que *Chantal* (la belle-mère d'Alyssa qui se trouve archinule en sciences) ne comprendra pas les réponses données par les *experts*, on continuera à poser des questions ;) 
-
+* Comment se forment les *aquifères* et les *sources* sur les zones ayant des roches imperméables ? 
+* Sur les grands ensembles karstiques pourriez vous nous donner des exemples de forages profonds? 
+* Quelle est la fiabilité des modèles climatiques sur les précipitations? Pourriez vous nous expliciter les hypothèses que vous avez prises?
+* ...
 
 # Entretiens avec les populations concernées
 
-Les entretiens ont été réalisés *par Thomas W* avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dus à la sécheresse. 
+Les entretiens ont été réalisés avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dus à la sécheresse. 
 
 ## L'inconnu
 
