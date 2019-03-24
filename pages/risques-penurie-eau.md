@@ -6,12 +6,12 @@ permalink: /risques-penurie-eau
 ---
 
 Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (cf 4.). 
->*Camille* a obtenu l'accord d'un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie le 8 et 9 avril 2019.
+>*Camille* va travailler avec un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie expert dans l'estimation de vulnérabilité des ressources en eau le 8 et 9 avril 2019.
 
 # Des pénuries d'eau potable ?  
 > cf [méthode](../methode) 1. Choisir une problématique
 
-En explorant les cartes climatiques, *Thomas W* a eu un doûte sur notre sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
+En explorant les cartes climatiques, *Thomas W* a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
 Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements.
 
@@ -24,9 +24,7 @@ Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu d
 # Rencontres avec des habitants concernés par des pénuries 
 > cf [méthode](../methode) 2. Aller à la rencontre
 
-Nous avons discuté, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants, répartis en France métropolitaine. Tous ont connu des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture. Un a été contraint au ravitaillement en eau potable.
-
-Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement. Il est difficile de faire reconnaître l'état de catastrophe naturelle (utile pour des dédommagements) et cherchent des alternatives par eux-même. 
+Nous avons discuté, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants, répartis en France métropolitaine. Tous ont connu des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture. Un a été contraint au ravitaillement en eau potable. Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement. Il est difficile de faire reconnaître l'état de catastrophe naturelle (utile pour des dédommagements) et cherchent des alternatives par eux-même. 
 
 En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
 
@@ -38,26 +36,32 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 ## Critères pour localiser les municipalités risquant des pénuries d'eau potable
 
-**Les zones qui semblent être les plus fragiles**
 
-* Les municipalités qui sont localisées sont *sur des reliefs* (Languedoc, Alpes, Jura ...)
-* + qui sont localisées *sur de grands ensembles calcaires* (voir [données](../donnees) > bdlisa > zones karstiques). 
-* + en cas *insuffisance des précipitations sur au moins 2 mois* (voir [données](../donnees))
-* + si les communes ont une *gestion non régulée de l'eau* 
+> Nous sommes entrain de vérifier la validité de ces hypothèses auprès d'experts scientifiques et techniques. Une mise à jour avec leur feed-back aura lieu mi-avril 2019. Cette mise à jour devrait prendre en compte les estimations climatiques liées aux évolutions des précipitations. 
 
-Dans un terme scientifique il s'agirait donc de municipalités localisées sur des "*zones karstiques avec des formations plissées et fortement tectonisées*". 
+### Hypothèses sur les zones à risque I
 
-**Les zones qui semblent aussi fragiles**
+Ce seraient des municipalités *localisées sur de grands ensembles de roches calcaires* (dites "karstiques")+ *localisées sur des reliefs* + qui ne sont par exemple pas alimentés par des sources d'eau comme des glaciers + qui *subissent une insuffisance voir absence de précipitations sur au moins 2 mois, quelque soit la saison* + *ce sont des communes qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé* 
 
-* Les municipalités sont établies sur des *grandes zones imperméables* (voir [données](../donnees)) *qui ne présentent pas de nappes phréatiques captives*
-* en cas d'*insuffissance des précipitations* cela pourrait mener des sécheresses & des pénuries en cas d'épuisemement de la nappe phréatique
-* cette hypohèse est en cours d'exploration
+![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-## Conséquence d'une sécheresse
+*Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
 
-Le risque de pénurie survient plusieurs mois après la période de sécheresse (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Ainsi sur des ensembles calcaires tels que décrits ci dessus les sécheresses de l'été semblent mener aux pénuries en automne.
+> Une carte encore plus précise des "ensembles karstiques" est visible via le visualiseur de la [BDlisa](http://bdlisa.eaufrance.com). Sauf que ce visualiseur ne fait pas de différences entre les différents types de roches calcaires et si c'est en zone de relief ou non (voir carte ci dessus).
 
-## Sources d'informations
+### Hypothèses sur les zones à risque II
+
+Ce seraient des municipalités *localisées sur de grands ensembles imperméables* + *où il n'y aurait pas de nappe phréatique captive en dessous ou à proximité* + qui *subiraient une insuffisance voir absence de précipitations durant la période hivernale (recharge)* + *ce sont des communes qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé* 
+
+![imperméables](https://bdlisa.eaufrance.fr/sites/default/files/inline-images/BDLISA_V2_carte_web.png)
+
+*Ensembles imperméables: en orange ci dessus. Source: BDlisa.*
+
+## Conséquences d'une insuffisance de précipitations
+
+Le risque de pénurie survient souvent plusieurs après la période d'insuffisance (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). Sur des ensembles calcaires tels que décrits ci dessus les "sécheresses" de l'été semblent mener à un manque en automne. Sur des ensembles imperméable ce sont les "sécheresses" de l'hiver et du printemps qui semblent pouvoir mener à un manque en automne. Ce sont des hypothèses que nous allons faire vérifier. 
+
+## Sources d'informations pour construire les hypothèses
 
 * MétéoFrance
 * DRIAS Climat
