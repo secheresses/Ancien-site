@@ -16,18 +16,20 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 
 # Pourquoi des citoyens font-ils ce travail ? 
 
-> Par *précaution* et par souci de *la capacité d'adaptation des populations*.
+> Par *précaution* et par souci de *la capacité d'adaptation des populations*. Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques](../methode) (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, et autant d'infastructures importantes présentes sur ces zones ...
 
 **Notre constat:**
-1. Les données climatiques sont très complexes et *les scientifiques ne s'accordent pas pas sur un modèle unique*. Chaque modèle présente de nombreuses incertitudes. Il manque par exemple pour les chercheurs français des paramètres locaux (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats.
-2. Les *estimations climatiques* sont *difficilement lisibles*. 
-3. La majeure partie des institutions semble attendre l'annonce d'une *estimation climatique précise et locale faisant consensus* pour *annoncer aux citoyens un risque précis* et son niveau de risque. 
+1. Les données climatiques sont très complexes et *les scientifiques ne s'accordent pas pas sur un modèle unique* ce qui est normal puisque chaque modèle présente de nombreuses incertitudes. Il manque par exemple pour les chercheurs français des paramètres locaux (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats au niveau local.
+2. Les *estimations climatiques*, même lorsqu'elles sont accessibles, sont loin d'être *compréhensibles* par des non scientifiques
+3. La majeure partie des institutions semble attendre l'annonce d'*estimations climatiques précises et locales faisant consensus* (ce qui n'arrivera pas) pour *annoncer aux citoyens un risque précis* et son niveau de risque. 
+
+**Notre version du principe de précaution**
+
+> Si vous saviez qu'un avion a 10% de chances d'avoir un problème mécanique mettriez vous votre enfant dedans?
+
+Aujourd'hui les politiques publiques semblent se baser des estimations climatiques médianes. Lorsqu'on parle de montée du niveau des océans elles se basent souvent sur un chiffre: 0,67 de montée du niveau de l'océan en 2100. C'est ce qui influe par exemple l'obtention des permis de construire. Sauf que l'estimation du *0,67m* est discutée dans toute la communauté scientifique et il se peut qu'il pourrait s'agir de 1 ou 2 mètres ou plus. Quelle serait votre version du principe de précaution dans une telle situation? Dans notre [collectif](../collectif) nous ne disons pas *"il va arriver des choses graves sur ces zones"* mais qu'il y a des *"zones à risques"*.
 
 # Comment participer aux prochaines étapes ?
-
->  Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques](../methode) (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, et autant d'infastructures importantes présentes sur ces zones ...
-
-**Que diriez vous si l'on vous proposait de...**
 
 * Vous **former gratuitement** à la lecture des cartes climatiques #à venir
 * Nous aider à l'organisation d'un **évènement meetup**, ou nous prêter votre local 
