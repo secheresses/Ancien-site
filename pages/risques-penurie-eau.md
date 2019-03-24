@@ -57,9 +57,11 @@ Ce seraient des municipalités *localisées sur de grands ensembles imperméable
 
 *Ensembles imperméables: en orange ci dessus. Source: BDlisa.*
 
-## Conséquences d'une insuffisance de précipitations
+## Hypothèses sur les insuffisances de précipitations pour les zones à risques I et II
 
-Le risque de pénurie survient souvent plusieurs après la période d'insuffisance (le temps que l'eau alimente les poches d'eau sous-terraines* et soit captable). 
+Le risque de manque d'eau potable survient souvent plusieurs mois après la période d'insuffisance de précipitations (le temps que l'eau remplisse les poches d'eau sous-terraines et soit captable). 
+
+Nous allons chercher à savoir en fonction des estimations climatiques vis à vis de la pluviométrie si elles sont au moins un peu fiables. Si oui nous allons peut être pouvoir accentuer l'identification de zones à risques. 
 
 Nos hypothèses en bref:
 * Sur des ensembles calcaires tels que décrits ci dessus les "sécheresses" de l'été semblent mener à un manque en automne. La réaction est rapide car l'eau s'écoule par des fissures, des crevasses, des tunnels (comme ceux que l'on visite en *spéléologie*). 
