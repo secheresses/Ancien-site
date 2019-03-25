@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Références
-description: Ou les briques qui sont à la base de notre propos : prévisions climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
+description: Ou les briques qui sont à la base de notre propos : projections climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
 permalink: /donnees
 ---
 
 # Projections climatiques pour la métropole & les outre-mer
 
-> [*C'est possible*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Grâce aux données et simulations produites et misent en commun par les laboratoires de recherche du monde entier. La France participe à ce travail scientifique collectif avec trois organismes : Institut Pierre-Simon Laplace *(CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA)*, Centre national de recherches météorologiques *(Météo France / CNRS)*, Centre européen de recherche et de formation avancée en calcul scientifique *(CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA)*. Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
+> [*C'est possible*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Grâce aux données et simulations produites et mises en commun par les laboratoires de recherche du monde entier. La France participe à ce travail scientifique collectif avec trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), *Centre national de recherches météorologiques* (Météo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
+Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
 
-Représenter les prévisions des évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
+Anticiper les évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
 * prévisions et scénarios explicitement approuvés en assemblée plénière du [*Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*](https://www.ecologique-solidaire.gouv.fr/comprendre-giec).
