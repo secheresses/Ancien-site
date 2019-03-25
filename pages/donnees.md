@@ -42,7 +42,7 @@ Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/ex
 
 > Note: nous vous proposons de ne pas utiliser les données faisant référence *"à la normale"* (comme les écarts de températures par rapport *à la normale*). 
 
-Représenter les estimations des évolutions des précipitations jusqu'aux environ 2070 - *métropole & outre-mer*
+Anticiper les évolutions des précipitations jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
 * prévisions basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2014*
