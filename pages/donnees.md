@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Données brutes
-description: Données brutes à exploiter comme les prévisions climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
+title: Références
+description: Ou les briques qui sont à la base de notre propos : prévisions climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
 permalink: /donnees
 ---
 
