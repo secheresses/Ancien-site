@@ -6,7 +6,7 @@ permalink: /risques-penurie-eau
 ---
 
 Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (cf 4.). 
->*Camille* va travailler avec un *climatologue du GIEC* pour répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie expert dans l'estimation de vulnérabilité des ressources en eau le 8 et 9 avril 2019.
+>*Camille* va proposer à un *climatologue* de répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie expert dans l'estimation de vulnérabilité des ressources en eau le 8 et 9 avril 2019.
 
 # Des pénuries d'eau potable ?  
 > cf [méthode](../methode) 1. Choisir une problématique
