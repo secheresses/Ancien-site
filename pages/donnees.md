@@ -5,14 +5,14 @@ description: Ou les briques qui sont à la base de notre propos : prévisions cl
 permalink: /donnees
 ---
 
-# Données liées aux estimations climatiques pour la métropole & les outre-mer
+# Projections climatiques pour la métropole & les outre-mer
 
-> Les principaux jeux de données brutes que nous utilisons sont ceux du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*. Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
+> [*C'est possible*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Grâce aux données et simulations produites et misent en commun par les laboratoires de recherche du monde entier. La France participe à ce travail scientifique collectif avec trois organismes : Institut Pierre-Simon Laplace *(CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA)*, Centre national de recherches météorologiques *(Météo France / CNRS)*, Centre européen de recherche et de formation avancée en calcul scientifique *(CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA)*. Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
 
-Représenter les prévisions  des évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
+Représenter les prévisions des évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
-* prévisions  basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2014*
+* prévisions et scénarios explicitement approuvés en assemblée plénière du [*Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*](https://www.ecologique-solidaire.gouv.fr/comprendre-giec).
 * si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *températures* 
 
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères. Comme ci dessous la moyenne du nombre de journées d'été (journées avec des températures supérieures à 25°C), par an, à différents horizons temporels. 
