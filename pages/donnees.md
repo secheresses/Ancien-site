@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Références
-description: Ou les briques qui sont à la base de notre propos : projections climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
+description: Ou les briques qui sont à la base de notre propos projections climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
 permalink: /donnees
 ---
 
