@@ -16,7 +16,7 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 
 # Pourquoi des citoyens font-ils ce travail ? 
 
-> Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques](../methode) (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...). Cela est aussi destiné aux hopîtaux, aux maisons de retraite, et autant d'infastructures importantes présentes sur ces zones ...
+> Nous avons commencé cette exploration le 3 mars 2019 et essayons de faire notre possible pour rendre visible aux citoyens des [zones à risques](../methode) (*pénuries en eau potable*, *amplification des sécheresses*, *tempêtes*, ...). Cela est aussi destiné aux hôpitaux, aux maisons de retraite, et autant d'infastructures importantes présentes sur ces zones ...
 
 **Notre constat:**
 1. Les données climatiques sont très complexes et *les scientifiques ne s'accordent pas pas sur un modèle unique* ce qui est normal puisque chaque modèle présente de nombreuses incertitudes. Il manque par exemple pour les chercheurs français des paramètres locaux (présence de lacs, de forêts...) importants pour améliorer la précision de leurs résultats au niveau local.
@@ -30,7 +30,7 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 # Comment participer aux prochaines étapes ?
 
 * Vous **former gratuitement** à la lecture des cartes climatiques #à venir
-* Nous aider à l'organisation d'un **évènement meetup**, ou nous prêter votre local 
+* Nous aider à l'organisation d'un **événement meetup**, ou nous prêter votre local 
 * **Rencontrer** des citoyens impactés par des pénuries
 * **Questionner** des experts scientifiques ou techniques et de rendre visible leurs réponses
 * Participer à la vérification de fiabilité des [données utilisées](../donnees)
