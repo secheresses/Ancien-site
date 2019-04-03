@@ -29,9 +29,9 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 
 # Comment participer aux prochaines étapes ?
 
-* Vous **former gratuitement** à la lecture des cartes climatiques #à venir
-* Nous aider à l'organisation d'un **événement meetup**, ou nous prêter votre local 
-* **Rencontrer** des citoyens impactés par des pénuries
+* Vous [**former gratuitement**](https://www.meetup.com/fr-FR/zones-a-risques/) à la lecture des cartes climatiques #à venir
+* Nous aider à l'organisation d'un [**événement meetup**](https://www.meetup.com/fr-FR/zones-a-risques/), ou nous prêter votre local 
+* **Rencontrer** des citoyens déjà impactés et aider le groupe d'exploration à comprendre leurs problématiques
 * **Questionner** des experts scientifiques ou techniques et de rendre visible leurs réponses
 * Participer à la vérification de fiabilité des [données utilisées](../donnees)
 * Améliorer le site internet, [les tutoriels](https://github.com/anticiper/anticiper.github.io)
