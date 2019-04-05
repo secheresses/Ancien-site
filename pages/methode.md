@@ -59,20 +59,24 @@ Nous trouvons que ces données scientifiques sont **difficilement compréhensibl
 
 ## Nous faisons le choix
 
-- de commencer avec une thématique et de voir où ça nous mène
-- d'être en lien avec dès le début avec celles et ceux qui subissent déjà ces impacts
-- de consulter par nous-même des *experts scientifiques* et de souhaiter comprendre
-- de partir de données publiques reconnues et produites par des établissements publics ou l’État
-- que des non-scientifiques composent les équipes d’investigation. Lorsqu’il est question de protection des populations nous considérons que tout le monde doit pouvoir comprendre.
-- de documenter nos explorations dont le questionnement des experts
-- de respecter le principe *"votre réaction vous appartient"*
+- de commencer avec **une thématique** et de voir où ça nous mène
+- d'être au plus proche, dès le début, de celles et ceux qui subissent déjà ces impacts
+- de consulter par nous-même des **experts scientifiques** en vue de mieux les comprendre
+- de partir de **données publiques reconnues** et produites par des établissements publics ou l’État
+- que des **non-scientifiques composent les équipes d’investigation**. Lorsqu’il est question de protection des populations nous considérons que **tout le monde doit pouvoir comprendre**.
+- de **documenter** nos explorations y compris les entretiens avec les experts
+- de respecter le principe **"votre réaction vous appartient"**
 
 ## Notre cellule
 
 **Vieille définition**
-> Notre cellule est comme un archipel composé par plusieurs organisations. Certains d'entre nous sont scientifiques (climatologues, écologues, ...), d'autres sont facilitateurs, d'autres encore sont en lien avec l'État, d'autres sont des experts de la valorisation des données (UXdesigners, médiateurs scientifiques), d'autres sont enseignants ... 
+> Notre cellule est comme un archipel composé par plusieurs organisations. Certains d'entre nous sont scientifiques (climatologues, écologues, ...), d'autres sont facilitateurs, d'autres encore sont en lien avec l'État, d'autres sont des experts de la valorisation des données (UX designers, médiateurs scientifiques), d'autres sont enseignants ... 
 
 Notre métier importe moins que notre souci commun. C'est pourquoi nous préfèrerions vous dire: 
 
 **Nouvelle définition**
-> *Nous gageons à la fois sur la responsabilité des contributeurs comme celle des citoyens qui découvriront ces informations.* Notre manière de collaborer ensemble autour d'un souci partagé et d'une approche de gestion de projet est une bifurcation par rapport aux manières traditionnelles de fonctionner. Nous ne nous voyons ni ne rien faire alors que nous avons l'intuition qu'il y a peut être des risques graves qui menacent la population et des infrastructures importantes (hopîtaux, maisons de retraites, ...). Ni de fournir des fausses informations. Nous travaillons déjà avec des pouvoirs publics, scientifiques et continueront à le faire. Nous sommes préoccupés pour les personnes résidant sur certaines zones. Parfois ce sont nos amis, parfois nos familles, parfois des citoyens inconnus. 
+> *Nous gageons à la fois sur la responsabilité des contributeurs comme celle des citoyens qui découvriront ces informations.* Notre manière de **collaborer ensemble autour d'un souci partagé** et notre approche **gestion de projet** représentent une alternative aux manières traditionnelles de fonctionner.
+
+Nous ne nous voyons pas "ne rien faire" alors que nous avons l'intuition que des risques graves menacent la population et certaines infrastructures collectives (hopîtaux, maisons de retraites, ...).
+Nous sommes préoccupés par les personnes qui résident sur ces zones à risques. Parfois ce sont nos amis, parfois nos familles, parfois de simples citoyens. 
+Pour ces raisons, nous travaillons avec les pouvoirs publics et les scientifiques afin de rendre accessibles ces informations cruciales qui permettront aux populations de prendre les décisions qui s'imposent et d'élaborer des plans d'action raisonnés, inclusifs & transparents.
