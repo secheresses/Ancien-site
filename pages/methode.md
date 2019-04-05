@@ -47,7 +47,7 @@ Nous sommes des citoyens ayant à cœur la **protection des populations** vis-à
 
 Nous relayons & travaillons notamment à rendre compréhensibles, concrètes, les données produites par des organismes publics français et internationaux comme : **Météo France**, les **acteurs publics de l'eau**, le **GIEC**, l'**État**, etc. 
 
-Nous trouvons que ces données scientifiques sont difficilement compréhensibles. Elles ne nous permettent pas, par exemple, et en tant que non-scientifiques, de savoir où vont se situer les zones métropolitaines & outre-mer les plus exposées :
+Nous trouvons que ces données scientifiques sont **difficilement compréhensibles**. Elles **ne nous permettent pas**, par exemple, et en tant que non-scientifiques, de **savoir où vont se situer** les zones métropolitaines & outre-mer les plus exposées :
 - aux **pénuries d'eau potable**, 
 - à l'**amplification des sécheresses agricoles**, 
 - aux **extrêmes climatiques**, etc.
