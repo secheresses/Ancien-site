@@ -7,14 +7,15 @@ permalink: /donnees
 
 # Projections climatiques pour la métropole & les outre-mer
 
-> [*C'est possible*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Grâce aux données et simulations produites et mises en commun par les laboratoires de recherche du monde entier. La France participe à ce travail scientifique collectif avec trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), *Centre national de recherches météorologiques* (Météo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
-Une des manières les plus simples d'exploiter leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/). 
+> [*C'est un pari*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Des estimations sont devenues possible grâce aux données et simulations produites et mises en commun par des laboratoires de recherche entre nations. La France participe à ce travail scientifique collectif avec la contribution par trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (via lequel agissent le CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), le *Centre national de recherches météorologiques* (via lequel agissent Météo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (via lequel agissent le CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
+Une des manières les plus simples de lire leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/)
+Nous expliciterons lors d'une prochaine étape sur quels scénarios nous nous basons pour utiliser les estimations et pourquoi.
 
 Anticiper les évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
 
-* prévisions et scénarios explicitement approuvés en assemblée plénière du [*Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*](https://www.ecologique-solidaire.gouv.fr/comprendre-giec).
-* si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *températures* 
+* ce sont des prévisions et scénarios explicitement approuvés en assemblée plénière du [*Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*](https://www.ecologique-solidaire.gouv.fr/comprendre-giec).
+* si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *températures*. Cela peut vous amener à décider de choisir un scénario climatiques plus qu'un autre pour visualiser les données climatiques.
 
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères. Comme ci dessous la moyenne du nombre de journées d'été (journées avec des températures supérieures à 25°C), par an, à différents horizons temporels. 
 
