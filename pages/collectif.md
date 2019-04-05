@@ -21,7 +21,7 @@ permalink: /collectif
 
 **Rendre compréhensibles des données**
 
-*Fanny Breuneval*
+*Fanny Breuneval*, *Guillaume Trivulce*
 
 **Communication sur la démarche**
 
