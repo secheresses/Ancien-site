@@ -28,11 +28,11 @@ Si oui réfléchir :
 6. Faire une recherche des jeux de [données](../donnees) publics permettant de visualiser les zone et questionner les experts sur leur validité. Rendre visibles leurs incertitudes.
 
 ## Créer des supports accessibles
-7. Créer avec des UXdesigners ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des [données](../donnees) complexes) un protoype.
+7. Créer avec des UX designers ou ergonomes (ou celles et ceux qui savent rendre compréhensibles des [données](../donnees) complexes) un protoype.
 
-8. Le présenter à la population déjà concernée et leur demander leurs retours. Comprennent-ils ces informations? Répondent-elles aux questions qu’ils se posent ? 
+8. Le présenter à la population déjà concernée et leur demander leurs retours. Comprennent-ils ces informations ? Répondent-elles aux questions qu’ils se posent ? 
 
-9. Fournir ces retours d’entretiens aux UXdesigners, ce qui leur permettra d’améliorer le prototype. Leur donner les contacts des personnes interviewées pour qu’ils puissent leur présenter le nouveau support.
+9. Fournir ces retours d’entretiens aux UX designers, ce qui leur permettra d’améliorer le prototype. Leur donner les contacts des personnes interviewées pour qu’ils puissent leur présenter le nouveau support.
 
 ## Diffuser l'information
 10. Lorsque les UX designers ont validé le prototype, réunir un groupe de travail pour diffuser l’information et inviter à sa réutilisation.
@@ -45,7 +45,7 @@ La contribution des institutions (syndicats de bassins versants, Départements, 
 
 Nous sommes des citoyens ayant à cœur la **protection des populations** vis-à-vis des **risques amplifiés par le changement climatique** qui attaqueront nos **conditions d'existence** au cours des **trois prochaines décennies**.
 
-Nous relayons & travaillons notamment à rendre compréhensibles, concrètes des données existantes qui ont été produites par des organismes publics français et internationaux : *Météo France*, les *acteurs publics de l'eau*, le *GIEC*, l'*État*, etc. Nous trouvons que ces données scientifiques sont difficilement compréhensibles dans le sens où elles ne nous permettent pas en tant que non-scientifiques de savoir où auront lieu les zones métropolitaines & outre-mer les plus à risque en terme de *pénuries d'eau potable*, *amplification des sécheresses agricoles*, *extrêmes climatiques*, etc.
+Nous relayons & travaillons notamment à rendre compréhensibles, concrètes, les données produites par des organismes publics français et internationaux comme : *Météo France*, les *acteurs publics de l'eau*, le *GIEC*, l'*État*, etc. Nous trouvons que ces données scientifiques sont difficilement compréhensibles. Elles ne nous permettent pas, par exemple, et en tant que non-scientifiques, de savoir où vont se situer les zones métropolitaines & outre-mer les plus exposées aux *pénuries d'eau potable*, à l'*amplification des sécheresses agricoles*, aux *extrêmes climatiques*, etc.
 
 ## Nous produirons
 
