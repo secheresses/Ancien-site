@@ -27,7 +27,7 @@ permalink: /collectif
 
 *Marie-Gabrielle Favé*, *Alyssa Daoud*, *Camille Jonchères*, *Anton Deums*, *Cécile Thibault*, *Fanny Breuneval*, *Thomas Wolff*, *Caroline Picton*
 
-**Intéressé à contribuer?** 
+**Intéressé ? Vous souhaitez contribuer ?** 
 
 Contactez Thomas au 06 42 45 97 81.
 
