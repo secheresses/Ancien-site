@@ -13,7 +13,7 @@ Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../meth
 
 En explorant les cartes climatiques, *Thomas W* a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
 
-Plus de 10% des communes du territoire du *Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements.
+Plus de 10% des communes du territoire du *Haut-Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements.
 
 **Carte des pénuries d'eau potable dans le Doubs au 23 octobre 2018**
 
@@ -39,7 +39,9 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 > Nous sommes entrain de vérifier la validité de ces hypothèses auprès d'experts scientifiques et techniques. Une mise à jour avec leur feed-back aura lieu mi-avril 2019. Cette mise à jour devrait prendre en compte les estimations climatiques liées aux évolutions des précipitations. 
 
-### Hypothèses sur les zones à risque I
+### Hypothèses sur les zones à risque I - hypothèse validée en partie.
+
+> On vous en dit plus très bientôt. C'est une partie très spécifique de ces zones.
 
 Ce seraient des municipalités *localisées sur de grands ensembles de roches calcaires* + qui sont aussi *localisées sur des reliefs* + qui ne sont pas alimentés par des sources d'eau extérieures comme des glaciers + qui *subissent une insuffisance voir absence de précipitations sur au moins 2 mois, quelque soit la saison* + *qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé jusqu'à ce qu'il se passe quelque chose* 
 
@@ -49,7 +51,9 @@ Ce seraient des municipalités *localisées sur de grands ensembles de roches ca
 
 > Une carte encore plus précise des "ensembles karstiques" est visible via le visualiseur de la [BDlisa](http://bdlisa.eaufrance.com). Sauf que ce visualiseur ne fait pas de différences entre les différents types de roches calcaires et si c'est en zone de relief ou non (voir carte ci dessus).
 
-### Hypothèses sur les zones à risque II
+### Hypothèses sur les zones à risque II - invalidé
+
+> Genre complètement invalidé.
 
 Ce seraient des municipalités *localisées sur de grands ensembles imperméables* + qui seraient aussi *localisées sur des zones sans nappe phréatique captive en dessous ou à proximité* + qui *subiraient une insuffisance voir absence de précipitations durant la période hivernale-printemps* + *qui utilisent de l'eau potable pour tous les usages (commme les toilettes, les douches, l'arrosage, ...) et où l'usage est donc non régulé jusqu'à ce qu'il se passe quelque chose*  
 
