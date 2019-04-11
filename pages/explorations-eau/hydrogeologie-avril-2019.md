@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Retranscription sommaire de la formation à l'hydrogéologie
+title: Retranscription sommaire de la formation du 8/9 avril 19 à l'hydrogéologie
 description: Exploration des zones à risques de pénuries en eau potable
 permalink: /hydrogeologie-penuries-explorations
 ---
 
-Voici quelques unes de mes notes simplifiées en vrac. Si je dis simplifié c'est parce qu'il va me falloir un bon moment pour retranscrire dans le détail ce qui a été dit. Vous avez ci dessous les éléments généraux.
+Voici quelques unes de mes notes simplifiées en vrac. Je les completerai au fur et à mesure et je mettrais à jour les hypothèses. 
 
 > Guy est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion. Je n'ai pas été déçu. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. 
 
 
-L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut ... ça reppart. 
+L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut ... ça reppart. Ça peut être des zones potentielles à risque de pénuries en eau.
 ===
 
 Dans les roches calcaires ayant un fort taux de [karst](https://fr.wikipedia.org/wiki/Karst) - autrement dit des calcaires plutôt compacts - l'eau peut se déplacer jusqu'à 30 ou 40 mètres par heure. 
@@ -24,7 +24,7 @@ Zones de métropole avec des **couches** de roches présentant un fort taux de k
 
 Les **couches** de roches présentant un fort taux de karst peuvent aussi être nommées **couches de calcaires compact**.
 
-Les massifs montagneux sont composés d'une alternance de couches perméables & plutôt imperméables. 
+Sauf qu'il y a beaucoup de situations où l'eau va rencontrer une couche imperméable non calcaire
 ---
 
 >  Contrairement à une rivière les eaux souterraines sont mystérieuses pour presque tout l'homme. Et pour cause: ce n'est pas quelque chose qui se voit à l'oeil nu sauf si tu es formé.
