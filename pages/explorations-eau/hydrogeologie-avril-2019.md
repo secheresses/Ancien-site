@@ -5,10 +5,10 @@ description: Exploration des zones à risques de pénuries en eau potable
 permalink: /hydrogeologie-penuries-explorations
 ---
 
-> Guy est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion. Je n'ai pas été déçu. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. Pour ce compte-rendu je vais essayer de prendre le chemin inverse: commencer par la fin.
+> Guy est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion. Je n'ai pas été déçu. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. 
 
 
-L'eau peut se déplacer dans ces roches à jusqu'à 30 / 40 mètres par heure. 
+L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut ... ça part. 
 ===
 
 Dans les roches calcaires ayant un fort taux de [karst](https://fr.wikipedia.org/wiki/Karst) - autrement dit des calcaires plutôt compacts - l'eau peut se déplacer jusqu'à 30 ou 40 mètres par heure. 
@@ -18,11 +18,11 @@ Zones de métropole avec des **couches** de roches présentant un fort taux de k
 
 ![carte](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-*En violet*
+**Ce sont les zones en violet**
 
 Les **couches** de roches présentant un fort taux de karst peuvent aussi être nommées **couches de calcaires compact**.
 
-Les massifs montagneux sont composés d'une alternance de couches perméables & plutôt imperméables
+Les massifs montagneux sont composés d'une alternance de couches perméables & plutôt imperméables. 
 ---
 
 >  Contrairement à une rivière les eaux souterraines sont mystérieuses pour presque tout l'homme. Et pour cause: ce n'est pas quelque chose qui se voit à l'oeil nu sauf si tu es formé.
@@ -61,6 +61,8 @@ Le cas de dernier recours aux camions citernes apparaît lorsque la municipalit�
 - n'ont pas de formation géologique qui permette un stock d'eau dans le sous-sol
 - ne peut pas faire de raccordement avec une municipalité à qui il reste des réserves d'eau (qui peuvent parfois être petites, mais aussi parfois très conséquentes comme c'est le cas des lacs). 
 
+![HautDoubs](https://anticiper.github.io/pages/images/cartepenuries.png)
+
 Insuffisance des précipitations
 ---
 
@@ -70,7 +72,7 @@ Pour une municipalité:
 
 une absence de précipitations durant 1 mois peut mener à des pénuries d'eau. 
 
-Ce sont des zones très dépendentent des précipitations
+Ce sont des zones très dépendantes des précipitations
 ---
 
 La vie de l'humain a toujours été liée à celle de l'eau. 
@@ -157,7 +159,7 @@ Comment ça se fait qu'on est pas alerté? C'est quand même conséquent...
 - de l'autre tu as les bureaux d'études qui dépendent des commanditaires qui commandent des études. 
 - de l'autre tu as des foreurs qui font parfois des forages aux particuliers et aux agriculteurs sans les déclarer. C'est très facile de polluer une réserve d'eau souterraine par l'intermédiaire d'un ouvrage. Même lorsque c'est fait par des professionnels. Compétitif. 
 
-En fait pour les eaux souterraines on va à l'inverse de ce qu'il faudrait faire. Et il en découle de nombreux problèmes. 
+En fait pour les eaux souterraines on va à l'inverse de ce qu'il faudrait faire. Et il en découle de nombreux problèmes. La qualité des eaux souterraines s'est déterionnées au cours des décennies malgré toutes les politiques. Dans le concrêt on en est loin.
 
 Visualiser le danger des réserves dans des nappes (ce qui n'est pas possible sur les massifs calcaires)
 ---
