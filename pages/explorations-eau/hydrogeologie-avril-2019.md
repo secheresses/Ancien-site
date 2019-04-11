@@ -163,8 +163,10 @@ Comment ça se fait qu'on est pas alerté? C'est quand même conséquent...
 
 En fait pour les eaux souterraines on va à l'inverse de ce qu'il faudrait faire. Et il en découle de nombreux problèmes. La qualité des eaux souterraines s'est déterionnées au cours des décennies malgré toutes les politiques. Dans le concrêt on en est loin.
 
-Visualiser le danger des réserves dans des nappes (ce qui n'est pas possible sur les massifs calcaires)
+Astuces pour surveiller (en tant que citoyens) les réserves dans des nappes 
 ---
+
+Il n'y a pas vraiment de nappes dans des massifs karstiques. Mais on recommence à les trouver dans les plaines. 
 
 Pour tout ce qui nappes phréatiques: 
 * sur les zones où il y a des rivières le niveau de la nappe est visualisable à l'oeil nu. C'est le niveau d'eau de la rivière. Il peut être judicieux de regarder coment les niveaux ont varié ces 5 dernières années pour voir la tendance. Les cartes que tu as faites sont très bien pour ça
@@ -172,7 +174,9 @@ Pour tout ce qui nappes phréatiques:
 
 Si tu orbseves le niveau de la nappe des grès (Alsace) tu observeras par exemple qu'elle est sur-exploitée et qu'elle dessend, dessend, ...
 
-Visualiser le danger vis à vis des sources
+Puis il faut observer la qualité.
+
+Astuces pour surveiller (en tant que citoyens) les sources
 ---
 
 Il faut surveiller les sources qui n'ont pas gros débit.
@@ -181,8 +185,8 @@ Il faut les localiser et mesurer le débit.
 
 Note de Thomas: je peux aussi créer une carte avec ça je crois savoir où sont les données des sources (pas toutes évidemment mais une partie).
 
-Cartes que tu peux utiliser
-===
+Quelques cartes que tu peux utiliser
+---
 
 * BRGM > cartes géologiques
 * Infoterre visualiseur simple > on peut visualiser les forages déclarés
