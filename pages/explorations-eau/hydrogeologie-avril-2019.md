@@ -5,10 +5,12 @@ description: Exploration des zones à risques de pénuries en eau potable
 permalink: /hydrogeologie-penuries-explorations
 ---
 
+Voici quelques unes de mes notes simplifiées en vrac. Si je dis simplifié c'est parce qu'il va me falloir un bon moment pour retranscrire dans le détail ce qui a été dit. Vous avez ci dessous les éléments généraux.
+
 > Guy est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion. Je n'ai pas été déçu. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. 
 
 
-L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut ... ça part. 
+L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut ... ça reppart. 
 ===
 
 Dans les roches calcaires ayant un fort taux de [karst](https://fr.wikipedia.org/wiki/Karst) - autrement dit des calcaires plutôt compacts - l'eau peut se déplacer jusqu'à 30 ou 40 mètres par heure. 
