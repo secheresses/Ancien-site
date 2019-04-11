@@ -104,7 +104,7 @@ Les lacs peuvent être la partie à l'air libre de la partie d'une couche permé
 
 > Même si plusieurs municipalités sur un plateau calcaire se ravitaillent sur un lac pour l'eau potable cela aura la plupart du temps très peu d'influence voir pas du tout. Le lac est parfois la partie immergée de l'iceberg. Pour vos donner une idée sur le plateau de Saint Lupicin on se ravitaille dans le Lac de Grande Rivière qui est à 20 km de là. Grâce à des canalisations. 
 
-Les cuvettes d'eau sous-terraines: des réserves d'eau qui se rechargent mais sont souvent fragiles
+Les cuvettes d'eau sous-terraines: des réserves d'eau qui se rechargent mais sont souvent fragiles. En cas de non précipitations sur des périodes conséquentes elles pourront faire l'objet de "solidarités entre municipalités"
 ---
 
 ![couches](https://thumb.ccsd.cnrs.fr/5239312/large)
@@ -116,7 +116,7 @@ Depuis la surface on ne voit rien. Il n'y a pas de source. La végétation est c
 > Même en allant sur le terrain avec toutes les cartes géologiques locales et en y passant une journée il est impossible de prédire s'il y a un stockage d'eau et s'il y en a un quel est son volume. Les cartes géologiques représentent les roches de surface. Elles nous permettent de comprendre comment son positionnées les roches et de nous faire une première idée de comment elles sont positionnées en dessous.Je prends souvent plusieurs journées pour réfléchir si on va faire un forage test. 1. il faut lire la carte géologique et réfléchir, très bien réfléchir.  2. puis tu vas essayer de représenter le type de formation que c'est. Et représenter les épaisseurs. Il y en a parfois pour plusieurs jours pour arriver à le découvrir, même en étant sur le terrain. Il faut faire attention aux fausses évidences. 
 
 
-Les sources: des débits fluctuants et un arrêt probable en cas d'insuffisance de précipitations sur plusieus semaines / mois
+Les sources: des débits fluctuants et un arrêt probable en cas d'insuffisance de précipitations sur plusieus semaines / mois. Toutes les sources ne sont pas perennes.
 ---
 
 Chaque source a son bassin d'alimentation. Le bassin d'alimentation c'est la zone par laquelle la source se recharge. Les sources de plaines au pied des grands massifs calcaires ont des très grands bassins d'alimentation et certaines petites sources de montagne des petits bassins d'alimentation.
@@ -152,7 +152,7 @@ Si on aborde la question des pénuries d'eau potable j'imagine que pour l'agricu
 Peut être que ça ferait du bien de connaître en avance ce qui va se passer. D'une année sur l'autre au moins. C'est sûr. 
 
 
-Comment ça se fait qu'on est pas alerté? C'est quand même conséquent...
+Comment ça se fait qu'on est pas alerté?
 ===
 
 > C'est tout un système.
