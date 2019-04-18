@@ -102,8 +102,14 @@ Représenter les estimations des risques de possibilité de feux de forêt - *m�
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/2307012099f2a7a7aca99c1467b1492e6e360a19) sur les **plans d'eau**
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/47c6e6173297f01950d9765288c225f89570de10) sur les **stations de mesure de la qualité des eaux superficielles continentales (STQ) - Métropole**
 * visualiser les [données de débit](http://hydro.eaufrance.fr/) des stations de mesure des eaux
+* accéder aux [données sur la qualité des eaux de surface](http://www.naiades.eaufrance.fr/thematiques) (physico-chimie, hydrobiologie, température ...)
 
 # Données liées au sous-sol et eaux sous-terraines métropole & les outre-mer
+
+Découvrir les restrictions d'eau en temps réel
+---
+
+Accéder au [site Propulvia de l'état](http://propluvia.developpement-durable.gouv.fr/propluvia/faces/index.jsp)
 
 Découvrir le niveau des nappes phréatiques & leur localisation: pour commencer
 ---
@@ -120,15 +126,22 @@ Le comportement des eaux-sous-terraines dans les roches dépend ... de la nature
 
 * visualiser la [carte géologique de France](http://geoservices.brgm.fr/wms-c.html)
 * télécharger la [carte géologique de France au 1/1000000](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip) & [outils liés](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip)
+* [API qualité des nappes](http://hubeau.eaufrance.fr/page/api-qualite-nappes) - voir les différentes APIs
 
 Forages, puits, sources, chateaux d'eau ...
 ---
 
 Toutes les données sur les ouvrages (forages, sondages, puits et sources) souterrains du territoire sont collectées pour être conservées dans une base de données, la BSS, organisée et gérée par le BRGM.
 
+* avoir une [idée précise](http://propluvia.developpement-durable.gouv.fr/propluvia/faces/index.jsp) du **volume de prélèvement sur votre commune**
 * visualiser la [carte de tous ces éléments](http://infoterre.brgm.fr/viewerlite/MainTileForward.do)
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/72ab4d229c26513b99300a2f0a9934bbcecb3c47) sur l'ensemble des points d'eau
+
+Eau potable
+---
+
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage
+* accéder aux [données du controle sanitaire de l'eau potable](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau#Resultats-du-controle-sanitaire-de-la-qualite-de-l-eau-potable-en-ligne-nbsp)
 
 
 Autre
