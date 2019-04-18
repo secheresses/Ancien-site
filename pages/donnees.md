@@ -83,7 +83,7 @@ Le visualiseur du *Climsec-Drias* ([cliquez ici](http://drias-climat.fr/decouver
 
 > Plus la couleur vire vers le rouge plus les sols seront *très secs* par rapport à en 1970. Si dans le *sud* de la métropole une partie de la zone reste en jaune dont en critère *normal* c'est il n'y a pas d'évolution de la sécheresse des sols. Ces sols étaient déjà considérés comme *très secs* en 1970. Un sol "très sec" ne veut pas non plus dire qu'il n'y a plus d'eau dans le sous-sol de la zone. On parle ici de sécheresse des sols de surface.
 
-**Comprendre combien de temps vont durer les périodes sèches à l'avenir**
+**Comprendre combien de temps vont durer les périodes sèches (pour les sols de surface) à l'avenir**
 
 Se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *impacts* > *humidité des sols* et se faire guider par le graphique dynamique. Si vous cliquez sur *En savoir plus* cela vous permet de télécharger une analyse plus poussée. 
 
@@ -96,7 +96,14 @@ Représenter les estimations des risques de possibilité de feux de forêt - *m�
 ![Risque de feux](../pages/images/feudeforet.png)
 *Risques de possibilité de feux de forêt en été* / *Climsec* / *Scénario dit "pessimiste A2"* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
-# Données liées au sous-sol et eaux sous-terraines (nappes phréatiques, zones imperméables, ...) métropole & les outre-mer
+# Données liées aux eaux de surface 
+
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/b6f8afd0ea851405fda183b204de66abcf4efdda) sur les **cours d'eau**
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/2307012099f2a7a7aca99c1467b1492e6e360a19) sur les **plans d'eau**
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/47c6e6173297f01950d9765288c225f89570de10) sur les **stations de mesure de la qualité des eaux superficielles continentales (STQ) - Métropole**
+* visualiser les [données de débit](http://hydro.eaufrance.fr/) des stations de mesure des eaux
+
+# Données liées au sous-sol et eaux sous-terraines métropole & les outre-mer
 
 Découvrir le niveau des nappes phréatiques & leur localisation: pour commencer
 ---
@@ -106,15 +113,34 @@ Pour savoir où en sont les nappes phréatiques mois par mois consulter les [car
 ![BRGM état nappes](../pages/images/brgm-nappes.png)
 [État nappes 1er janvier 2019, BRGM](https://www.brgm.fr/publication-presse/etat-nappes-eau-souterraine-1er-janvier-2019) 
 
-Localisation et nature des nappes phréatiques: pour aller plus loin
+Hydrogéologie
+---
+
+Le comportement des eaux-sous-terraines dans les roches dépend ... de la nature des roches. 
+
+* visualiser la [carte géologique de France](http://geoservices.brgm.fr/wms-c.html)
+* télécharger la [carte géologique de France au 1/1000000](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip) & [outils liés](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip)
+
+Forages, puits, sources, chateaux d'eau ...
+---
+
+Toutes les données sur les ouvrages (forages, sondages, puits et sources) souterrains du territoire sont collectées pour être conservées dans une base de données, la BSS, organisée et gérée par le BRGM.
+
+* visualiser la [carte de tous ces éléments](http://infoterre.brgm.fr/viewerlite/MainTileForward.do)
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/72ab4d229c26513b99300a2f0a9934bbcecb3c47) sur l'ensemble des points d'eau
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage
+
+
+Autre
 ---
 
 Accéder au [visualiseur des *entités hydrogéologiques de métropole*](https://bdlisa.eaufrance.fr/carte) conçu par les acteurs publics de l'eau en France. Pour les outre-mer vous avez possibilité de télécharger les données brutes sur [data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=bdlisa)
 
-* la couche *Entités hydrogéologiques affleurantes par nature* qui représente la *présence potentielle où non d'eau dans la roche*. Attention ça peut être contre-intuitif. Dans le *Doubs* c'est un grand massif calcaire ("secteur karstique") qui est en bleu puisqu'il y a potentiellement de l'eau et ça ne les a pas empêché de subir un ravitaillement en eau potable pour *35 communes*. 
-* la couche *Entités hydrogéologiques affleurantes par thème*. Les zones en *rouge* dites "socle" sont des zones où il y a peu de nappes phréatiques
-* la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière.
-* la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Les grandes zones en *bleu clair* dites *affleurantes* sont des grandes zones calcaires aves des sources, des cascades.
+* la couche *Entités hydrogéologiques affleurantes par nature* ne représente pas grand chose d'utile pour nous dans le sens où l'affleurant ne nous dit pas grand chose sur les centaines de mètres de profondeur de couches.
+* la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière. A savoir que cela ne nous renseigne pas grand chose pour la même raison que ci dessus.
+* la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Ne nous renseigne pas sur grand chose car il existe des calcaires compacts comme poreux dans lesquels l'eau va se comporter de manière totalement différente. 
+
+
 
 
 

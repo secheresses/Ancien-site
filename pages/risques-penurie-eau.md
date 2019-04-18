@@ -11,7 +11,7 @@ Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../meth
 # Des pénuries d'eau potable ?  
 > cf [méthode](../methode) 1. Choisir une problématique
 
-En explorant les cartes climatiques, *Thomas W* a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :  
+En explorant les cartes climatiques, *Thomas W* a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :
 
 Plus de 10% des communes du territoire du *Haut-Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements.
 
