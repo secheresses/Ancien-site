@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Références
-description: Ou les briques qui sont à la base de notre propos projections climatiques, données du sous-sol, feux de forêt, sécheresses, submersibilité, ...
+title: Données climatiques et physiques 2020 - 2100
+description: Ce sont les données scientifiques sur lesquelles nous nous appuyons pour travailler sur l'anticipation de zones à risques.
 permalink: /donnees
 ---
 
-# Projections climatiques pour la métropole & les outre-mer
+Projections climatiques pour la métropole & les outre-mer
+===
 
-> [*C'est un pari*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Des estimations sont devenues possible grâce aux données et simulations produites et mises en commun par des laboratoires de recherche entre nations. La France participe à ce travail scientifique collectif avec la contribution par trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (via lequel agissent le CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), le *Centre national de recherches météorologiques* (via lequel agissent Météo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (via lequel agissent le CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
+> [*Les projections climatiques dessinnent des tendances*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Les estimations climatiques sont devenues possible grâce aux données et simulations produites et mises en commun par des laboratoires de recherche entre nations. La France participe à ce travail scientifique collectif avec la contribution par trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (via lequel agissent le CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), le *Centre national de recherches météorologiques* (via lequel agissent Météo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (via lequel agissent le CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
 Une des manières les plus simples de lire leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/)
-Nous expliciterons lors d'une prochaine étape sur quels scénarios nous nous basons pour utiliser les estimations et pourquoi.
+
+Le climatologue [Hervé Le Treult](https://fr.wikipedia.org/wiki/Herv%C3%A9_Le_Treut), directeur de l'IPSL et représentant français du GIEC, a indiqué à [Camille](../collectif):
+
+> Les estimations, comme celles présentées sur le site [Drias](http://drias-climat.fr), ne prennent pas en compte les spécificités locales comme les micro-climats. Un massif forestier, un lac, influencent sur le climat. Les estimations représentent des tendances.
 
 Anticiper les évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
@@ -48,7 +52,6 @@ Anticiper les évolutions des précipitations jusqu'aux environ 2070 - *métropo
 
 * prévisions basées sur les données du *Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) 2014*
 * si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *précipitations* 
-
 
 Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères comme le *les anomalies de précipitations intenses en été* sur plusieurs horizons. Ce qui donne par exemple ceci: 
 
@@ -96,7 +99,8 @@ Représenter les estimations des risques de possibilité de feux de forêt - *m�
 ![Risque de feux](../pages/images/feudeforet.png)
 *Risques de possibilité de feux de forêt en été* / *Climsec* / *Scénario dit "pessimiste A2"* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
-# Données liées aux eaux de surface 
+Eaux de surface 
+===
 
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/b6f8afd0ea851405fda183b204de66abcf4efdda) sur les **cours d'eau**
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/2307012099f2a7a7aca99c1467b1492e6e360a19) sur les **plans d'eau**
@@ -104,7 +108,8 @@ Représenter les estimations des risques de possibilité de feux de forêt - *m�
 * visualiser les [données de débit](http://hydro.eaufrance.fr/) des stations de mesure des eaux
 * accéder aux [données sur la qualité des eaux de surface](http://www.naiades.eaufrance.fr/thematiques) (physico-chimie, hydrobiologie, température ...)
 
-# Données liées au sous-sol et eaux sous-terraines métropole & les outre-mer
+Sous-sol et eaux sous-terraines métropole & les outre-mer
+===
 
 Découvrir les restrictions d'eau en temps réel
 ---
@@ -126,32 +131,29 @@ Le comportement des eaux-sous-terraines dans les roches dépend ... de la nature
 
 * visualiser la [carte géologique de France](http://geoservices.brgm.fr/wms-c.html)
 * télécharger la [carte géologique de France au 1/1000000](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip) & [outils liés](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip)
-* [API qualité des nappes](http://hubeau.eaufrance.fr/page/api-qualite-nappes) - voir les différentes APIs
+* accéder au [visualiseur des *entités hydrogéologiques de métropole*](https://bdlisa.eaufrance.fr/carte) conçu par les acteurs publics de l'eau en France. Pour les outre-mer vous avez possibilité de télécharger les données brutes sur [data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=bdlisa)
+ * la couche *Entités hydrogéologiques affleurantes par nature* ne représente pas grand chose d'utile pour nous dans le sens où l'affleurant ne nous dit pas grand chose sur les centaines de mètres de profondeur de couches.
+ * la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière. A savoir que cela ne nous renseigne pas grand chose pour la même raison que ci dessus.
+ * la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Ne nous renseigne pas sur grand chose car il existe des calcaires compacts comme poreux dans lesquels l'eau va se comporter de manière totalement différente. 
 
 Forages, puits, sources, chateaux d'eau ...
 ---
 
 Toutes les données sur les ouvrages (forages, sondages, puits et sources) souterrains du territoire sont collectées pour être conservées dans une base de données, la BSS, organisée et gérée par le BRGM.
 
-* avoir une [idée précise](http://propluvia.developpement-durable.gouv.fr/propluvia/faces/index.jsp) du **volume de prélèvement sur votre commune**
-* visualiser la [carte de tous ces éléments](http://infoterre.brgm.fr/viewerlite/MainTileForward.do)
-* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/72ab4d229c26513b99300a2f0a9934bbcecb3c47) sur l'ensemble des points d'eau
+* avoir une [idée précise](https://bnpe.eaufrance.fr/) du volume de prélèvement sur votre commune
+* visualiser la [carte de tous les forages, sondages, puits, sources, ...](http://infoterre.brgm.fr/viewerlite/MainTileForward.do)
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/72ab4d229c26513b99300a2f0a9934bbcecb3c47) sur l'ensemble des points d'eau. Chaque point d'eau est codifié avec un numéro de station BSSEAU. Et c'est grâce à ce numéro de station que vous pourrez retrouver toutes les informations concernant ce point d'eau.
 
 Eau potable
 ---
 
-* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage
+![mesures](https://bnpe.eaufrance.fr/sites/default/files/upload/images/BNPE_InfoTerre_0.png)
+
+* avoir une [idée précise](https://bnpe.eaufrance.fr/) du volume de prélèvement sur votre commune. Sélectionner le critère AEP (Alimention Eau Potable) pour découvrir le volume et l'origine de l'eau potable sur votre commune.
 * accéder aux [données du controle sanitaire de l'eau potable](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau#Resultats-du-controle-sanitaire-de-la-qualite-de-l-eau-potable-en-ligne-nbsp)
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage
 
-
-Autre
----
-
-Accéder au [visualiseur des *entités hydrogéologiques de métropole*](https://bdlisa.eaufrance.fr/carte) conçu par les acteurs publics de l'eau en France. Pour les outre-mer vous avez possibilité de télécharger les données brutes sur [data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=bdlisa)
-
-* la couche *Entités hydrogéologiques affleurantes par nature* ne représente pas grand chose d'utile pour nous dans le sens où l'affleurant ne nous dit pas grand chose sur les centaines de mètres de profondeur de couches.
-* la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière. A savoir que cela ne nous renseigne pas grand chose pour la même raison que ci dessus.
-* la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Ne nous renseigne pas sur grand chose car il existe des calcaires compacts comme poreux dans lesquels l'eau va se comporter de manière totalement différente. 
 
 
 
