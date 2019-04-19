@@ -41,7 +41,7 @@ Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons 
 
 ### Hypothèses sur les zones à risque I - hypothèses validées en grande partie mais c'est encore plus précis
 
-> On vous en dit plus très bientôt. Thomas nous prépare un débrief de sa session avec le docteur en sciences en hydrogéologie.
+> On vous en dit plus très bientôt. Thomas nous prépare un débrief de sa session avec le docteur en sciences en hydrogéologie. [La version brouillon est consutable ici](../hydrogeologie-penuries-explorations)
 
 Les zones à risques seraient des municipalités *localisées sur de grands reliefs avec des roches présentant un fort taux de karst* + qui sont localisées sur une formation géologique particulière qui ne leur permettent pas d'avoir de réserve d'eau sous-terraine + qui ne peuvent pas se raccorder à des réserves d'eau perennes des municipalités aux alentours (lacs, aquifère perché, source perenne) ou réaliser un forage profond: une absence de précipitations durant 2 mois peut mener à des pénuries d'eau potable une partie de l'année. **Validé en partie mais pas totalement**
 
@@ -61,28 +61,19 @@ Ce seraient des municipalités *localisées sur de grands ensembles imperméable
 
 ## Les hypothèses sur les insuffisances de précipitations pour les zones à risques I et II
 
-> On vous en dit plus très bientôt. Thomas nous prépare un débrief de sa session avec le docteur en sciences en hydrogéologie.
+> [Lire les réponses précises ici](../hydrogeologie-penuries-explorations)
 
 **Faux:** Le risque de manque d'eau potable survient souvent plusieurs mois après la période d'insuffisance de précipitations (le temps que l'eau remplisse les poches d'eau sous-terraines et soit captable). 
 **Vrai:** L'eau peut se déplacer de 30 à 40 mètres par heure dans certaines couches de calcaires compacts. Les montagnes sont composées d'alternances de couches perméables et d'autres imperméables. Autant dire que si rien ne retient l'eau - autrement dit si elle ne rencontre pas une couche imperméable - elle repartira et sera difficilement captable. L'intégralité des zones ne sont de loin pas concernées par cette conformation.
 **Faux:** sur des ensembles calcaires tels que décrits ci dessus les "sécheresses" de l'été semblent mener à un manque en automne. La réaction est rapide car l'eau s'écoule par des fissures, des crevasses, des tunnels (comme ceux que l'on visite en *spéléologie*). 
 **Presque vrai (en attente des feed-backs de Thomas sur l'hydrogéologie):** Pour une municipalité qui est localisée sur une formation géologique qui ne lui permet pas d'avoir de réserve d'eau sous-terraine et qui ne peut pas se raccorder à des réserves d'eau perennes des municipalités aux alentours une absence de précipitations durant 2 mois peut mener à des pénuries d'eau. Ce sont des zones particulières très dépendantes des précipitations.
 
-## Sources d'informations pour construire les hypothèses
+## Sources de données
 
-* MétéoFrance
 * DRIAS Climat
-* BDLisa
+* BDLisa - *pas assez précis*
 * Rapport Acclimaterra
 
-## Nos questionnements
-
-> En cours de préparation.
-
-* Comment se forment les *aquifères* et les *sources* sur les zones ayant des roches imperméables ? 
-* Sur les grands ensembles karstiques pourriez vous nous donner des exemples de forages profonds? 
-* Quelle est la fiabilité des modèles climatiques sur les précipitations? Pourriez vous nous expliciter les hypothèses que vous avez prises?
-* ...
 
 # Entretiens avec les populations concernées
 

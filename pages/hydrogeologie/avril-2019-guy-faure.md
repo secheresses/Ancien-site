@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Formation à l'hydrogéologie: Retranscription sommaire de la formation
+title: Notes issues de la formation à l'hydrogéologie
 description: 8 et 9 avril 19 - dans le cadre de l'exploration des zones à risques de pénuries en eau potable
 permalink: /hydrogeologie-penuries-explorations
 ---
 
 Voici quelques unes de mes notes simplifiées en vrac. Je les completerai au fur et à mesure et je mettrais à jour les hypothèses. 
 
-> Guy Faure est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion via la coopérative [lesvigies](http://lesvigies.fr) où on a décidé de soutenir la démarche. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. 
+> Guy Faure est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion via la coopérative [lesvigies](http://lesvigies.fr) où on a décidé de soutenir la démarche. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. Les notes ci dessous sont mes (Thomas Wolff).
 
 
-L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut et que rien ne retient l'eau... ça reppart. Ça peut être des zones potentielles à risque de pénuries en eau.
+L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut sur des zones composées par ces roches et que rien ne retient l'eau... ça reppart. Ça peut être des zones potentielles à risque de pénuries en eau.
 ===
 
 Où ça en métropole?
@@ -46,7 +46,7 @@ Pour mieux comprendre comment l'eau se comporte dans un réseau calcaire
 
 [Cliquez ici](http://planet-terre.ens-lyon.fr/article/erosion-karstique.xml) pour consulter les schémas fournis par l'*ENS de Lyon*
 
-C'est le fait qu'il y a des réserves d'eau "naturelles" qui font que les municipalités peuvent faire face aux insuffisancess des précipitations. C'est de loin le cas de toutes les zones.
+L'or bleu, ses réserves et la géologie
 ===
 
 > L'eau a toujours été un or bleu sur ces zones. Sur les massifs karstiques du Languedoc où il ne pleut pas de manière régulière il y a bien moins d'habitants au km2. Et pour cause: le Jura est habitué à des précipitations régulières tout au long de l'année. Les municipalités qui ne peuvent pas capter ou se brancher sur des aquifères sont tributaires de la quantité et de l'intensité des précipitations. 
