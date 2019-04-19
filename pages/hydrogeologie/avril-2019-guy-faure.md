@@ -1,41 +1,32 @@
 ---
 layout: default
-title: Retranscription sommaire de la formation du 8/9 avril 19 à l'hydrogéologie
-description: Exploration des zones à risques de pénuries en eau potable
+title: Formation à l'hydrogéologie: Retranscription sommaire de la formation
+description: 8 et 9 avril 19 - dans le cadre de l'exploration des zones à risques de pénuries en eau potable
 permalink: /hydrogeologie-penuries-explorations
 ---
 
 Voici quelques unes de mes notes simplifiées en vrac. Je les completerai au fur et à mesure et je mettrais à jour les hypothèses. 
 
-> Guy est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion. Je n'ai pas été déçu. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. 
+> Guy Faure est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion via la coopérative [lesvigies](http://lesvigies.fr) où on a décidé de soutenir la démarche. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. 
 
 
-L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut ... ça reppart. Ça peut être des zones potentielles à risque de pénuries en eau.
+L'eau peut se déplacer dans certaines roches à jusqu'à 30 / 40 mètres par heure. Donc quand il pleut et que rien ne retient l'eau... ça reppart. Ça peut être des zones potentielles à risque de pénuries en eau.
 ===
 
-Dans les roches calcaires ayant un fort taux de [karst](https://fr.wikipedia.org/wiki/Karst) - autrement dit des calcaires plutôt compacts - l'eau peut se déplacer jusqu'à 30 ou 40 mètres par heure. 
-
-Zones de métropole avec des **couches** de roches présentant un fort taux de karst
+Où ça en métropole?
 ---
 
 ![carte](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 **Ce sont les zones en violet**
 
-Les **couches** de roches présentant un fort taux de karst peuvent aussi être nommées **couches de calcaires compact**.
+Les roches "tectonisées" ayant un "fort taux de [karst](https://fr.wikipedia.org/wiki/Karst)" sont le plus souvent des reliefs ou des plateaux avec des roches de calcaires comptacts.
 
-Sauf qu'il y a beaucoup de situations où l'eau va rencontrer une couche imperméable non calcaire
----
+Voici une image d'un paysage caractéristique de ce type de formation dans le **Jura**. Une couche de roche calcaire compact est visible. 
 
->  Contrairement à une rivière les eaux souterraines sont mystérieuses pour presque tout l'homme. Et pour cause: ce n'est pas quelque chose qui se voit à l'oeil nu sauf si tu es formé.
+![karst-jura](https://c.pxhere.com/photos/07/e6/jura_village_chalon_valley-680709.jpg!d) *Publié sous Creative Commons 0*
 
-Les montagnes sont composées par des **alternances de couches de plusieurs dizaines à centaines de mètres qui sont tout sauf horizontales**. Certaines couches sont certes calcaires. Ce sont des **couches où l'eau circule**. Mais **d'autres couches sont plutôt imperméables** comme les couches de marnes. L'eau ruisselle sur ces couches plutôt imperméables de la même manière que l'eau ruisselle d'un toit.
-
-![coupe](http://www.mairie-la-pesse.com/wp-content/uploads/2012/04/coupe.gif)
-
-Dans le schéma ci dessus les couches plutôt imperméables (qui font plusieurs centaines de mètres tout de même) sont celles avec des croix, violettes, jaune. Et les couches perméables, composées de roches calcaires, sont celles en orange et bleu. Comme vous le voyez les couches sont loin d'être horizontales.
-
-L'eau va se déplacer très rapidement dans les couches de calcaires compacts
+Pourquoi l'eau s'écoule t-elle si vite dans ces roches puisqu'elles sont compactes? 
 ---
 
 Une **couche de calcaires compacts** peut fait plusieurs dizaine comme centaines de mètres d'épaisseur. 
@@ -50,81 +41,106 @@ Puisque les eaux de précipitations peuvent s'infiltrer & se déplacer dans le s
 
 Et voici maintenant [une vidéo](https://www.youtube.com/watch?v=YbdPfNdQ-qo) qui simplifie comment l'eau peut se comporter à l'intérieur d'une couche de roches qui empêche l'eau de se déplacer de plus de quelques mètres ... par an. 
 
-C'est pourquoi s'il ne pleut pas de manière suffisante certaines zones peuvent vite se retrouver en manque/pénurie d'eau
+Pour mieux comprendre comment l'eau se comporte dans un réseau calcaire
+---
+
+[Cliquez ici](http://planet-terre.ens-lyon.fr/article/erosion-karstique.xml) pour consulter les schémas fournis par l'*ENS de Lyon*
+
+C'est le fait qu'il y a des réserves d'eau "naturelles" qui font que les municipalités peuvent faire face aux insuffisancess des précipitations. C'est de loin le cas de toutes les zones.
 ===
 
-Tant qu'il pleut il y a pas de problème.
+> L'eau a toujours été un or bleu sur ces zones. Sur les massifs karstiques du Languedoc où il ne pleut pas de manière régulière il y a bien moins d'habitants au km2. Et pour cause: le Jura est habitué à des précipitations régulières tout au long de l'année. Les municipalités qui ne peuvent pas capter ou se brancher sur des aquifères sont tributaires de la quantité et de l'intensité des précipitations. 
 
-Les zones à risques sont les zones dont l'alimentation en eau potable d'une partie des municipalités dépend uniquement de la régularité des précipitations.
+A lire pour comprendre la suite
+---
 
-Quand on se dit que l'eau des précipitations s'échappe en quelques jours par des veines d'eau creusées dans la roche on a compris l'idée théorique principale. C'est un des facteurs qui fait que certaines municipalités du Haut-Doubs et du Haut-Jura se sont retrouvées ravitaillées en eau potable par camion citerne après la sécheresse de l'été 2018. 
+![coupe](https://camo.githubusercontent.com/086e00ffa014b7365613a9e3f834ae268774b8ba/687474703a2f2f7777772e6d61697269652d6c612d70657373652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30342f636f7570652e676966)
 
-Le cas de dernier recours aux camions citernes apparaît lorsque la municipalité: 
-- n'ont pas de formation géologique qui permette un stock d'eau dans le sous-sol
-- ne peut pas faire de raccordement avec une municipalité à qui il reste des réserves d'eau (qui peuvent parfois être petites, mais aussi parfois très conséquentes comme c'est le cas des lacs). 
+Les montagnes sont composées par des alternances de couches de plusieurs dizaines à centaines de mètres.
+
+Elles sont parfois irrégulières, cassées, plissées. 
+
+**Certaines couches de roches sont plutôt imperméables** comme c'est le cas des marnes et des couches l'argile (l'eau peut y ruisseller de la même manière dont elle ruisselle sur un toit). 
+
+**D'autres couches de roches, comme les calcaires, sont plutôt perméables** (l'eau peut s'y frayer des chemins).
+
+> Dans le schéma ci dessus les couches plutôt imperméables (qui font plusieurs centaines de mètres tout de même) sont celles avec des croix, violettes, jaune. Et les couches perméables, composées de roches calcaires, sont celles en orange et bleu. Comme vous le voyez les couches sont loin d'être horizontales.
+
+Donc quand il y a un lac sur une des zones
+---
+
+C'est parce que sous le lac ... il y a une couche plutôt imperméable qui empêche l'eau de s'écouler rapidement. Ce qu'on a du mal à s'imaginer c'est que le lac ... n'est parfois que la partie visible d'une grande couche de roche dans laquelle il y a de l'eau. C'est la **partie visible d'un réservoir** seulement. 
+
+Et quand il y a une source
+---
+
+C'est parce que l'eau, qui circule dans une couche de roches perméables, a rencontré une couche plutôt imperméable. Un réservoir se forme au contact de la roche imperméable. Lorsque l'eau trouve un exutoire la source apparaît. Elle est à sec lorsque le niveau d'eau descend en dessous du niveau de la source. 
+
+Le cas des pénuries d'eau potable dans le Doubs (Jura)
+---
 
 ![HautDoubs](https://anticiper.github.io/pages/images/cartepenuries.png)
 
-Insuffisance des précipitations
+Le schéma ci dessus représente la situation de crise dans le *Doubs (25)* à l'automne 2018. 
+
+**Une municipalité qui se retrouve dans le cas d'un ravitaillement d'eau potable par camion citerne (en rouge):** 
+- a subi une sécheresse (au moins 2 mois sans précipitations)
+- est présente sur une zone géologique ne présentant pas de réservoir suffisant pour capter les eaux de pluie. L'eau s'échappe. 
+- avait peut être une source de petit débit sur son territoire. Sauf que cette source a tari avec l'insuffisance de précipitations'
+- ne peut pas réaliser un forage car il est peu probable d'y capter de l'eau et très couteux
+- n'a pas pu se brancher à une réserve existante et suffisante d'eau (dispositif de **branchement**) dans une commune voisine. Un *lac*, le captage d'un *aquifère* ou une *source à fort débit* aurait pu être une réserve d'eau.
+
+**Une municipalité qui se retrouve dans le cas d'un branchement (en orange):** 
+- n'a plus de réserve d'eau suite à la sécheresse
+- mais a pu se brancher sur la réserve d'eau d'une municipalité avoisinante
+
+Insuffisance de précipitations
 ---
 
-Pour une municipalité:
-- qui est localisée sur une formation géologique qui ne lui permet pas d'avoir de réserve d'eau sous-terraine
-- qui ne peut pas se raccorder à des réserves d'eau perennes des municipalités aux alentours 
-
-une absence de précipitations durant 1 mois peut mener à des pénuries d'eau. 
-
-Ce sont des zones très dépendantes des précipitations
----
+Deux mois d'absence ou d'insuffisance de précipitations. (à vérifier)
 
 La vie de l'humain a toujours été liée à celle de l'eau. 
-Il y a moins d'habitants sur les plateaux calcaires du Languedoc que sur les plateaux calcaires du Jura. Et pour cause: le Jura est habitué à des précipitations régulières tout au long de l'année. 
-
+Il y a moins d'habitants sur les plateaux calcaires du Languedoc que sur les plateaux calcaires du Jura. 
 **Sauf que le climat change**
 
 Et les précipitations avec. C'est ce qui est arrivé en 2018. Nous irons à la rencontre du climatologue Serge Planton pour nous faire une idée des modèles permettant d'estimer les précipitations.
 
 A savoir que ce n'est pas juste la quantité des précipitations c'est aussi l'intensité. Lorsque des précipitations sont régulières alors 80% des eaux peuvent s'infiltrer. Lorsqu'elles sont intenses alors on est plutôt aux alentours de 50%.
 
-Les réserves d'eau sur les grands massifs calcaires
+Voici les cas spécifiques qui font qu'une commune présente sur un massif karstique ne fera sûrement pas face à des pénuries d'eau potable
 ===
 
-> Les nappes perchées vont poser des problèmes: ils sont pas épais, ils ont pas de volume, ils sont pas en liens avec les rivières. C'est une pellicule très très sensible. Et toutes les sources de petit débit. Il faut faire attention, il n'y a rien à faire parfois.
+**Découvrir en [cliquant ici](http://www.cpiehautdoubs.org/upload/pdf/plaquette_karst_agence_eau_2013.pdf) la carte des Ressources majeures en eau du Jura avec les zones actuelles et les zones stratégiques à venir. Vous découvrirez à la page 3 que la plupart des ressources majeures en eau actuelles et à venir sont des sources et quelques unes uniquement des lacs ou des aquifères profonds**
 
-Historiquement l'eau a toujours été l'or bleu sur ces zones. Mais à vrai dire c'est qui permet les réserves d'eau qui est l'or.
+L'eau potable de la municipalité provient d'une source **à débit important** qui sont perennes 
+---
 
-Le Maire de Saint Lupicin me racontait qu'il y a 40 ans son père et son grand père se levaient la nuit pour aller écouter les canalisations qui reliaient le village à la **source**, pour vérifier qu'il n'y avait pas de fuite. 
+Chaque source a son bassin d'alimentation. Le bassin d'alimentation c'est la zone par laquelle la source se recharge. 
 
-Aujourd'hui l'**alimentation en eau potable** est assurée par une **liaison au lac de Grand Rivière localisé à 20 km de là**. Cette alimentation est possible grace à des canalisations, une petite station pour rendre l'eau potable (ce sont des eaux déjà de base de très bonne qualité) mais aussi car le lac est **plus en altitude que la commune**. 
+Dans les grands massifs calcaires le débit des sources varie au jour le jour en fonction des précipitations. Vu que l'eau peut se déplacer plusieurs dizaines de mètres par heure dans un réseau karstique, s'il pleut, le débit de la source peut passer du simple au triple en moins d'une heure. Et inversement. 
 
-Les lacs: des réserves d'eau durables qui assurent la sécurité en eau potable pour les communes à proximité
+* Les sources qui ont peu de réserves (volume) s'arrêtent de fonctionner plusieures semaines ou mois après l'arrêt des précipitations. L'eau s'arrête de couler lorsque le niveau d'eau passe en dessous du niveau de l'entrée de la source. 
+* Les sources qui ont beaucoup de réserves (volume) peuvent continuer de fonctionner même à débit très très faible, toute l'année, même 3 mois après l'arrêt de précipitations. 
+
+L'eau potable de la municipalité provient d'un lac. Les lacs sont des réserves d'eau durables qui assurent la sécurité en eau potable pour les communes à proximité
 ---
 
 Les lacs peuvent être la partie à l'air libre de la partie d'une couche perméable. La zone imperméable peut être localisée plusieurs dizaines de mètres en dessous du lac ce qui signifie qu'une partie des roches sont saturées d'eau. Les limites du lac - horizontalement parlant - ne sont que la partie visible de la réserve d'eau. 
 
-> Même si plusieurs municipalités sur un plateau calcaire se ravitaillent sur un lac pour l'eau potable cela aura la plupart du temps très peu d'influence voir pas du tout. Le lac est parfois la partie immergée de l'iceberg. Pour vos donner une idée sur le plateau de Saint Lupicin on se ravitaille dans le Lac de Grande Rivière qui est à 20 km de là. Grâce à des canalisations. 
+> Même si plusieurs municipalités sur un plateau calcaire se ravitaillent sur un lac pour l'eau potable cela aura la plupart du temps très peu d'influence voir pas du tout. Le lac est parfois la partie immergée de l'iceberg. Pour vos donner une idée sur le plateau de Saint Lupicin on se ravitaille dans le Lac de Grande Rivière qui est à 20 km de là. Cette alimentation est possible grace à des canalisations, grâce une petite station pour rendre l'eau potable (ce sont des eaux déjà de base de très bonne qualité) mais aussi car le lac est **plus en altitude que la commune**. 
 
-Les cuvettes d'eau sous-terraines: des réserves d'eau qui se rechargent mais sont souvent fragiles. En cas de non précipitations sur des périodes conséquentes elles pourront faire l'objet de "solidarités entre municipalités"
+> Le Maire de Saint Lupicin me racontait qu'il y a 40 ans son père et son grand père se levaient la nuit pour aller écouter les canalisations qui reliaient le village à la **source**, pour vérifier qu'il n'y avait pas de fuite. 
+
+L'eau potable de la municipalité provient d'un aquifère (réserve d'eau sous-terraine)
 ---
 
-![couches](https://thumb.ccsd.cnrs.fr/5239312/large)
+> Les aquifères perchés vont souvent poser des problèmes: ils ne sont pas épais, ils ont peu de volume et ne sont pas en lien avec les rivières. C'est une pellicule très sensible. Contrairement à des massifs calcaires comme dans le Vaucluse les aquifères profonds sont difficile à capter et c'est souvent utopique (voir chapître suivant).
 
 Vu que la montagne est composée par des alternances irrégulières, cassées, plissées, de couches imperméables et de couches perméables ... tout est possible. Les lacs nous indiquent par exemple qu'il y a des roches imperméables à quelques mètres ou dizaines de mètres sous la surface. Sans quoi l'eau n'aurait pas pu s'accumuler. Il faut que quelque chose la retienne. 
 
 Depuis la surface on ne voit rien. Il n'y a pas de source. La végétation est classique. Pourtant il se peut géologiquement qu'à 40 mètres sous le sol une couche de roche imperméable (comme une cuvette) retient l'eau. Lorsqu'il pleut l'eau est retenue par la couche imperméable et va remplir en eau la roche calcaire jusqu'à ce que ça déborde. Lorsque ça déborde ça peut être à 20 mètres sous vos pieds et vous n'en verrez rien. La particularité de ces zones est qu'il y a une réserve. 
 
 > Même en allant sur le terrain avec toutes les cartes géologiques locales et en y passant une journée il est impossible de prédire s'il y a un stockage d'eau et s'il y en a un quel est son volume. Les cartes géologiques représentent les roches de surface. Elles nous permettent de comprendre comment son positionnées les roches et de nous faire une première idée de comment elles sont positionnées en dessous.Je prends souvent plusieurs journées pour réfléchir si on va faire un forage test. 1. il faut lire la carte géologique et réfléchir, très bien réfléchir.  2. puis tu vas essayer de représenter le type de formation que c'est. Et représenter les épaisseurs. Il y en a parfois pour plusieurs jours pour arriver à le découvrir, même en étant sur le terrain. Il faut faire attention aux fausses évidences. 
-
-
-Les sources: des débits fluctuants et un arrêt probable en cas d'insuffisance de précipitations sur plusieus semaines / mois. Toutes les sources ne sont pas perennes.
----
-
-Chaque source a son bassin d'alimentation. Le bassin d'alimentation c'est la zone par laquelle la source se recharge. Les sources de plaines au pied des grands massifs calcaires ont des très grands bassins d'alimentation et certaines petites sources de montagne des petits bassins d'alimentation.
-
-Dans les grands massifs calcaires le débit des sources varie au jour le jour en fonction des précipitations. Vu que l'eau peut se déplacer plusieurs dizaines de mètres par heure dans un réseau karstique, s'il pleut, le débit de la source peut passer du simple au triple en moins d'une heure. Et inversement. 
-
-* Les sources qui ont peu de réserves (volume) s'arrêtent de fonctionner plusieures semaines ou mois après l'arrêt des précipitations. L'eau s'arrête de couler lorsque le niveau d'eau passe en dessous du niveau de l'entrée de la source. 
-* Les sources qui ont beaucoup de réserves (volume) peuvent continuer de fonctionner même à débit très très faible, toute l'année, même 3 mois après l'arrêt de précipitations. 
 
 Les forages profonds dans les massifs calcaires: un mythe très souvent irréaliste
 ---
