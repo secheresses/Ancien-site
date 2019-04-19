@@ -41,7 +41,7 @@ Contactez Thomas au 06 42 45 97 81.
 
 **Favé Marie-Gabrielle**, citoyenne. *Facilitatrice* et *connectrice* du réseau [Ouishare](https://www.ouishare.net/). Conseillère au [CESER Nouvelle-Aquitaine](https://fr.wikipedia.org/wiki/Conseil_%C3%A9conomique,_social_et_environnemental_r%C3%A9gional) en tant que personnalité sur l'environnement reconue par le Préfet de Nouvelle-Aquitaine. 
 
-**Jonchères Camille**, citoyenne. *Sociologue*. Ex-cheffe de projet Nouvelle-Aquitaine pour la [Tournée Train du Climat](https://trainduclimat.fr/) et facilitatrice de la communauté scientifique. Ex-médiatrice scientifique d'[Acclimattera](http://www.acclimaterra.fr/) (*Comité scientifique de Nouvelle-Aquitaine sur le changement climatique*). 
+**Jonchères Camille**, citoyenne. *Sociologue*. Ex-cheffe de projet Nouvelle-Aquitaine pour la [Tournée Train du Climat](https://trainduclimat.fr/) et facilitatrice de la communauté scientifique. Ex-médiatrice scientifique d'[AcclimaTerra](http://www.acclimaterra.fr/) (*Comité scientifique de Nouvelle-Aquitaine sur le changement climatique*). 
 
 **Picton Caroline**, citoyenne. *Educatrice Jeunes Enfants* / pédagogie de la petite enfance. 
 
