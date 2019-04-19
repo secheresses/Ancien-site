@@ -11,9 +11,7 @@ Projections climatiques pour la métropole & les outre-mer
 > [*Les projections climatiques dessinnent des tendances*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Les estimations climatiques sont devenues possible grâce aux données et simulations produites et mises en commun par des laboratoires de recherche entre nations. La France participe à ce travail scientifique collectif avec la contribution par trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (via lequel agissent le CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), le *Centre national de recherches météorologiques* (via lequel agissent Météo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (via lequel agissent le CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
 Une des manières les plus simples de lire leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/)
 
-Le climatologue [Hervé Le Treult](https://fr.wikipedia.org/wiki/Herv%C3%A9_Le_Treut), directeur de l'IPSL et représentant français du GIEC, a indiqué à [Camille](../collectif):
-
-> Les estimations, comme celles présentées sur le site [Drias](http://drias-climat.fr), ne prennent pas en compte les spécificités locales comme les micro-climats. Un massif forestier, un lac, influencent sur le climat. Les estimations représentent des tendances.
+> Cependant, les estimations, comme celles présentées sur le site [Drias](http://drias-climat.fr), ne prennent pas en compte les spécificités locales comme les micro-climats. Un massif forestier, un lac, influencent sur le climat. Les estimations représentent des tendances.
 
 Anticiper les évolutions de températures jusqu'aux environ 2070 - *métropole & outre-mer*
 ---
