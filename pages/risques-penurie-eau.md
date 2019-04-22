@@ -28,14 +28,14 @@ Nous avons discuté, par téléphone où en live, avec 7 maires de communes de m
 
 En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
 
-# Les zones qui risquent des **pénuries d'eau potable sur plusieurs mois**: hypothèses au 22 avril 2019
+# Les zones qui risquent des pénuries d'eau potable sur plusieurs mois: hypothèses au 22 avril 2019
 
 > cf [méthode](../methode) 4. Mise à jour des critères après consultation d'experts. La présente mise à jour se fait après une formation de 2 jours avec un hydrogéologue et un atelier avec un climatologue spécialiste des modèles de prévision. Les comptes-rendus de ces échanges seront accessibles. 
 
-Les critères soumis à exploration
+Les critères
 ===
 
-> L'ensemble des critères semblent devoir être réunis et sont précis ci dessous.
+> L'ensemble des critères semblent devoir être réunis et sont précisés ci dessous.
 
 * La municipalité doit être localisée sur une zone de relief avec des couches de roches calcaires. Voir la carte ci dessous
 * La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché
