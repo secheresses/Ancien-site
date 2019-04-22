@@ -69,10 +69,10 @@ Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en
 
 **La municipalité fait ou fera face à un épisode de sécheresse supérieur à 2 mois**
 
-L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice *Soil Wetness Index (SWI)* du projet *Climsec* qui étudie les sécheresses . Cet indice prend en compte la végétation, l'évapotranspiration, le type de sol, ...
+L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183)( du projet *Climsec* qui étudie les sécheresses . Cet indice prend en compte la végétation, l'évapotranspiration, le type de sol, ...
 
 [Jeux de données](../donnees): 
-* les estimations du SWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2055
+* les estimations du SSWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2075
 
 Et si j'habite à côté?
 ===
