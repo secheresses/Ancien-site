@@ -151,6 +151,7 @@ Eau potable
 
 * avoir une [idée précise](https://bnpe.eaufrance.fr/) du volume de prélèvement sur votre commune. Sélectionner le critère AEP (Alimention Eau Potable) pour découvrir le volume et l'origine de l'eau potable sur votre commune.
 * accéder aux [données du controle sanitaire de l'eau potable](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau#Resultats-du-controle-sanitaire-de-la-qualite-de-l-eau-potable-en-ligne-nbsp)
+* télécharger la [géolocalisation et les informations](https://www.data.gouv.fr/fr/datasets/aires-dalimentation-de-captage-metropole/) des Aires d'alimentation de captage
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage
 
 

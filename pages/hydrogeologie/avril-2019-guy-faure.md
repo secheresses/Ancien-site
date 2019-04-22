@@ -5,7 +5,7 @@ description: 8 et 9 avril 19 - dans le cadre de l'exploration des zones à risqu
 permalink: /hydrogeologie-penuries-explorations
 ---
 
-Voici quelques unes de mes notes simplifiées en vrac. Je les completerai au fur et à mesure et je mettrais à jour les hypothèses. 
+Voici quelques unes de mes notes simplifiées en vrac. Je les completerai au fur et à mesure de mes explorations sur le massif du Jura.
 
 > Guy Faure est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion via la coopérative [lesvigies](http://lesvigies.fr) où on a décidé de soutenir la démarche. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. Les notes ci dessous sont mes (Thomas Wolff).
 
@@ -18,24 +18,31 @@ Où ça en métropole?
 
 ![carte](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-**Ce sont les zones en violet**
+**Ces zones sont localisées sur zones en violet**
 
-Les roches "tectonisées" ayant un "fort taux de [karst](https://fr.wikipedia.org/wiki/Karst)" sont le plus souvent des reliefs ou des plateaux avec des roches de calcaires comptacts.
+Les roches "tectonisées" ayant un "fort taux de [karst](https://fr.wikipedia.org/wiki/Karst)" sont le plus souvent des reliefs ou des plateaux avec des roches de calcaires. Les plateaux sont des couches de montagne relativement horizontales et sont inclinés vers des vallées. 
 
-Voici une image d'un paysage caractéristique de ce type de formation dans le **Jura**. Une couche de roche calcaire compact est visible. 
+Voici une image d'un paysage caractéristique de ce type de formation dans le **Jura**. Une couche de roche calcaire compact est visible. Ceci dit on ne la voit pas toujours parce que la couverture végétale recouvre presque tout. Lorsqu'on parle **couches** de roches elles peuvent être localisées sur les premiers kilomètres ... de profondeur sous nos pieds. 
 
-![karst-jura](https://c.pxhere.com/photos/07/e6/jura_village_chalon_valley-680709.jpg!d) *Publié sous Creative Commons 0*
+![karst-jura](https://c.pxhere.com/photos/07/e6/jura_village_chalon_valley-680709.jpg!d) 
+*Publié sous Creative Commons 0*
 
 Pourquoi l'eau s'écoule t-elle si vite dans ces roches puisqu'elles sont compactes? 
 ---
 
-Une **couche de calcaires compacts** peut fait plusieurs dizaine comme centaines de mètres d'épaisseur. 
+Une **couche de calcaires compacts** peut fait plusieurs dizaines comme centaines de mètres d'épaisseur. 
 
-Mais une roche compacte ne veut pas dire que l'eau ne peut pas s'y frayer un chemin. Au contraire. Dans certaines roches l'eau peut se déplacer de quelques centièmes de mm par heure. **Dans les calcaires compacts l'eau a creusé sur des très longues périodes des canalisations lui permettant de se déplacer à une vitesse de 30 - 40 mètres par heure**.
+Mais une roche compacte ne veut pas dire que l'eau ne peut pas s'y frayer un chemin. Au contraire. 
+
+**Dans les calcaires compacts l'eau a creusé sur des très longues périodes des canalisations (comme celles que l'on visite en spéologie) lui permettant de se déplacer à une vitesse de 30 - 40 mètres par heure**. 
+
+Explications:
+- Les couches de calcaires soumis à des fortes pressions (comme c'est le cas sur les zones de relief au cours de millions d'années) ont créé de nombreuses fissures et fracturations qui servent de drains aux eaux d'infiltration. 
+- Le calcaire est une roche qui se dissoud lentement (environ 0,1 mm de la roche de surface par an) lorsque l'eau des précipitations s'y inflitre. Autant dire qu'au cours de milliers d'années de véritables canalisations, grottes, cavités, peuvent aussi naître. 
 
 ![réseaukarstique](https://www.encyclopedie-environnement.org/app/uploads/2017/09/karst_fig2_schema-systeme-karstique-400x363.jpg)
 
-[Voici une vidéo de quelques minutes](https://www.youtube.com/watch?v=VPAlwSL4xnQ) qui simplifie comment l'eau peut se comporter à l'intérieur d'une couche de roches calcaires compacts de plusieurs centaines de mètres. 
+[Voici une vidéo de quelques minutes](https://www.youtube.com/watch?v=VPAlwSL4xnQ) qui simplifie comment l'eau peut se comporter à l'intérieur d'une couche de roches calcaires de plusieurs centaines de mètres. 
 
 Puisque les eaux de précipitations peuvent s'infiltrer & se déplacer dans le sous-sol de plusieurs dizaines de mètres par heure **il ne faudra pas longtemps à l'eau pour se déplacer à quelques kilomètres (si ce n'est dizaines de kilomètres) de la zone où il a plu**.
 
@@ -46,35 +53,43 @@ Pour mieux comprendre comment l'eau se comporte dans un réseau calcaire
 
 [Cliquez ici](http://planet-terre.ens-lyon.fr/article/erosion-karstique.xml) pour consulter les schémas fournis par l'*ENS de Lyon*
 
-L'or bleu, ses réserves et la géologie
+L'eau a toujours été l'or bleu sur ces zones.
 ===
 
-> L'eau a toujours été un or bleu sur ces zones. Sur les massifs karstiques du Languedoc où il ne pleut pas de manière régulière il y a bien moins d'habitants au km2. Et pour cause: le Jura est habitué à des précipitations régulières tout au long de l'année. Les municipalités qui ne peuvent pas capter ou se brancher sur des aquifères sont tributaires de la quantité et de l'intensité des précipitations. 
+Historiquement une des préoccupations des habitants de ces zones a toujours été de retenir l'eau. Dans leur livre *"Montagnes du Jura: géologie & paysages"* Messieurs Bichet et Campy l'expliquent bien: "Autrefois les gens des plateaux utlisaient des moyens divers: citernes pour le stockage de l'eau des toits, réservoirs remplis périodiquement par des camions citernes ... La moindre petite source ou retenue sur un niveau marneux était aménagée et utilisée pour le bétail. Les ruisseaux sont rares sur les plateaux: la totalité de l'eau s'infiltre et alimente les sources des vallées, largement en contrebas"; "Depuis une vingtaine d'années les forages profonds ou apports lointains ont résolu ce problème."
+
+> Sur les massifs karstiques du Languedoc où il ne pleut pas de manière régulière il y a bien moins d'habitants au km2. Et pour cause: le Jura est habitué à des précipitations régulières tout au long de l'année. Les municipalités qui ne peuvent pas capter ou se brancher sur des aquifères sont tributaires de la quantité et de l'intensité des précipitations.
 
 A lire pour comprendre la suite
 ---
 
+![coupe](../pages/images/geology-lods.png)
+
 ![coupe](https://camo.githubusercontent.com/086e00ffa014b7365613a9e3f834ae268774b8ba/687474703a2f2f7777772e6d61697269652d6c612d70657373652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f30342f636f7570652e676966)
 
-Les montagnes sont composées par des alternances de couches de plusieurs dizaines à centaines de mètres.
+Les montagnes sont composées par des alternances de couches de plusieurs dizaines à centaines de mètres.Les terrains du Jura sont composés à plus de 90% par des calcaires et des marnes. 
 
-Elles sont parfois irrégulières, cassées, plissées. 
+Ces couches sont parfois irrégulières, cassées par des failles, plissées. 
 
-**Certaines couches de roches sont plutôt imperméables** comme c'est le cas des marnes et des couches l'argile (l'eau peut y ruisseller de la même manière dont elle ruisselle sur un toit). 
+**Certaines couches de roches sont plutôt imperméables** comme c'est le cas des marnes (l'eau peut y ruisseller de la même manière dont elle ruisselle sur un toit). 
 
-**D'autres couches de roches, comme les calcaires, sont plutôt perméables** (l'eau peut s'y frayer des chemins).
+**D'autres couches de roches, comme les calcaires, sont plutôt perméables** (l'eau peut s'y frayer des chemins). 
 
-> Dans le schéma ci dessus les couches plutôt imperméables (qui font plusieurs centaines de mètres tout de même) sont celles avec des croix, violettes, jaune. Et les couches perméables, composées de roches calcaires, sont celles en orange et bleu. Comme vous le voyez les couches sont loin d'être horizontales.
+> Dans le schéma ci dessus les couches plutôt imperméables (qui font plusieurs centaines de mètres tout de même) sont celles avec des croix, violette, jaune. Et les couches perméables, composées de roches calcaires, sont celles en orange et bleu. Comme vous le voyez les couches de roches sont loin d'être horizontales.
 
 Donc quand il y a un lac sur une des zones
 ---
 
-C'est parce que sous le lac ... il y a une couche plutôt imperméable qui empêche l'eau de s'écouler rapidement. Ce qu'on a du mal à s'imaginer c'est que le lac ... n'est parfois que la partie visible d'une grande couche de roche dans laquelle il y a de l'eau. C'est la **partie visible d'un réservoir** seulement. 
+![lacchalain](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Le_lac_de_Chalain_-automne_-_Fontenu.jpg/640px-Le_lac_de_Chalain_-automne_-_Fontenu.jpg)*Lac de Chalain, Wikipedia, licence Creative Commons BY*
+
+C'est parce que sous le lac ... il y a une couche imperméable qui empêche l'eau de s'écouler. Ce qu'on a du mal à s'imaginer c'est que le lac ... n'est souvent que la partie visible d'une grande couche de roche dans laquelle il y a de l'eau. C'est la **partie visible d'un réservoir** seulement. 
 
 Et quand il y a une source
 ---
 
-C'est parce que l'eau, qui circule dans une couche de roches perméables, a rencontré une couche plutôt imperméable. Un réservoir se forme au contact de la roche imperméable. Lorsque l'eau trouve un exutoire la source apparaît. Elle est à sec lorsque le niveau d'eau descend en dessous du niveau de la source. 
+![Source](https://upload.wikimedia.org/wikipedia/commons/4/40/SourceDeLaLoue.jpg)*Source de la Loue, RKraasch, Creative Commons BY-SA*
+
+C'est parce que l'eau, qui circule dans une couche de roches perméables, a rencontré une couche imperméable. Un réservoir se forme au contact de la roche imperméable: toutes les canalisations, fissures, se remplissent. Lorsque l'eau trouve un exutoire la source apparaît. Elle est à sec lorsque le niveau d'eau descend en dessous du niveau de la source. 
 
 Le cas des pénuries d'eau potable dans le Doubs (Jura)
 ---
@@ -125,29 +140,36 @@ Dans les grands massifs calcaires le débit des sources varie au jour le jour en
 L'eau potable de la municipalité provient d'un lac. Les lacs sont des réserves d'eau durables qui assurent la sécurité en eau potable pour les communes à proximité
 ---
 
-Les lacs peuvent être la partie à l'air libre de la partie d'une couche perméable. La zone imperméable peut être localisée plusieurs dizaines de mètres en dessous du lac ce qui signifie qu'une partie des roches sont saturées d'eau. Les limites du lac - horizontalement parlant - ne sont que la partie visible de la réserve d'eau. 
+Les lacs sont la partie à l'air libre de la partie d'une couche perméable. La zone imperméable peut être localisée plusieurs dizaines de mètres en dessous du lac ce qui signifie que les roches au dessus de cette couche imperméable sont saturées d'eau. La limite d'eau du lac correspond en quelque sorte au niveau d'eau de la réserve d'eau. Certains grands lacs sont "bloqués" par des dépots de "roches morainiques" d'anciens grands glaciers qui recouvraient l'emplacement des lacs. 
 
 > Même si plusieurs municipalités sur un plateau calcaire se ravitaillent sur un lac pour l'eau potable cela aura la plupart du temps très peu d'influence voir pas du tout. Le lac est parfois la partie immergée de l'iceberg. Pour vos donner une idée sur le plateau de Saint Lupicin on se ravitaille dans le Lac de Grande Rivière qui est à 20 km de là. Cette alimentation est possible grace à des canalisations, grâce une petite station pour rendre l'eau potable (ce sont des eaux déjà de base de très bonne qualité) mais aussi car le lac est **plus en altitude que la commune**. 
 
 > Le Maire de Saint Lupicin me racontait qu'il y a 40 ans son père et son grand père se levaient la nuit pour aller écouter les canalisations qui reliaient le village à la **source**, pour vérifier qu'il n'y avait pas de fuite. 
 
-L'eau potable de la municipalité provient d'un aquifère (réserve d'eau sous-terraine)
+L'eau potable de la municipalité provient d'un aquifère (réservoir d'eau sous-terrain)
 ---
-
-> Les aquifères perchés vont souvent poser des problèmes: ils ne sont pas épais, ils ont peu de volume et ne sont pas en lien avec les rivières. C'est une pellicule très sensible. Contrairement à des massifs calcaires comme dans le Vaucluse les aquifères profonds sont difficile à capter et c'est souvent utopique (voir chapître suivant).
 
 Vu que la montagne est composée par des alternances irrégulières, cassées, plissées, de couches imperméables et de couches perméables ... tout est possible. Les lacs nous indiquent par exemple qu'il y a des roches imperméables à quelques mètres ou dizaines de mètres sous la surface. Sans quoi l'eau n'aurait pas pu s'accumuler. Il faut que quelque chose la retienne. 
 
-Depuis la surface on ne voit rien. Il n'y a pas de source. La végétation est classique. Pourtant il se peut géologiquement qu'à 40 mètres sous le sol une couche de roche imperméable (comme une cuvette) retient l'eau. Lorsqu'il pleut l'eau est retenue par la couche imperméable et va remplir en eau la roche calcaire jusqu'à ce que ça déborde. Lorsque ça déborde ça peut être à 20 mètres sous vos pieds et vous n'en verrez rien. La particularité de ces zones est qu'il y a une réserve. 
+Depuis la surface on ne voit rien. Il n'y a pas de source. La végétation est classique. Pourtant il se peut géologiquement qu'à 400 mètres sous le sol une couche de roche imperméable (comme une cuvette) retient l'eau. Lorsqu'il pleut l'eau est retenue par la couche imperméable et va remplir en eau la roche calcaire jusqu'à ce que ça déborde. Lorsque ça "déborde" ça peut être à 200 mètres sous vos pieds et vous n'en verrez rien. Pourtant il se peut qu'il y a des grandes réserves d'eau
+
+**Les petits aquifères perchés des plateaux**
+
+> Les aquifères perchés vont souvent poser des problèmes: ils ne sont pas bien souvent épais, ils ont peu de volume et ne sont pas en lien avec les rivières. C'est une pellicule très sensible.
+
+**Les réservoirs sous-terrains de volume conséquent: des particularités géologiques difficiles à localiser**
+
+> Dans le secteur de Délément il y a une cuvette où l'eau est bloquée par une couche de marnes à pus de 500 mètres de profondeur. La ville de Délémont puise aujourd'hui ses eaux dans un réservoir d'eau sous-terrain d'une centaine de mètres de profondeur compris entre deux couches imperméables. L'eau n'est donc pas polluée car elle est protégée par une couche imperméable. L'aquifère se recharge car il y a toujours des endroits où l'eau s'infiltre. 
+
+Dans leur livre "Les montages du Jura" les auteurs expliquent qu'en 1910 et 1913 une ligne de chemin de fer avait été percée au Mont d'Or à plus de 400 mètres sous le relief et sur 6 kilomètres. En traversant certaines zones les ouvriers ont du faire face à des "vidanges" brutale de canalisations remplies d'eau (jusqu'à 10 m3/s) qui correspondaient à la partie supérieur de la partie "noyée" de la couche de roche perméable.
 
 > Même en allant sur le terrain avec toutes les cartes géologiques locales et en y passant une journée il est impossible de prédire s'il y a un stockage d'eau et s'il y en a un quel est son volume. Les cartes géologiques représentent les roches de surface. Elles nous permettent de comprendre comment son positionnées les roches et de nous faire une première idée de comment elles sont positionnées en dessous.Je prends souvent plusieurs journées pour réfléchir si on va faire un forage test. 1. il faut lire la carte géologique et réfléchir, très bien réfléchir.  2. puis tu vas essayer de représenter le type de formation que c'est. Et représenter les épaisseurs. Il y en a parfois pour plusieurs jours pour arriver à le découvrir, même en étant sur le terrain. Il faut faire attention aux fausses évidences. 
 
-Les forages profonds dans les massifs calcaires: un mythe très souvent irréaliste
----
+**Les forages profonds dans les massifs calcaires: un mythe très souvent irréaliste car il y a moins de réservoirs sous-terrains qu'on pourrait l'imaginer**
 
 > C'est facile de faire des forages. Le but c'est de comprendre si la ressource est perenne: exploiter / gérer / protéger. Ca passe par la connaissance de la ressource avant toute chose. 
 
-> Pour un forage profond (>300 mètres) on va essayer de traverser les couches jusqu'à tomber sur une ressource d'eau perrenne. L'idéal serait de tomber sur une zone perméable saturée en eau. Sauf que l'eau circule et tout particulièrement dans les calcaires compacts où l'eau circule dans des veines d'eau. La chance pour tomber sur une veine d'eau perenne à 300 mètres de profondeur est faible. 
+> Pour un forage profond (>300 mètres) on va essayer de traverser les couches jusqu'à tomber sur une ressource d'eau perrenne. L'idéal serait de tomber sur une zone perméable saturée en eau, un réservoir d'eau sous-terrain. Sauf que, hors cas géologique particulier, l'eau s'écoulera vers les plaines par des veines d'eau. La chance pour tomber sur une veine d'eau perenne à 300 mètres de profondeur est faible. 
 
 > Il faut maîtriser la paléogéologie, l'hydrochimie, ... pour arriver à imaginer ce qu'il y a plusieurs centaines de mètres sous nos pieds. Paléogéographie > géographie ancienne. L'hydrologie est complètement associée à tout cela de même que la chimie des eaux. C'est une sorte de puzzle. Dans le Jura au dessus des reculées par exemple il y a quelques nappes aériennes perchées sauf qu'elles vont s'épuiser rapidement car il n'y a pas de solution de rechange. Nous ne sommes pas sur des plateaux vauclusiens qui ont des nappes profondes où il y a un vrai aquifère potentiel.
 
@@ -251,7 +273,7 @@ Contrairement aux nappes.
 > Je m'inquiète plus de la qualité que de la quantité. La quantité on a pas un changement climatique qui nous entrainera rapidement à devenir des pays comme l'Afrique du Nord c'est à dire très peu de précipitations. On aura toujours des lacs, des rivières, ... Il y aura des impacts locaux mais on aura pas une modification majeure sur le quantitatif hormis des municipalités qui n'auront plus accès à l'eau. Il n'y a pas beaucoup de cultures maraîchères, céréalières. Combien de forage dans la Drôme, dans la molasse, ont des pesticides ? Le danger c'est la quantité de pesticides liés les uns aux autres. Le danger n'est pas sur les nitrates c'est sur les pesticides. Et là il n'y a pas beaucoup de solutions. L'atrazine a été arrêté en 2003 et on en retrouve encore partout, sous la forme d'atrazine ou de dérivés. 
 
 
-> Qualité des eaux destinéees à la consommation humaine. Il n'y a pas de plan B pour gérer ça: sur certaines zones comme la nappe de Troye où plus de 100 forages ont fermé parce qu'ils étaient au dessus des seuils. Si on a pas de changement de l'agriculture il n'y a de solution.
+> Qualité des eaux destinées à la consommation humaine. Il n'y a pas de plan B pour gérer ça: sur certaines zones comme la nappe de Troye où plus de 100 forages ont fermé parce qu'ils étaient au dessus des seuils. Si on a pas de changement de l'agriculture il n'y a de solution.
 
 
 Montée des océans et nappes phréatiques
@@ -282,8 +304,6 @@ Les roches massives comme le granite ou les calcaires massifs sont très résist
 
 On vise des roches qui ont une résistibilité entre 100 et 300
 
-
-
 Puis on fait des études de risques en fonction de: 
 - la vulnérabilité
 - pression polluante
@@ -300,7 +320,7 @@ Une fois qu'on a fait le forage on le cale avec des graviers pour éviter que ç
 Il ne faut jamais mettre une pompe au niveau des crépines mais il faut se limiter à la moitié de l'aquifère. Ca permet d'économiser l'ouvrage. 
 On veut connaître combien on peut pomper. On va tracer une courbe débit / rabattement (niveau dynamique). Si on a pas d'idée on va attaquer à 1 m3/h. 
 
-Dans ton calcaire quand les niveaux d'eau est très bas tu peux toujours faire un sondage de reconnaissance sauf que tu vas au petit bonheur la chance si tu sais pas ce que sont tes cavités. Si c'est du calcaire massif avec des veines d'eau, chaud. Si c'est un calcaire crayeux, friable. 
+Dans ton calcaire quand les niveaux d'eau est très bas tu peux toujours faire un sondage de reconnaissance sauf que tu vas au petit bonheur la chance si tu sais pas ce que sont tes cavités. Si c'est du calcaire massif avec des veines d'eau, chaud. Si c'est un calcaire crayeux, friable, plus facile.
 
 Protection des captages et des ressources en eau
 ---

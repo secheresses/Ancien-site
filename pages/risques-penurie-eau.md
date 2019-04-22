@@ -5,30 +5,87 @@ description: Découvrir où seront en <strong>métropole</strong> et dans les <s
 permalink: /risques-penurie-eau
 ---
 
-Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (cf 4.). 
->*Camille* va proposer à un *climatologue* de répondre à nos questions. *Thomas W* part se former dans le Jura avec un docteur en hydrogéologie expert dans l'estimation de vulnérabilité des ressources en eau le 8 et 9 avril 2019.
+Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (cf 4.).
 
 # Des pénuries d'eau potable ?  
 > cf [méthode](../methode) 1. Choisir une problématique
 
-En explorant les cartes climatiques, *Thomas W* a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :
+En explorant les cartes climatiques, [Thomas](../collectif) a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :
 
-Plus de 10% des communes du territoire du *Haut-Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements.
+Plus de 10% des communes du territoire du *Haut-Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements. [Notre groupe](../collectif) en a aussi localisé dans les Vosges, le Languedoc, les Alpes, ...
 
-**Carte des pénuries d'eau potable dans le Doubs au 23 octobre 2018**
+**Exemple: carte des pénuries d'eau potable dans le Doubs au 23 octobre 2018**
 
 ![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
 
 *Source : préfecture du Doubs*
 
-# Rencontres avec des habitants concernés par des pénuries 
+# Rencontres avec des habitants concernés par des pénuries
+ 
 > cf [méthode](../methode) 2. Aller à la rencontre
 
 Nous avons discuté, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants, répartis en France métropolitaine. Tous ont connu des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture. Un a été contraint au ravitaillement en eau potable. Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement. Il est difficile de faire reconnaître l'état de catastrophe naturelle (utile pour des dédommagements) et cherchent des alternatives par eux-même. 
 
 En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
 
-# Hypothèses du groupe de travail
+# Les zones qui risquent des **pénuries d'eau potable sur plusieurs mois**: hypothèses au 22 avril 2019
+
+> cf [méthode](../methode) 4. Mise à jour des critères après consultation d'experts. La présente mise à jour se fait après une formation de 2 jours avec un hydrogéologue et un atelier avec un climatologue spécialiste des modèles de prévision. Les comptes-rendus de ces échanges seront accessibles. 
+
+Les critères soumis à exploration
+===
+
+> L'ensemble des critères semblent devoir être réunis et sont précis ci dessous.
+
+* La municipalité doit être localisée sur une zone de relief avec des couches de roches calcaires. Voir la carte ci dessous
+* La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché
+* La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
+* La municipalité fait face à un épisode de sécheresse long et non habituel
+
+
+**La municipalité doit être localisée sur une zone avec des formations karstiques plissées.**
+
+![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
+
+*Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
+
+Pour approfondir lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
+
+[Jeux de données](../donnees): 
+* la carte géologique de France au 1/1 000 000
+* la couche "formations karstiques" de la *BDlisa*
+
+**La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**
+
+Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en eau (quantité + qualité), que ce soit aujourd'hui ou à l'avenir. En cas d'insuffisance de précipitations il peut s'agir de sources à petit débit, des aquifères perchés, ... Lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
+
+[Jeux de données](../donnees): 
+* l'ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...) permettant à des citoyens de se renseigner. C'est un peu imcompréhensible pour l'instant il va falloir aider à interpréter tout ça.
+* pour le massif Jura la carte des ressources stratégiques sous-terraines (sources, aquifères profonds) actuelles et futures (non encore exploitées comme elles pourraient l'être)
+
+**La muncipalité ne peut pas se brancher sur une réserve d'eau perenne comme un lac ou une réserve d'eau conséquente sous-terraine ou une zone alimentée par une source à débit important**
+
+> En cours d'exploration. Complexe car beaucoup de communes sont depuis la fin du 20ème siècle dans cette situation ci. Avant l'eau était l'or bleu sur ces zones. Voir [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
+
+**La municipalité fait ou fera face à un épisode de sécheresse supérieur à 2 mois**
+
+L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice *Soil Wetness Index (SWI)* du projet *Climsec* qui étudie les sécheresses . Cet indice prend en compte la végétation, l'évapotranspiration, le type de sol, ...
+
+[Jeux de données](../donnees): 
+* les estimations du SWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2055
+
+Et si j'habite à côté?
+===
+
+Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial. 
+
+Autres situations liées à la qualité ou la quantité pouvant mener à des pénuries d'eau (autre zones) - explorations périphériques
+===
+
+> A venir
+
+
+# Hypothèses du groupe de travail - mars 2019
 > cf [méthode](../methode) 3. Réunir un groupe de travail mixte
 
 >Étaient présents [*Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*](../collectif).
