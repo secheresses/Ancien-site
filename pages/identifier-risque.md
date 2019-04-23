@@ -19,9 +19,9 @@ Les critères
 * La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
 * La municipalité fait face à un épisode de sécheresse long et non habituel
 
- <button onclick="document.getElementById('id01').style.display='block'"> La municipalité doit être localisée sur une zone avec des formations karstiques plissées.</button>
+ <button class="a" class="btn-panel-risque" onclick="document.getElementById('id01').style.display='block'"> La municipalité doit être localisée sur une zone avec des formations karstiques plissées.</button>
  
-<span id="id01" style="display:none">
+<span class="element-panel-risque" id="id01" style="display:none">
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
