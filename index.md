@@ -1,4 +1,4 @@
---
+---
 layout: default
 title: Changements climatiques
 description: Une démarche collaborative pour anticiper les zones à risques sur la métropole et les outre-mer.
@@ -6,7 +6,7 @@ description: Une démarche collaborative pour anticiper les zones à risques sur
 
 Besoin d'aide pour comprendre les [estimations du climat à venir](../donnees) ?   
 Nous proposons de l'aide pour lire ces données publiées par les organismes scientifiques. Nous tentons aussi de connaître les lieux comportant des risques.   
-C'est complexe, mais en rencontrant des scientifiques, des élus, et des habitants, on avance. Toutes nos excuses si nous alertons certaines zones à tord, c'est par principe de précaution, et en pensant fort aux personnes touchées.    
+C'est complexe, mais en rencontrant des scientifiques, des élus, et des habitants, on avance. Toutes nos excuses si nous alertons certaines zones à tord, par principe de précaution. Nous pensons fort aux personnes touchées.    
 
 # Les zones à risques de pénuries en eau potable
 
