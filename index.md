@@ -1,10 +1,12 @@
----
+--
 layout: default
 title: Changements climatiques
 description: Une démarche collaborative pour anticiper les zones à risques sur la métropole et les outre-mer.
 ---
 
-Les [estimations du climat à venir](../donnees) sont publiques, mais difficiles à lire et interprêter. Comment savoir **à quel point s'inquiéter** et **quelles zones seront les plus touchées**? 
+Besoin d'aide pour comprendre les [estimations du climat à venir](../donnees) ?   
+Nous proposons de l'aide pour lire ces données publiées par les organismes scientifiques. Nous tentons aussi de connaître les lieux comportant des risques.   
+C'est complexe, mais en rencontrant des scientifiques, des élus, et des habitants, on avance. Toutes nos excuses si nous alertons certaines zones à tord, c'est par principe de précaution, et en pensant fort aux personnes touchées.    
 
 # Les zones à risques de pénuries en eau potable
 
@@ -22,7 +24,7 @@ Le changement climatique amplifie les risques de pénurie et aggrave les existan
 3. La majeure partie des institutions semble attendre l'annonce d'*estimations climatiques précises et locales faisant consensus* (ce qui n'arrivera pas) pour *annoncer aux citoyens un risque précis*.
 4. Les habitants, élus, agriculteurs que nous avons rencontré préfèrent être avertis de nombreuses années en amont d'un risque potentiel - qui est peut être inavéré - que de ne pas l'être du tout. Nous pouvons faire de notre mieux, avec nos moyens, pour fournir une information honnête et de qualité.
 
-**Notre version du principe de précaution**
+**Notre version du principe de précaution
 
 > Si vous saviez qu'un avion a 10% de chances d'avoir un problème mécanique mettriez vous votre enfant dedans? 
 
