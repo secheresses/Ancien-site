@@ -38,22 +38,48 @@ Les critères
 > L'ensemble des critères semblent devoir être réunis et sont précisés ci dessous.
 
 * La municipalité doit être localisée sur une zone de relief avec des couches de roches calcaires. Voir la carte ci dessous
+* La municipalité fait face à un épisode de sécheresse conséquent
 * La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché
 * La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
-* La municipalité fait face à un épisode de sécheresse long et non habituel
 
+**La municipalité doit être localisée sur une zone avec des formations karstiques plissées affleurantes**
 
-**La municipalité doit être localisée sur une zone avec des formations karstiques plissées.**
+1. Localiser les zones en violet ci dessous
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 *Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
+
+2. Une fois qu'une zone en violet est localisée allez voir de plus près grâce au [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr) et cochez la case "entités ou secteurs karstiques"
+
+![Hydrobdlisa](../pages/images/bdlisa.eau.png)
+*Source: BDlisa*
+
+1. Repérez la zone qui attire votre attention et zoomez
+2. Faites la différence entre les *zones en bleu clair qui sont les zones avec des couches de calcaire affleurant* et les *zones en bleu foncé* qui sont les *zones avec de couches de calcaire en profondeur*. Les zones en bleu foncé sont souvent des réserves d'eau de grande quantité. Les roches peuvent sous certaines conditions être saturées d'eau.
+3. L'exploration continue avec les zones en bleu clair.
 
 Pour approfondir lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
 [Jeux de données](../donnees): 
 * la carte géologique de France au 1/1 000 000
 * la couche "formations karstiques" de la *BDlisa*
+
+**La municipalité fait ou fera face à un épisode de sécheresse conséquent**
+
+L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183) du projet *Climsec* qui étudie les sécheresses . 
+
+Cet indice prend en compte le couvert végétal, l'évapotranspiration, le type de sol, ...
+
+Il nous permet de se faire une idée des sécheresses aux alentours de 2035, 2055 et 2075 avec:
+- l'intensité des sécheresses 
+- leur durée
+- les difficultés de "recharge" 
+
+[Jeux de données](../donnees): 
+* les estimations du SSWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2075
+* Drias-climat.fr > Exploration > utiliser l'indice SSWI à l'échelle des mois (et non de saisons ou de l'année)
+* Climat-HD > sécheresses passées
 
 **La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**
 
@@ -65,24 +91,21 @@ Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en
 
 **La muncipalité ne peut pas se brancher sur une réserve d'eau perenne comme un lac ou une réserve d'eau conséquente sous-terraine ou une zone alimentée par une source à débit important**
 
+
 > En cours d'exploration. Complexe car beaucoup de communes sont depuis la fin du 20ème siècle dans cette situation ci. Avant l'eau était l'or bleu sur ces zones. Voir [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
-**La municipalité fait ou fera face à un épisode de sécheresse supérieur à 2 mois**
 
-L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183)( du projet *Climsec* qui étudie les sécheresses . Cet indice prend en compte la végétation, l'évapotranspiration, le type de sol, ...
-
-[Jeux de données](../donnees): 
-* les estimations du SSWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2075
-
-Et si j'habite à côté?
+Ouf: je ne rentre pas dans ces critères mais je suis tout de même sur une de ces zones en violet!
 ===
 
-Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial. 
+![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
+
+Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial.
 
 Autres situations liées à la qualité ou la quantité pouvant mener à des pénuries d'eau (autre zones) - explorations périphériques
 ===
 
-> A venir
+> A venir. Ont été considérées les pénuries d'eau potable avec deux autres études de cas. Etude 1: municipalités sur roche socle relief dépendant d'un aquifère à petit volume + sécheresse de 2 mois + incapacité de branchement. Etude 2: pollution intense des eaux la rendant non potable. Cette deuxième étude de cas est beaucoup plus complexe et l'étude 1 retient pour le moment notre attention.
 
 
 # Hypothèses du groupe de travail - mars 2019
@@ -131,10 +154,11 @@ Ce seraient des municipalités *localisées sur de grands ensembles imperméable
 * BDLisa - *pas assez précis*
 * Rapport Acclimaterra
 
-
 # Entretiens avec les populations concernées
 
 Les entretiens ont été réalisés avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dus à la sécheresse. 
+
+La retranscription des interviews de 12 habitants est à suivre.
 
 ## L'inconnu
 
