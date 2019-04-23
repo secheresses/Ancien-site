@@ -19,9 +19,10 @@ Les critères
 * La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
 * La municipalité fait face à un épisode de sécheresse long et non habituel
 
- <button class="btn" onclick="document.getElementById('id01').style.display='block'"> La municipalité doit être localisée sur une zone avec des formations karstiques plissées.</button>
+ <button onclick="document.getElementById('id01').style.display='block'"> La municipalité doit être localisée sur une zone avec des formations karstiques plissées.</button>
  
-<div id="id01" style="display:none">
+<span id="id01" style="display:none">
+
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 *Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
@@ -31,8 +32,8 @@ Pour approfondir lire [les notes de la formation avec l'hydrogéologue](../hydro
 [Jeux de données](../donnees): 
 * la carte géologique de France au 1/1 000 000
 * la couche "formations karstiques" de la *BDlisa*
-</div>
-
+</span>
+<abbr title="World Health Organization">WHO</abbr>
 **La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**
 Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en eau (quantité + qualité), que ce soit aujourd'hui ou à l'avenir. En cas d'insuffisance de précipitations il peut s'agir de sources à petit débit, des aquifères perchés, ... Lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
