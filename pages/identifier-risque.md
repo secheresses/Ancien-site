@@ -23,7 +23,7 @@ Les critères
  
 <div class="element-panel-risque" id="id01" style="display:none">
 <span onclick="this.parentElement.style.display='none'"
-  class="w3-button w3-red w3-display-topright">x</span>
+  class="btn panel-risque">x</span>
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 *Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
