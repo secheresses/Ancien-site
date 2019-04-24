@@ -19,12 +19,8 @@ Les critères
 * La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
 * La municipalité fait face à un épisode de sécheresse long et non habituel
 
-<button class="btn panel-risque" onclick="document.getElementById('id01').style.display='block'"> La municipalité doit être localisée sur une zone avec des formations karstiques plissées.</button>
+**La municipalité doit être localisée sur une zone avec des formations karstiques plissées.
  
-<div class="element-panel-risque" id="id01" style="display:none">
- 
-<button onclick="this.parentElement.style.display='none'"class="btn panel-risque">x</button>
-
 [Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 *Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
