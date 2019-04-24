@@ -14,7 +14,7 @@
   background-color: #5A5E6B; 
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
+  padding: 0px 0px;
   z-index: 1;
   right: 0;
 }
@@ -23,19 +23,3 @@
   display: block;
 }
 
-.panel-risque {
-      background-color: #5A5E6B; 
-      position:relative;left:0;top:0
-}
-
-.panel-risque:hover {
-      background-color: lightgray; 
-      position:relative;left:0;top:0
-}
-
-.element-panel-risque {
-    background-color: #EFEFEF; 
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 8px 12px;
-    position : relative;
-}
