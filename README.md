@@ -39,7 +39,4 @@ pour écrire ou mettre un jour un article connectez vous et éditez le:
 
 ## Credits
 
-* Hors mentions contraires tous les articles sont publiés selon les termes de la licence [Creative Commons 0 - Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). Vous êtes juridiquement libres de réutiliser et d'adapter tous les contenus selon votre volonté.
-
-![Public domain](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/publicdomain.png)
-
+Toutes nos publications, hors mention contraire, sont publiées sous la licence juridique Creative Commons BY vous autorisant à les réutiliser et les réadapter librement. 
