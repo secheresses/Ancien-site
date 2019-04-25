@@ -5,32 +5,30 @@ description: Les résultats actuelles de nos recherches sur les critères de ris
 permalink: /identifier-risque
 ---
 
-# Les zones qui risquent des pénuries d'eau potable sur plusieurs mois: hypothèses au 22 avril 2019
+# Quelles municipalités risquent des pénuries d'eau potable dans les prochains mois ?  
+Voici les résultats actuels de nos recherches, *pour les zones calcaires uniquement*. 
+> hypothèses au 22 avril 2019 ,  cf [méthode](../methode) : 4. Mise à jour des critères après consultation d'experts.  
+> La présente mise à jour se fait après une formation de 2 jours avec un hydrogéologue et un atelier avec un climatologue spécialiste des modèles de prévision. Les comptes-rendus de ces échanges seront accessibles ici. 
 
-> cf [méthode](../methode) 4. Mise à jour des critères après consultation d'experts. La présente mise à jour se fait après une formation de 2 jours avec un hydrogéologue et un atelier avec un climatologue spécialiste des modèles de prévision. Les comptes-rendus de ces échanges seront accessibles. 
+## Les critères pour une région calcaire
+> L'ensemble des critères précisés ci-dessous semblent devoir être réunis.
+La municipalité ...
+* est localisée sur une zone de relief avec des roches calcaires. 
+* est approvisionnée en eau potable par des sources à petit débit et/ou est branchée sur une réserve d'eau non perenne (ex : certains lacs perchés )
+* ne peut pas se brancher sur une autre réserve d'eau perenne
+* fait face à un épisode de sécheresse long et inhabituel
 
-Les critères
-===
-
-> L'ensemble des critères semblent devoir être réunis et sont précisés ci dessous.
-
-* La municipalité doit être localisée sur une zone de relief avec des couches de roches calcaires. Voir la carte ci dessous
-* La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché
-* La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
-* La municipalité fait face à un épisode de sécheresse long et non habituel
-
-**La municipalité doit être localisée sur une zone avec des formations karstiques plissées.
+**La municipalité est localisée sur une zone de relief avec des roches calcaires**
  
-[Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
+*Grands ensembles calcaires à relief : en violet ci dessous. En hydrogéologie elles sont nommées: "formations karstiques plissées"*.  
 
-*Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
+![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 Pour approfondir lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
 [Jeux de données](../donnees): 
 * la carte géologique de France au 1/1 000 000
 * la couche "formations karstiques" de la *BDlisa*
-</div>
 
 
 **La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**
