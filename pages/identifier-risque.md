@@ -21,6 +21,8 @@ La municipalité ...
 
 **La municipalité est localisée sur une zone de relief avec des roches calcaires**
  
+ Nous nous sommes intéressés aux zones calcaires, qui présentent de caractéristiques particulières. Dans les zones de relief (chaînes de montagne et plateaux), il existe dans lieux où l'eau peut manquer. En effet, certaines formations de roches ne retiennent pas l'eau sous-terraine. (Lors de fortes pluie, le débit atteint parfois 20km/h!)
+ 
 *Grands ensembles calcaires à relief : en violet ci dessous. En hydrogéologie elles sont nommées: "formations karstiques plissées"*.  
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
@@ -37,10 +39,10 @@ Pour approfondir lire [les notes de la formation avec l'hydrogéologue](../hydro
 Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en eau (quantité + qualité), que ce soit aujourd'hui ou à l'avenir. En cas d'insuffisance de précipitations il peut s'agir de sources à petit débit, des aquifères perchés, ... Lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
 [Jeux de données](../donnees): 
-* l'ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...) permettant à des citoyens de se renseigner. C'est un peu imcompréhensible pour l'instant il va falloir aider à interpréter tout ça.
-* pour le massif Jura la carte des ressources stratégiques sous-terraines (sources, aquifères profonds) actuelles et futures (non encore exploitées comme elles pourraient l'être)
+* l'ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...)ouvertes au public. C'est un peu imcompréhensible pour l'instant il va falloir aider à interpréter tout ça.
+* pour le massif du Jura  : la carte des ressources stratégiques sous-terraines (sources, aquifères profonds) actuelles et futures (pas encore exploitées ou pas totalement)
 
-**La muncipalité ne peut pas se brancher sur une autre réserve d'eau perenne **
+**La muncipalité ne peut pas se brancher sur une autre réserve d'eau perenne**
 
 Parfois, il existe de grande réserves d'eau d=sous-terraines, comme dans la région de Marseille ou de Nîmes. On appelle cela un "nidaboum". D'après nos recherches, les régions montagneuses comme dans les Alpes n'en contiennent pas (ou peu). Cependant nous n'avons pas trouvé d'informations assez précises pour le moment. Vous pouvez consulter la BDLisa pour observer si de grandes nappes phréatiques existent ou lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
