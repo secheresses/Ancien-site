@@ -10,7 +10,7 @@ Thomas est parti plusieurs mois dans le massif du Jura avec Caroline. Itinérant
 Les habitants
 ===
 
-![Doubs](../pages/images/cartespenuries.jpg)
+![Doubs](../pages/images/cartespenuries.png)
 
 > Des rencontres touchantes et pleines d'humanité. J'écris ce compte-rendu à proximité de zones touchées. 
 
