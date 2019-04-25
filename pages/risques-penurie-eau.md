@@ -21,8 +21,7 @@ Cependant, dans les régions calcaires de montagne, **le déplacement de l'eau s
   Dans le cas des régions à roches calcaires, nous appellons "zones sensibles" les zones où la capacité de stockage de l'eau est faible = où **l'approvisionnement en eau dépend de la régularité des précipitations.**
   Ainsi, une municipalité est sensible si les critères suivant sont réunis : 
 
-* elle est localisée sur une zone de relief avec des roches calcaires sans grandes réserves sous-terraines.  
-*[Voici le tutoriel pour les identifier.](../geologie-calcaire)* 
+* elle est localisée sur une zone de relief avec des roches calcaires sans grandes réserves sous-terraines.   *[Voici le tutoriel pour les identifier.](../geologie-calcaire)* 
 * elle est approvisionnée en eau potable par des sources à petit débit et/ou est branchée sur une réserve d'eau non perenne comme certains lacs perchés.  
 > Voir les [notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations) et les [jeux de données](../donnees):  
 --> ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...) permettant à des citoyens de se renseigner.  
@@ -35,7 +34,7 @@ Cependant, dans les régions calcaires de montagne, **le déplacement de l'eau s
 ## Prévoir les sécheresses dans l'année
 Si votre municipalité est sur une zone sensible, il peut être intéressant de connaître les prévisions de sécheresse pour l'année, car il n'est pas impossible qu'une sécheresse de plusieurs mois amène une pénurie d'eau temporaire.  Une sécheresse est due à un manque de précipitation pendant un temps long (plusieurs mois), mais aussi à des caractéristiques des sols, de la végétation, des roches et des habitations.  
 Voici [les prévisions saisonnieres par météofrance](http://www.meteofrance.com/accueil/previsions-saisonnieres) et leur [Explication](http://www.meteofrance.fr/climat-passe-et-futur/la-prevision-saisonniere).
-Nous supposons que les chambres d'agriculture ont plus d'information à disposition, mais sommes toujours en recherche.   
+Nous supposons que les chambres d'agriculture ont plus d'information à disposition, mais sommes toujours en recherche (help ;) )   
  
 
 ## Effet de la hausse des températures 2035-2055 
