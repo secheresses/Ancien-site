@@ -2,7 +2,7 @@
 layout: default
 title: Formation géologique
 description: Connaître la géologie des régions calcaires et son impact sur le comportement de l'eau
-permalink: /geologie-calcaireologie-calcaire
+permalink: /geologie-calcaire
 ---
 Voici comment repérer si votre municipalité répond au critère suivant :
 > La municipalité est localisée sur une zone de relief calcaire + n'est pas située sur une grande réserve d'eau sous-terraine.
