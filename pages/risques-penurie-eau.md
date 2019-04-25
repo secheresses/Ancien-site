@@ -37,51 +37,55 @@ Les critères
 
 > L'ensemble des critères semblent devoir être réunis et sont précisés ci dessous.
 
-* La municipalité doit être localisée sur une zone de relief avec des couches de roches calcaires. Voir la carte ci dessous
-* La municipalité fait face à un épisode de sécheresse conséquent
-* La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché
-* La muncipalité ne peut pas se brancher sur une réserve d'eau perenne
+__**La municipalité doit être localisée sur une zone avec des formations karstiques plissées + ne pas être situé sur un grand ensemble calcaire sous couche **__
 
-**La municipalité doit être localisée sur une zone avec des formations karstiques plissées affleurantes**
-
-1. Localiser les zones en violet ci dessous
+**Formations karstiques plissées**: les zones en violet ci dessous
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 *Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
 
-2. Une fois qu'une zone en violet est localisée allez voir de plus près grâce au [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr) et cochez la case "entités ou secteurs karstiques"
+**Ne doit pas être situé sur un grand ensemble calcaire sous couche**
+
+Une fois qu'une zone en violet est localisée allez voir de plus près grâce au [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr) et cochez la case "entités ou secteurs karstiques"
 
 ![Hydrobdlisa](../pages/images/bdlisa.eau.png)
 *Source: BDlisa*
 
 1. Repérez la zone qui attire votre attention et zoomez
-2. Faites la différence entre les *zones en bleu clair qui sont les zones avec des couches de calcaire affleurant* et les *zones en bleu foncé* qui sont les *zones avec de couches de calcaire en profondeur*. Les zones en bleu foncé sont souvent des réserves d'eau de grande quantité. Les roches peuvent sous certaines conditions être saturées d'eau.
-3. L'exploration continue avec les zones en bleu clair.
+2. Faites la différence entre les *zones en bleu clair qui sont les zones avec des couches de calcaire affleurant* et les *zones en bleu foncé* qui sont les *zones avec de couches de calcaire en profondeur*. Les zones en bleu foncé sont souvent des réserves d'eau de grande quantité. Les roches peuvent sous certaines conditions être saturées d'eau. S'il s'agit d'une zone de plusieurs dizaines de kilomètres il y a des chances qu'il y ait des réserves d'eau.
+3. L'exploration continue avec les zones en bleu clair ou les zones en bleu foncé de quelques kilomètres carré.
 
-Pour approfondir lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
+Pour comprendre pourquoi nous nous intéressons spécifiquement à ces zones lire [les notes de la formation hydrogéologie](../hydrogeologie-penuries-explorations)
 
 [Jeux de données](../donnees): 
 * la carte géologique de France au 1/1 000 000
 * la couche "formations karstiques" de la *BDlisa*
 
-**La municipalité fait ou fera face à un épisode de sécheresse conséquent**
+__**La municipalité fait ou fera face à un épisode de sécheresse conséquent**__
 
-L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183) du projet *Climsec* qui étudie les sécheresses . 
-
-Cet indice prend en compte le couvert végétal, l'évapotranspiration, le type de sol, ...
+L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183) du projet *Climsec* qui étudie les sécheresses. Cet indice prend en compte le couvert végétal, l'évapotranspiration, le type de sol, ...
 
 Il nous permet de se faire une idée des sécheresses aux alentours de 2035, 2055 et 2075 avec:
 - l'intensité des sécheresses 
 - leur durée
 - les difficultés de "recharge" 
 
+**Comment faire pour savoir**
+1. Rendez vous sur http://drias-climat.fr/decouverte/carte/climsec/scenario
+2. Dans la section *Indice* sélectionnez *Indicateur sècheresse d'humidité des sols (SSWI) du modèle ISBA*
+3. Dans la section *Indice* sélectionnez dans *Choix du pas de temps* l'ensemble des mois de l'année
+4. Dans la section *Horizon temporel* cochez *Horizon proche* + *Horizon moyen* + *Horizon lointain*
+5. Dans la section *Scénarios d'émissions* cochez *Scénario intermédiaire (A1B)* ou *Scénario pessimiste (A2)*
+6. Visualisez l'*Indicateur sécheresse d'humidité des sols SSWI* mois par mois. Nous vous recommandons de cliquer sur la carte qui vous intéresse (exemple: carte du mois d'août à horizon moyen) et de sélectionner grâce à la fonctionnalité *Domaine personnalisé* la zone qui vous intéresse. Cochez alors *Fond de carte détaillé* + *Isolignes* pour vous aider à y voir plus clair.
+7. Si la zone qui vous intéresse est plus de 3 mois consécutif au dessus d'une valeur SSWI de - 1,28 il y a fort à parier qu'il s'agisse d'une sécheresse. Les sécheresses commencent à être intenses à plus de 3 mois consécutifs au dessus d'une valeur de -1,75. En regardant mois par mois vous avez la possibilité de savoir quels sont les mois d'année où il y a le plus de probabilité de subir une sécheresse. Avoir une estimation sur la durée de la sécheresse.  Et d'avoir une estimation sur l'intensité des sécheresse. 
+
 [Jeux de données](../donnees): 
 * les estimations du SSWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2075
 * Drias-climat.fr > Exploration > utiliser l'indice SSWI à l'échelle des mois (et non de saisons ou de l'année)
-* Climat-HD > sécheresses passées
+* Climat-HD > pour comprendre les sécheresses passées et les "années exeptionnelles"
 
-**La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**
+__**La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**__
 
 Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en eau (quantité + qualité), que ce soit aujourd'hui ou à l'avenir. En cas d'insuffisance de précipitations il peut s'agir de sources à petit débit, des aquifères perchés, ... Lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
 
@@ -89,7 +93,7 @@ Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en
 * l'ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...) permettant à des citoyens de se renseigner. C'est un peu imcompréhensible pour l'instant il va falloir aider à interpréter tout ça.
 * pour le massif Jura la carte des ressources stratégiques sous-terraines (sources, aquifères profonds) actuelles et futures (non encore exploitées comme elles pourraient l'être)
 
-**La muncipalité ne peut pas se brancher sur une réserve d'eau perenne comme un lac ou une réserve d'eau conséquente sous-terraine ou une zone alimentée par une source à débit important**
+__**La muncipalité ne peut pas se brancher sur une réserve d'eau perenne comme un lac ou une réserve d'eau conséquente sous-terraine ou une zone alimentée par une source à débit important**__
 
 
 > En cours d'exploration. Complexe car beaucoup de communes sont depuis la fin du 20ème siècle dans cette situation ci. Avant l'eau était l'or bleu sur ces zones. Voir [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
@@ -100,7 +104,7 @@ Ouf: je ne rentre pas dans ces critères mais je suis tout de même sur une de c
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial.
+Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial et il s'agit donc d'en prendre soin.
 
 Autres situations liées à la qualité ou la quantité pouvant mener à des pénuries d'eau (autre zones) - explorations périphériques
 ===
