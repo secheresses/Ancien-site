@@ -5,196 +5,40 @@ description: Découvrir où seront en <strong>métropole</strong> et dans les <s
 permalink: /risques-penurie-eau
 ---
 
-Nous sommes à l'étape "Comprendre" de notre [méthode d'investigation](../methode). Nous vérifions nos hypothèses auprès d'experts du domaine (cf 4.).
+[Nous](../collectif) travaillons à rendre visible des [zones à risques de pénurie en eau potable sur plusieurs mois, sur la métropole et les outre-mer](../risques-penuerie-eau) **pour permettre [aux citoyens y résidant](eau-habitants-elus) d'anticiper en amont**. Les sécheresses de 2018 ont conduit de nombreuses communes à subir des ravitaillements, parfois avec des camions citernes, parfois des branchements et ceci car il n'y avait plus de réserve d'eau. Nous nous intéressons  à des territoires avec une géologie particulière qui induit que des sécheresses conséquentes peuvent y mener à des pénuries d'eau. Vous trouverez ci dessous un tutoriel pour comprendre l'exploration et vous tester à la localisation des zones. 
+# Historique de la démarche
 
-# Des pénuries d'eau potable ?  
-> cf [méthode](../methode) 1. Choisir une problématique
+L'histoire de notre exploration a débuté le *5 mars 2019* dans une ferme en Bourgogne où [Cécile, Alyssa, Fanny, Thomas P, Thomas W, Anton, Marie-Gabrielle, Caroline](../collectif) ont découvert les explorations de Thomas qui a [échangé avec des élus de territoires](../eau-habitants-elus) subissant des **sécheresses** et qui a localisé des zones en métropole subissant des **pénuries d'eau potable** comme c'est le cas du [Haut-Doubs (Massif du Jura) où plus de 10% des municipalité ont été touchées en 2018](../pages/images/cartepenuries.png). La première journée de cette rencontre a été vouée à ce qu'on sache tous [lire des estimations climatiques sur les décenies à venir](../donnees). Nous avons créé ce collectif et posé une [méthode](../methode) pour avancer pas par pas. [Nous avons décidé que tout serait public](../collectif). Nous sommes [allés à la rencontre d'habitants et d'élus déjà impactés par des pénuries d'eau](eau-habitants-elus) pour les écouter, leur demander de nous raconter leurs problématiques et ce qu'[ils](eau-habitants-elus) ont besoin de savoir pour anticiper. Nous avons défini [nos premières hypothèses pour repérer des zones à risques](../eau-hypotheses-v1). Pour les tester [Thomas](../collectif) a commandé une formation professionnelle auprès d'un [hydrogéologue](../hydrogeologie-penuries-explorations) et [Camille](../collectif) a organisé une rencontre avec un climatologue spécialiste des [modèles de prévision du climat et des impacts](../donnees). D'[autres personnes](../collectif) nous ont rejoint. Nos recherches et ces rencontres nous ont permi de mettre à jour nos hypothèses (qui évolueront encore) que vous pouvez découvrir ci dessous. Nous sommes dans [une phase](../methode) où [Fanny](../collectif) et [Guillaume](../collectif) travaillent à la création d'un tutoriel compréhensible que vous trouverez ci-dessous.
 
-En explorant les cartes climatiques, [Thomas](../collectif) a eu un doûte sur la sécurité en eau potable. La carte des ravitaillements par citerne en eau potable des municipalités du *Doubs* (qui est habituellement perçue comme une zone avec des pluies importantes) l'a ensuite frappé :
+# Tutoriel pas à pas
 
-Plus de 10% des communes du territoire du *Haut-Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements. [Notre groupe](../collectif) en a aussi localisé dans les Vosges, le Languedoc, les Alpes, ...
+ Pour commencer, nous nous intéressons particulièrement aux zones calcaires montagneuses (comme dans le Jura, les Alpes...). Dans ces zones, la qualité de l'eau n'est généralement pas un problème, on étudiera donc uniquement sa disponibilité. 
+## Quelles zones sont sensibles ? 
+L'eau des municipalités provient en général de [stations de captage](https://www.sdea.fr/index.php/fr/l-eau/l-apprentissage-de-l-eau/visiter-une-station-d-epuration/le-cycle-domestique-de-l-eau)
+ qui puisent l'eau des grandes nappes phréatiques. Les nappes se remplissent par la fonte des neiges en montagne, et par les précipitations tout au long de l'année.  Les différentes formations géologiques permettent (ou non) de stocker l'eau.
+Cependant, dans les régions calcaires de montagne, **le déplacement de l'eau sous-terre peut être rapide (jusqu'à 30 mètres / heure sur certaines roches).**
+  
+  Dans le cas des régions à roches calcaires, nous appellons "zones sensibles" les zones où la capacité de stockage de l'eau est faible = où **l'approvisionnement en eau dépend de la régularité des précipitations.**
+  Ainsi, une municipalité est sensible si les critères suivant sont réunis : 
 
-**Exemple: carte des pénuries d'eau potable dans le Doubs au 23 octobre 2018**
+* elle est localisée sur une zone de relief avec des roches calcaires sans grandes réserves sous-terraines.  
+*[Voici le tutoriel pour les identifier.](../geologie-calcaire)* 
+* elle est approvisionnée en eau potable par des sources à petit débit et/ou est branchée sur une réserve d'eau non perenne comme certains lacs perchés.  
+> Voir les [notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations) et les [jeux de données](../donnees):  
+--> ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...) permettant à des citoyens de se renseigner.  
+*Un peu incompréhensible pour l'instant, besoin d'aide pour les interpréter ;)*  
+--> pour le massif Jura : la carte des ressources stratégiques sous-terraines (sources, aquifères profonds) actuelles et futures encore exploitable
 
-![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
+* elle ne peut pas se brancher sur une autre réserve d'eau perenne (en cours d'exploration)
 
-*Source : préfecture du Doubs*
 
-# Rencontres avec des habitants concernés par des pénuries
+## Prévoir les sécheresses dans l'année
+Si votre municipalité est sur une zone sensible, il peut être intéressant de connaître les prévisions de sécheresse pour l'année, car il n'est pas impossible qu'une sécheresse de plusieurs mois amène une pénurie d'eau temporaire.  Une sécheresse est due à un manque de précipitation pendant un temps long (plusieurs mois), mais aussi à des caractéristiques des sols, de la végétation, des roches et des habitations.  
+Voici [les prévisions saisonnieres par météofrance](http://www.meteofrance.com/accueil/previsions-saisonnieres) et leur [Explication](http://www.meteofrance.fr/climat-passe-et-futur/la-prevision-saisonniere).
+Nous supposons que les chambres d'agriculture ont plus d'information à disposition, mais sommes toujours en recherche.   
  
-> cf [méthode](../methode) 2. Aller à la rencontre
 
-Nous avons discuté, par téléphone où en live, avec 7 maires de communes de moins de 300 habitants, répartis en France métropolitaine. Tous ont connu des restrictions d'eau de "crise” interdisant l’utilisation de l’eau pour l’agriculture. Un a été contraint au ravitaillement en eau potable. Ils expriment une forte crainte pour l'avenir, ainsi qu'un sentiment d'isolement. Il est difficile de faire reconnaître l'état de catastrophe naturelle (utile pour des dédommagements) et cherchent des alternatives par eux-même. 
-
-En bas de la page, retrouvez plus de détails sur leurs ressentis et leurs connaissances du problème. 
-
-# Les zones qui risquent des pénuries d'eau potable sur plusieurs mois: hypothèses au 22 avril 2019
-
-> cf [méthode](../methode) 4. Mise à jour des critères après consultation d'experts. La présente mise à jour se fait après une formation de 2 jours avec un hydrogéologue et un atelier avec un climatologue spécialiste des modèles de prévision. Les comptes-rendus de ces échanges seront accessibles. 
-
-Les critères
-===
-
-> L'ensemble des critères semblent devoir être réunis et sont précisés ci dessous.
-
-__**La municipalité doit être localisée sur une zone avec des formations karstiques plissées + ne pas être situé sur un grand ensemble calcaire sous couche **__
-
-**Formations karstiques plissées**: les zones en violet ci dessous
-
-![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
-
-*Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
-
-**Ne doit pas être situé sur un grand ensemble calcaire sous couche**
-
-Une fois qu'une zone en violet est localisée allez voir de plus près grâce au [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr) et cochez la case "entités ou secteurs karstiques"
-
-![Hydrobdlisa](../pages/images/bdlisa.eau.png)
-*Source: BDlisa*
-
-1. Repérez la zone qui attire votre attention et zoomez
-2. Faites la différence entre les *zones en bleu clair qui sont les zones avec des couches de calcaire affleurant* et les *zones en bleu foncé* qui sont les *zones avec de couches de calcaire en profondeur*. Les zones en bleu foncé sont souvent des réserves d'eau de grande quantité. Les roches peuvent sous certaines conditions être saturées d'eau. S'il s'agit d'une zone de plusieurs dizaines de kilomètres il y a des chances qu'il y ait des réserves d'eau.
-3. L'exploration continue avec les zones en bleu clair ou les zones en bleu foncé de quelques kilomètres carré.
-
-Pour comprendre pourquoi nous nous intéressons spécifiquement à ces zones lire [les notes de la formation hydrogéologie](../hydrogeologie-penuries-explorations)
-
-[Jeux de données](../donnees): 
-* la carte géologique de France au 1/1 000 000
-* la couche "formations karstiques" de la *BDlisa*
-
-__**La municipalité fait ou fera face à un épisode de sécheresse conséquent**__
-
-L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183) du projet *Climsec* qui étudie les sécheresses. Cet indice prend en compte le couvert végétal, l'évapotranspiration, le type de sol, ...
-
-Il nous permet de se faire une idée des sécheresses aux alentours de 2035, 2055 et 2075 avec:
-- l'intensité des sécheresses 
-- leur durée
-- les difficultés de "recharge" 
-
-**Comment faire pour savoir**
-1. Rendez vous sur http://drias-climat.fr/decouverte/carte/climsec/scenario
-2. Dans la section *Indice* sélectionnez *Indicateur sècheresse d'humidité des sols (SSWI) du modèle ISBA*
-3. Dans la section *Indice* sélectionnez dans *Choix du pas de temps* l'ensemble des mois de l'année
-4. Dans la section *Horizon temporel* cochez *Horizon proche* + *Horizon moyen* + *Horizon lointain*
-5. Dans la section *Scénarios d'émissions* cochez *Scénario intermédiaire (A1B)* ou *Scénario pessimiste (A2)*
-6. Visualisez l'*Indicateur sécheresse d'humidité des sols SSWI* mois par mois. Nous vous recommandons de cliquer sur la carte qui vous intéresse (exemple: carte du mois d'août à horizon moyen) et de sélectionner grâce à la fonctionnalité *Domaine personnalisé* la zone qui vous intéresse. Cochez alors *Fond de carte détaillé* + *Isolignes* pour vous aider à y voir plus clair.
-7. Si la zone qui vous intéresse est plus de 3 mois consécutif au dessus d'une valeur SSWI de - 1,28 il y a fort à parier qu'il s'agisse d'une sécheresse. Les sécheresses commencent à être intenses à plus de 3 mois consécutifs au dessus d'une valeur de -1,75. En regardant mois par mois vous avez la possibilité de savoir quels sont les mois d'année où il y a le plus de probabilité de subir une sécheresse. Avoir une estimation sur la durée de la sécheresse.  Et d'avoir une estimation sur l'intensité des sécheresse. 
-
-[Jeux de données](../donnees): 
-* les estimations du SSWI sur des mailles du 12 km x 12 km pour la métropole jusqu'en 2075
-* Drias-climat.fr > Exploration > utiliser l'indice SSWI à l'échelle des mois (et non de saisons ou de l'année)
-* Climat-HD > pour comprendre les sécheresses passées et les "années exeptionnelles"
-
-__**La municipalité doit être approvisionnée en eau potable par des sources à petit débit et/ou être branché sur une réserve d'eau non perenne comme un aquifère perché**__
-
-Autrement dit elle ne doit pas être approvisionnée par une réserve perenne en eau (quantité + qualité), que ce soit aujourd'hui ou à l'avenir. En cas d'insuffisance de précipitations il peut s'agir de sources à petit débit, des aquifères perchés, ... Lire [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
-
-[Jeux de données](../donnees): 
-* l'ensemble de tous les points d'eau (sources, forages...) avec toutes les informations (débit, qualité, hydrogéologie, ...) permettant à des citoyens de se renseigner. C'est un peu imcompréhensible pour l'instant il va falloir aider à interpréter tout ça.
-* pour le massif Jura la carte des ressources stratégiques sous-terraines (sources, aquifères profonds) actuelles et futures (non encore exploitées comme elles pourraient l'être)
-
-__**La muncipalité ne peut pas se brancher sur une réserve d'eau perenne comme un lac ou une réserve d'eau conséquente sous-terraine ou une zone alimentée par une source à débit important**__
-
-
-> En cours d'exploration. Complexe car beaucoup de communes sont depuis la fin du 20ème siècle dans cette situation ci. Avant l'eau était l'or bleu sur ces zones. Voir [les notes de la formation avec l'hydrogéologue](../hydrogeologie-penuries-explorations)
-
-
-Ouf: je ne rentre pas dans ces critères mais je suis tout de même sur une de ces zones en violet!
-===
-
-![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
-
-Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial et il s'agit donc d'en prendre soin.
-
-Autres situations liées à la qualité ou la quantité pouvant mener à des pénuries d'eau (autre zones) - explorations périphériques
-===
-
-> A venir. Ont été considérées les pénuries d'eau potable avec deux autres études de cas. Etude 1: municipalités sur roche socle relief dépendant d'un aquifère à petit volume + sécheresse de 2 mois + incapacité de branchement. Etude 2: pollution intense des eaux la rendant non potable. Cette deuxième étude de cas est beaucoup plus complexe et l'étude 1 retient pour le moment notre attention.
-
-
-# Hypothèses du groupe de travail - mars 2019
-> cf [méthode](../methode) 3. Réunir un groupe de travail mixte
-
->Étaient présents [*Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*](../collectif).
-Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
-
-## Critères pour localiser les municipalités risquant des pénuries d'eau potable
-
-
-> Nous sommes entrain de vérifier la validité de ces hypothèses auprès d'experts scientifiques et techniques. Une mise à jour avec leur feed-back aura lieu fin avril 2019. Cette mise à jour devrait prendre en compte les estimations climatiques liées aux évolutions des précipitations. 
-
-### Hypothèses sur les zones à risque I - hypothèses validées en grande partie mais c'est encore plus précis
-
-> On vous en dit plus très bientôt. Thomas nous prépare un débrief de sa session avec le docteur en sciences en hydrogéologie. [La version brouillon est consutable ici](../hydrogeologie-penuries-explorations)
-
-Les zones à risques seraient des municipalités *localisées sur de grands reliefs avec des roches présentant un fort taux de karst* + qui sont localisées sur une formation géologique particulière qui ne leur permettent pas d'avoir de réserve d'eau sous-terraine + qui ne peuvent pas se raccorder à des réserves d'eau perennes des municipalités aux alentours (lacs, aquifère perché, source perenne) ou réaliser un forage profond: une absence de précipitations durant 2 mois peut mener à des pénuries d'eau potable une partie de l'année. **Validé en partie mais pas totalement**
-
-Notre autre hypothèse serait qu'il serait aussi possible de dire que: les municipalités *localisées sur de grands reliefs avec des roches présentant un fort taux de karst* + qui possèdent une formation géologique qui leur permettent de disposer d'une réserve d'eau (lacs, aquifère perché, sources) seront peut être dans l'obligation, en cas d'absence de précipitations durant 2 mois, de devoir faire preuve de solidarité territoriale envers des municipalités qui ne sont pas encore branchées sur leur réserve d'eau. Dans le cas d'aquifères perchés et de sources ces mêmes municipalités se retrouveront sûrement dans l'obligation de réguler l'usage de l'eau potable une partie de l'année. **Validé en partie mais pas totalement**
-
-![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
-
-*Grands ensembles calcaires à relief : en violet ci dessus. En hydrogéologie elles sont nommées: "formations karstiques plissées"*. 
-
-### Les hypothèses sur les zones à risque II sont (archi-)fausses et invalidées
-
-Ce seraient des municipalités *localisées sur de grands ensembles imperméables* avec des insuffisantes de précipitations. Sauf que les zones imperméables peuvent présenter de grandes nappes en profondeur (hors roches socle) et ... les protéger de la pollution grâce à une couche imperméable. Rien à voir donc. 
-
-![imperméables](https://bdlisa.eaufrance.fr/sites/default/files/inline-images/BDLISA_V2_carte_web.png)
-
-*Ensembles imperméables: en orange ci dessus. Source: BDlisa.*
-
-## Les hypothèses sur les insuffisances de précipitations pour les zones à risques I et II
-
-> [Lire les réponses précises ici](../hydrogeologie-penuries-explorations)
-
-**Faux:** Le risque de manque d'eau potable survient souvent plusieurs mois après la période d'insuffisance de précipitations (le temps que l'eau remplisse les poches d'eau sous-terraines et soit captable). 
-**Vrai:** L'eau peut se déplacer de 30 à 40 mètres par heure dans certaines couches de calcaires compacts. Les montagnes sont composées d'alternances de couches perméables et d'autres imperméables. Autant dire que si rien ne retient l'eau - autrement dit si elle ne rencontre pas une couche imperméable - elle repartira et sera difficilement captable. L'intégralité des zones ne sont de loin pas concernées par cette conformation.
-**Faux:** sur des ensembles calcaires tels que décrits ci dessus les "sécheresses" de l'été semblent mener à un manque en automne. La réaction est rapide car l'eau s'écoule par des fissures, des crevasses, des tunnels (comme ceux que l'on visite en *spéléologie*). 
-**Presque vrai (en attente des feed-backs de Thomas sur l'hydrogéologie):** Pour une municipalité qui est localisée sur une formation géologique qui ne lui permet pas d'avoir de réserve d'eau sous-terraine et qui ne peut pas se raccorder à des réserves d'eau perennes des municipalités aux alentours une absence de précipitations durant 2 mois peut mener à des pénuries d'eau. Ce sont des zones particulières très dépendantes des précipitations.
-
-## Sources de données
-
-* DRIAS Climat
-* BDLisa - *pas assez précis*
-* Rapport Acclimaterra
-
-# Entretiens avec les populations concernées
-
-Les entretiens ont été réalisés avec 7 maires des quatres coins de la France métropolitaine. Leurs communes ont subi des dommages dûs au changement climatique (surtout les agriculteurs). Un seul des 7 a connu une pénurie d'eau potable. Les autres ont des problèmes dus à la sécheresse. 
-
-La retranscription des interviews de 12 habitants est à suivre.
-
-## L'inconnu
-
-"On craint les catastrophes naturelles qui vont nous tomber dessus dans l’avenir. Quand on voit le manque d’eau qu’on a déjà : cette année 2 mois sans pluie, ça nous inquiète" 
->**7/7 partagent cette crainte** 
-
-*Vers qui se tournent-t-ils ? :*
-
-La plupart sont en attente :
-* d’une réaction de la Préfecture - État  5/7 .
-* d'une réponse sur l’avenir du syndicat de gestion du bassin versant 3/7
-* d’une réponse de l’Agence de l’Eau ou de la Chambre d’agri 1/7
-Ils attendent d'être avertis des évolutions de ressource en eau potable par “Véolia”  ou le “Syndicat de gestion du bassin versant”.
-
-*Comment cherchent-ils des alternatives?*
-* se renseignent par eux-mêmes 2/7 
-
-## Etat de calamité climatique
-
-Les mécanismes d'assurances pour les agriculteurs ne fonctionnent que lorsque les états de **calamité climatique** ou de **catastrophe naturelles** sont reconnus. C'est aux maires de fournir les preuves aux préfets. Il est urgent pour eux d'alerter les pouvoirs publics, mais l'attente de leur réponse créé un fort stress.
->**5/7 énoncent cette problématique**
-
-*Comment alertent-ils de dégâts climatique ?*
-* les agriculteurs sont souvent les premiers à alterter la mairie pour la reconnaissance de l’état de catastrophe naturelle 5/7. 
-
-*Comment être dédommagé ?*
-* dédommagements minimes pour les agriculteurs qui ont souscrit à des assurances pour la baisse du rendement agricole. Pour qu’ils soient dédommagés il faut que l’état de catastrophe naturelle soit décrété. C’est aux maires d’alerter la Préfecture. 
-* Les assurances ne remboursent pas si c’est les Préfectures qui interdisent l’utilisation de l’eau pour l’agriculture. 
-* Le Fond national de soutien à l’agriculture (état, ministère de l’agriculture) peut dédommager sur les rendements si l’état de calamité climatique est reconnu. Là aussi c’est aux maires de prévenir sur base de preuves.
-* Problématiques aux bâtiments municipaux et aux particuliers. Fissures et dégradations ont été remboursées en partie minime par les assureurs suite à la reconnaissance de l’état de catastrophe naturelle.
-
-## Isolement ? 
-Crainte de se retrouver "isolés" 
->**4/4**
-
+## Effet de la hausse des températures 2035-2055 
+Enfin, si vous souhaitez évaluer sur un horizon plus lointain la fréquence et l'importance des sécheresses, vous pouvez [consulter l'indice SSWi de sécheresse des sols](../indice-sswi). Pourquoi cet indice ?  
+Il croise les évolutions de températures prévues par le GIEC avec la végétation et l'activité humaine présents sur les territoires. En effet, ces éléments influent sur l'évaporation et les écoulements d'eau, et donc sur la capacité de remplissage des nappes.  
+De plus, il permet d'évaluer précisemment l'impact d'une hausse de température sur le sol d'un lieu spécifique (rayon de 12m2) et selon les mois/saisons de l'année. 
