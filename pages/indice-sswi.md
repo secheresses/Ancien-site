@@ -2,7 +2,7 @@
 layout: default
 title: Indice SSWI
 description: Comprendre l'indice SSWI de sécheresse des sols horizon 2035-2055
-permalink: /indice-isww
+permalink: /indice-sswi
 ---
 
 L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183) du projet *Climsec* qui étudie les sécheresses. Cet indice prend en compte le couvert végétal, l'évapotranspiration, le type de sol, ...
