@@ -2,7 +2,7 @@
 layout: default
 title: Formation géologique
 description: Connaître la géologie des régions calcaires et son impact sur le comportement de l'eau
-permalink: /geologie-calcaire
+permalink: /eau-geologie-karstique
 ---
 Voici comment repérer si votre municipalité répond au critère suivant :
 > La municipalité est localisée sur une zone de relief calcaire + n'est pas située sur une grande réserve d'eau sous-terraine.
@@ -21,7 +21,6 @@ En hydrogéologie elles sont nommées: "[formations karstiques plissées](http:/
 **Localiser un grand ensemble calcaire sous couche**
 
 Une fois qu'une zone en violet est localisée allez voir de plus près grâce au [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr) : 
-
 
 
 1. Cliquez sur "l'espace cartographique".  
