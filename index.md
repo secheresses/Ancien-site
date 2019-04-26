@@ -8,7 +8,7 @@ description: Une démarche collaborative pour anticiper les zones à risques sur
 
 # Notre première investigation: anticiper l'évolution des zones à risques de pénurie en eau potable en métropole et dans les outre-mer
 
-> L'eau potable paraît illimitée lorsqu'elle sort du robinet. Et pourtant. Pour vous donner un exemple plus de 10% des municipalités du Doubs (massif du Jura) ont pourtant vécu des [ravitaillements en eau potable sur plusieurs mois](../risques-penurie-eau) en 2018. La plupart ont été ravitaillées par des camions citernes. Cette situation est aussi observée dans de nombreuses [autres territoires](../risques-penurie-eau). Comment localiser les municipalités qui vont être touchées? Comment anticiper à l'avenir avec quelle régularité et quelle intensité de tels épisodes vont se produire? Nous discutons avec les élus et habitants des zones déjà touchées. Tous préfèrent préfèrent pouvoir anticiper de tels épisodes et savoir.
+> L'eau potable paraît illimitée lorsqu'elle sort du robinet. Et pourtant. Pour vous donner un exemple plus de 10% des municipalités du Doubs (massif du Jura) ont pourtant vécu des [ravitaillements en eau potable sur plusieurs mois](../risques-penurie-eau) en 2018. La plupart ont été ravitaillées par des camions citernes. Cette situation est aussi observée dans de nombreuses [autres territoires](../risques-penurie-eau). Comment localiser les municipalités qui vont être touchées? Comment anticiper à l'avenir avec quelle régularité et quelle intensité de tels épisodes vont se produire? Cette exploration citoyenne est publique et les résultats sont régulièrement mis à jour.
 
 Prenez par à notre première exploration sur les [pénuries d'eau potable](../risques-penurie-eau).
 
@@ -18,7 +18,7 @@ Prenez par à notre première exploration sur les [pénuries d'eau potable](../r
 
 **Notre constat:**
 1. Beaucoup d'institutions semblent attendre l'annonce d'*estimations climatiques précises et locales faisant consensus* et qu'on leur dise avec une *quasi-certitude quels sont les risques qui vont apparaître*. Ce qui n'arrivera jamais puisque les scientifiques ne s'accordent pas sur un modèle unique mais sur des scénarios et que chaque modèle présente de nombreuses incertitudes. 
-2. La communauté scientifique a fait un intense travail de publication de [données](../donnees) et d'études qui pour beaucoup sont disponibles. Les données sont habituellement utilisée par des institutions, des établissements publics ou des bureaux d'études. Et si nous avons du mal à les comprendre rien ne nous empêche de rencontrer des experts et de leur poser des questions.
+2. La communauté scientifique a fait un intense travail de publication de [données](../donnees) et d'études qui pour beaucoup sont disponibles. Les données sont habituellement utilisées par des institutions, des établissements publics ou des bureaux d'études. Et si nous avons du mal à les comprendre rien ne nous empêche de rencontrer des experts et de leur poser des questions.
 3. Les habitants, élus, agriculteurs que nous avons rencontré préfèrent tous être avertis de nombreuses années en amont d'un risque potentiel que de ne pas l'être du tout. 
 4. Nous pouvons faire de notre mieux, avec nos moyens, pour fournir à celles et ceux qui résident sur ces zones une information honnête et de qualité. 
 
