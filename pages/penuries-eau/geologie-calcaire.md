@@ -4,6 +4,9 @@ title: Formation géologique
 description: Connaître la géologie des régions calcaires et son impact sur le comportement de l'eau
 permalink: /eau-geologie-karstique
 ---
+
+*[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
+
 Voici comment repérer si votre municipalité répond au critère suivant :
 > La municipalité est localisée sur une zone de relief calcaire + n'est pas située sur une grande réserve d'eau sous-terraine.
 

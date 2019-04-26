@@ -5,6 +5,8 @@ description: Un descriptif synthétique des échanges avec les personnes qui ont
 permalink: /eau-habitants-elus
 ---
 
+*[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
+
 Thomas est parti plusieurs mois dans le massif du Jura avec Caroline. Itinérant il en profite pour passer du temps avec les habitants et élus pour écouter comment ça se passe pour eux et se faire une idée sur le terrain. Avec Fanny, Ally (et Anton?) on va téléphoner à des maires du Languedoc et des Alpes qui ont eu des pénuries et pour vérifier de comment ça se passe pour eux.
 
 Rappel 
@@ -12,16 +14,11 @@ Rappel
 
 Plus de 10% des communes du territoire du *Haut-Doubs* (massif du *Jura*) ont vécu des ravitaillements en eau potable par citerne ou des raccordements. [Notre groupe](../collectif) en a aussi localisé dans les Vosges, le Languedoc, les Alpes, ...
 
-**Exemple: carte des pénuries d'eau potable dans le Doubs au 23 octobre 2018**
-
-![Pénuries dans le Doubs](../pages/images/cartepenuries.png)
-
-*Source : préfecture du Doubs*
 
 Les habitants
 ===
 
-> En cours
+> En cours de retranscription, très (trop) sommaire. On va focaliser sur les problématiques pénibles.
 
 12 rencontres-interviews à cet instant. C'est pas facile à mener. En voici quelques extraits.
 

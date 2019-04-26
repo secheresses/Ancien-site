@@ -3,10 +3,14 @@ layout: default
 title: Nos hypothèses initiales (version 1) - pénuries en eau potable
 description: Un descriptif des premières hypothèses de mars 2019 que nous avons mis à jour après exploration et échanges avec des experts. 
 permalink: /eau-hypotheses-v1
+
+*[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
 ---
 
 >Étaient présents [*Cécile*, *Alyssa*, *Thomas P*, *Thomas W*, *Anton*, *Marie-Gabrielle*, *Camille*, *Caroline*](../collectif).
 Au cours d'une session de travail du *5 au 8 mars 2019* en Bourgogne nous avons fait les hypothèses suivantes que nous allons vérifier: 
+
+*[Revenir à la page précédente "Pénuries d'eau potable"](../risques-penurie-eau)*
 
 Nos premières hypothèses sur les critères qui nous auraient permis de localiser les municipalités risquant des [pénuries d'eau](../risques-penurie-eau) potable
 ===

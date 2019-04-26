@@ -5,6 +5,8 @@ description: 8 et 9 avril 19 - dans le cadre de l'exploration des zones à risqu
 permalink: /hydrogeologie-penuries-explorations
 ---
 
+*[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
+
 Voici quelques unes de mes notes simplifiées en vrac. Je les completerai au fur et à mesure de mes explorations sur le massif du Jura.
 
 > Guy Faure est docteur en sciences en hydrogéologie, fondateur du bureau du bureau d'études [Interface-eau](https://interface-eau.com/fr/) et de la société de forage/captage [Idées-eau](https://interface-eau.com/fr/). Aujourd'hui à la retraite active il est depuis toujours sur le terrain. Nous nous sommes retrouvés au siège de l'agence du Jura à Saint Lupicin pour une formation professionnelle de 2 jours sur-mesure que j'ai (Thomas Wolff) commandé à Guy Faure pour l'occasion via la coopérative [lesvigies](http://lesvigies.fr) où on a décidé de soutenir la démarche. Bien que de formation initiale en écologie Guy a souhaité me former d'abord à une vision globale (initiation à la paléogéologie, hydrochimie, forages) avant parler d'études de cas précises. Les notes ci dessous sont mes (Thomas Wolff).

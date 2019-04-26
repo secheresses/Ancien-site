@@ -5,6 +5,8 @@ description: Comprendre l'indice SSWI concernant sécheresse des sols
 permalink: /indice-sswi
 ---
 
+*[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
+
 L'indice qui nous permet le mieux à ce jour d'apprécier les sécheresses qui affecteront les sols est l'indice [SSWI](http://www.drias-climat.fr/accompagnement/section/183) du projet *Climsec* qui étudie les sécheresses. Cet indice prend en compte le couvert végétal, l'évapotranspiration, le type de sol, ...
 
 Il nous permet de se faire une idée des sécheresses aux alentours de 2035, 2055 et 2075 (en comparaison avec des valeurs des années 1970) avec:
