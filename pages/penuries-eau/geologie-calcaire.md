@@ -1,55 +1,54 @@
 ---
 layout: default
-title: Formation géologique
-description: Connaître la géologie des régions calcaires et son impact sur le comportement de l'eau
+title: Étape 1 du tutoriel
+description: Résidez vous sur une de ces zones où l'eau s'échappe et qui est sensible aux sécheresses?
 permalink: /eau-geologie-karstique
 ---
 
 *[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
 
-Voici comment repérer si votre municipalité répond au critère suivant :
-> La municipalité est localisée sur une zone de relief calcaire + n'est pas située sur une grande réserve d'eau sous-terraine.
+ du tutoriel pour anticiper les zones à risques de pénuries en eau potable
+===
 
-Les zones de relief sont celles où l'eau est la plus susceptible de "fuir" dans les rigoles formées par le calcaire(=karst).  
-Les grands ensemble sous-couche sont des vastes lieux naturels sous-terrains permettant le stockage de l'eau. 
+**Rappel**
 
-**Localiser une zone de relief calcaire**:
+Sur certaines de ces zones lorsqu'il pleut l'eau s'infiltre par des fissures de la roche et peut se déplacer jusqu'à 30 à 40 mètres par heure (ce qui est rapide). Si toute l'eau qui s'infiltre dans les roches est évacuée à plusieurs kilomètres de là il n'y a pas, ou peu, de réserves d'eau sous-terraines. D'où le fait que ce sont des zones très sensibles aux sécheresses.
+votre commune réside t-elle sur une des zones où les roches peuvent empêcher les réserves d'eau naturelles sous-terraines?
 
-Les grands ensembles calcaires à relief sont **en violet** ci dessous.  
+1.Résidez vous sur des zones en violet ci dessous
+---
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-En hydrogéologie elles sont nommées: "[formations karstiques plissées](http://www.rhone-mediterranee.eaufrance.fr/milieux-aquatiques/eaux-souterraines/formations-geologiques/calcaires.php)". 
+Les grands ensembles calcaires à relief sont **en violet**.
 
-**Localiser un grand ensemble calcaire sous couche**
+En hydrogéologie elles sont nommées: "[formations karstiques plissées](http://www.rhone-mediterranee.eaufrance.fr/milieux-aquatiques/eaux-souterraines/formations-geologiques/calcaires.php)". Ce sont des zones à calcaires compacts (contrairement aux autres calcaires représentés sur la carte).
 
-Une fois qu'une zone en violet est localisée allez voir de plus près grâce au [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr) : 
+2.Êtes vous localisé sur une zone en bleu clair ou en bleu foncé?
+--- 
 
-
-1. Cliquez sur "l'espace cartographique".  
-Cochez la case "entités ou secteurs karstiques"
+1. [visualisateur des acteurs de l'eau en France, BDLisa](http://bdlisa.eaufrance.fr)
+2. sélectionnez la couche "entités ou secteurs karstiques"
 
 ![Hydrobdlisa](../pages/images/bdlisa.eau.png)
 *Source: BDlisa*
 
+**Explication**
 
-2. Repérez la zone qui attire votre attention et zoomez. Vous pouvez observer deux couleurs : bleu clair et bleu foncé. 
+Les zones en **bleu clair** sont des zones affleurantes de calcaires. Ces couches peuvent faire plusieurs dizaines à centaines de mètres. Ce sont des zones particulièrement concernées par notre exploration. 
+Les zones en **bleu foncé** sont des zones où le calcaire est sous une couche imperméable (qui n'est pas du calcaire). Ce sont des zones qui, si elles sont plus grandes de quelques kilomètres carrés, peuvent s'évérer être des réserves d'eau sous-terraines conséquentes. Ou pas. C'est ce que nous découvrirons dans l'étape 3 du tutoriel.
 
-> Les  *zones en bleu clair*  sont des couches de *calcaire affleurant*(proches de la surface).  
-Les *zones en bleu foncé* sont des couches de *calcaire en profondeur*. 
+3.Violet + bleu clair ou petite zone en bleu foncé = on passe à l'étape 2
+---
 
-Les zones en bleu foncé présentent souvent des réserves d'eau de grande quantité, comme des cuvettes. Les roches peuvent sous certaines conditions être saturées d'eau. S'il s'agit d'une zone de plusieurs dizaines de kilomètres il y a des chances qu'il y ait des réserves d'eau.
+Ce qu'on peut dire c'est que vous êtes sur une zone dont les ressources en eau, si elles ne sont pas pérennes, sont très dépendantes des sécheresses. 
 
-3. L'exploration continue avec les zones en bleu clair ou les zones en bleu foncé de quelques kilomètres carré.
-
-> Les zones bleu clair ont souvent moins de possibilité de stockage. Pour les petites zones bleu foncées, la question est à étudier. 
-
-Pour comprendre le comportement de l'eau sur les zones karstiques, lire [les notes de la formation hydrogéologie](../hydrogeologie-penuries-explorations)
+[Prochaine étape du tutoriel: votre commune risque t-elle des sécheresses intenses aujourd'hui et à l'avenir?](indice-sswi)
 
 
-**Ouf: je ne rentre pas dans ces critères mais je suis tout de même sur une de ces zones en violet!**
 
 
-![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-Si vous habitez sur une des zones violettes (voir carte ci dessus) il se peut que votre commune soit invitée à faire preuve de "solidarité territoriale" même si elle ne rencontre pas de problématique lié à l'eau potable. L'eau a toujours été l'or bleu sur ces zones et si une formation géologique particulière garanti à votre ville/village une réserve d'eau c'est génial et il s'agit donc d'en prendre soin.
+
+
+
