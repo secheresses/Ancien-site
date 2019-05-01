@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pénuries en eau potable?
-description: Un tutoriel pour découvrir où seront les zones à risques de pénuries en eau potable, à partir de quelles années, quels mois de l'année seront concernés et avec quelle intensité/régularité ces pénuries risquent d'advenir.
+description: Découvrir où seront les zones à risques de pénuries en eau potable : à partir de quelles années ? quels mois de l'année ? avec quelle intensité/régularité  ?
 permalink: /risques-penurie-eau
 ---
 
@@ -9,6 +9,20 @@ Massif du Jura, département du Doubs, automne 2018. Les municipalités en rouge
 
 ![penuries](../pages/images/cartepenuries.png)
 *Source: Préfecture du Doubs*
+
+## Pourquoi ? 
+
+Dans ces régions, les roches sous-terraines ne stockent pas l'eau. Voici en images le phénomène :
+
+![explication1](../pages/images/explicationkarst1.png)
+> L'eau de pluie s'infiltre dans le sous-sol. C'est celle-ci qui est utilisée au quotidien par les communes. 
+
+![explication2](../pages/images/explicationkarst2.png)
+> Lors de périodes de sécheresses, l'eau s'évacue vers les plaines. 
+
+![explication3](../pages/images/explicationkarst3.png)
+> Il faut chercher d'autres moyens de s'approvisionner en eau : châteaux d'eau, aide de communes/régions voisines, nouveaux forages... ou approvisionnements par camions-citerne.  
+
 
 Le tutoriel
 ===
