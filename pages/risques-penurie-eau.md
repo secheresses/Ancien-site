@@ -14,14 +14,7 @@ Massif du Jura, département du Doubs, automne 2018. Les municipalités en rouge
 
 Dans ces régions, les roches sous-terraines ne stockent pas l'eau. Voici en images le phénomène :
 
-![explication1](../pages/images/explicationkarst1.png)
-> L'eau de pluie s'infiltre dans le sous-sol. C'est celle-ci qui est utilisée au quotidien par les communes. 
 
-![explication2](../pages/images/explicationkarst2.png)
-> Lors de périodes de sécheresses, l'eau s'évacue vers les plaines. 
-
-![explication3](../pages/images/explicationkarst3.png)
-> Il faut chercher d'autres moyens de s'approvisionner en eau : châteaux d'eau, aide de communes/régions voisines, nouveaux forages... ou approvisionnements par camions-citerne.  
 
 
 Le tutoriel
