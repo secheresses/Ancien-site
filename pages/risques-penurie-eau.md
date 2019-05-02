@@ -19,19 +19,18 @@ permalink: /risques-penurie-eau
 
 La situation est critique pour d'autres municipalités dans les Alpes, Languedoc, ...   
 
-**Pourquoi ?** Ces municipalités puisent l'eau potable sous-terre. Cependant, l'eau n'y est pas retenue longtemps, car sont des zones de **relief** à roches **calcaire**.  
+Pourquoi ? Ces municipalités puisent l'eau potable sous-terre. Cependant, l'eau n'y est pas retenue longtemps, car sont des zones de **relief** à roches **calcaire**.  
 
 Voici le phénomène en image : 
 
- Image | Explication
------------- | -------------
-![explication1](../pages/images/explicationkarst1.png ) | L'eau de pluie s'infiltre rapidement dans le sous-sol.  
-![explication2](../pages/images/explicationkarst2.png) | Lors de sécheresses, l'eau s'évacue vers les plaines. Jusqu'à 30 mètres par jour ! 
-![explication3](../pages/images/explicationkarst3.png) | Il faut utiliser d'autres sources d'eau (Châteaux d'eau ? Aides de communes voisines, nouveaux forages ..? )
+![explication1](../pages/images/explicationkarst1.png ) | ![explication2](../pages/images/explicationkarst2.png) | ![explication3](../pages/images/explicationkarst3.png)
+------------ | ------------- | -------------
+  L'eau de pluie s'infiltre rapidement dans le sous-sol | Lors de sécheresses, l'eau s'évacue vers les plaines. Jusqu'à 30 mètres par jour ! |  Il faut utiliser d'autres sources d'eau (Châteaux d'eau ? Aides de communes voisines, nouveaux forages ..? )
+
 
 ## A l'avenir ? 
 
-Il est prévu une hausse des températures moyennes d'environ 2° d'ici 30 ans, et la fiabilité est bonne.  
+Il est prévu une hausse des températures moyennes d'environ 2° d'ici 30 ans, avec fiabilité.
 
 Quel impact de la hausse des températures ? 
 * 🌩Phénomènes orageux : la pluie tombe "d'un coup". Les périodes sans pluie sont plus longues, et au total, moins d'eau s'infiltre dans le sol.
