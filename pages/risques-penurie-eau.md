@@ -7,11 +7,11 @@ permalink: /risques-penurie-eau
 
 # Des pénuries ? 
 
-##  :mountain: Dans le Doubs 
+##  Dans le Doubs 
 > Massif du Jura, département du Doubs, automne 2018.
 Les municipalités en rouge ont été ravitaillées par camion citerne, celles en orange ont réussi à se brancher sur des réserves d'autres municipalités, les jaunes sont en tension.  
 
-![penuries](../pages/images/cartepenuries.png =50x20)  
+![penuries](../pages/images/cartepenuries.png)  
 
 *Source: Préfecture du Doubs*  
 
@@ -32,7 +32,7 @@ Une hausse des températures est prévue, accompagnée d'un **espacement des pr�
 
 La conséquence ? Une amplification du risque de pénurie d'eau.
 
-Sources : GIEC, météofrance... ( à préciser )
+>Sources : GIEC, météofrance... ( à préciser )
 
 # Tutoriel pour évaluer le risque
 
