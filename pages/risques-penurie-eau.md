@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pénuries en eau potable?
-description: Découvrir où seront les zones à risques de pénuries en eau potable : à partir de quelles années ? quels mois de l'année ? avec quelle intensité/régularité  ?
+title: Zones à risques de pénuries en eau potable 
+description: Où ? À partir de quelles années ? Quels mois de l'année ? Avec quelle intensité/régularité  ?
 permalink: /risques-penurie-eau
 ---
 
