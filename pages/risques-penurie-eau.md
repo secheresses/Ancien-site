@@ -7,7 +7,7 @@ permalink: /risques-penurie-eau
 
 # Des pénuries ? 
 
-##  Dans le Doubs 
+##  ⛰️ Dans le Doubs 
 > Massif du Jura, département du Doubs, automne 2018.
 Les municipalités en rouge ont été ravitaillées par camion citerne, celles en orange ont réussi à se brancher sur des réserves d'autres municipalités, les jaunes sont en tension.  
 
