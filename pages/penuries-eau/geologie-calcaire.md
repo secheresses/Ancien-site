@@ -25,12 +25,11 @@ Pluie | Sécheresse
 
 ## 1. Du relief de type calcaire compact 
 
-Ils sont **en violet**.
+Êtes-vous sur une zone **en violet**? Ce sont les reliefs calcaire compacts. 
 
 ![Hydro](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
-En hydrogéologie, ces ensembles rocheux sont nommés: "[formations karstiques plissées](http://www.rhone-mediterranee.eaufrance.fr/milieux-aquatiques/eaux-souterraines/formations-geologiques/calcaires.php)".  
-
+En hydrogéologie, ces ensembles rocheux sont nommés: "[formations karstiques plissées](http://www.rhone-mediterranee.eaufrance.fr/milieux-aquatiques/eaux-souterraines/formations-geologiques/calcaires.php)",  
 
 ## 2. Pas de réserve d'eau sous-terraine
 
@@ -50,7 +49,7 @@ Les zones en **bleu foncé** le sont moins : le calcaire est sous une couche imp
 
 *Source: BDlisa*
 
-**Vous réunissez ces deux critères ?** (calcaire compact + peu de chances d'avoir de grandes réserves d'eau sous-terraines)
+## Vous réunissez ces deux critères ?
 
 Vos ressources en eau sont sûrement impactées fortement par les sécheresses. Pour connaître les périodes de sécheresse : [Prochaine étape du tutoriel: votre commune risque t-elle des sécheresses intenses aujourd'hui et à l'avenir?](indice-sswi)
 
