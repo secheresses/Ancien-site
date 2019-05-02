@@ -28,22 +28,34 @@ Ces municipalités puisent l'eau potable sous-terre. Cependant, l'eau n'y est pa
 
 ## A l'avenir ? 
 
-Une hausse des températures est prévue, accompagnée d'un **espacement des précipitations**. C'est à dire qu'il y a aura probablement plus de fortes pluies, suivies de longues périodes de sécheresse.   
+D'ici 30 ans, il est prévu une hausse des températures moyennes d'environ 2° (bonne fiabilité).  
+Une réduction de la quantité de précipitations annuelles est aussi prévue, mais moins marquée. 
 
-La conséquence ? Une amplification du risque de pénurie d'eau.
+Quel impact de la hausse des températures ? 
+* Phénomènes orageux : la pluie tombe "d'un coup". Les périodes sans pluie sont plus longues, et au total, moins d'eau s'infiltre dans le sol.
+* Evaporation
+* Augmentation du besoin en eau des plantes : Lorsque l'air est trop sec, les plantes utilisent plus d'eau au sol (de nombreux arbres peuvent boire 300L d'eau par jour !)
+
+La hausse des températures peut amener une **réduction des stocks d'eau sous-terrains**.  
+
+Dès que le sol et la flore sont impactés par le manque d'eau, on parle de [sécheresse](https://www.futura-sciences.com/planete/definitions/meteorologie-secheresse-6527/). Si les réserves d'eau sous-terraines se réduisent, on parle de sécheresse *hydrologique* . 
 
 >Sources : GIEC, météofrance... ( à préciser )
 
-# Tutoriel pour évaluer le risque
+# Evaluer le risque
 
-**3 étapes**
-1. Votre commune réside t-elle sur une des zones où les roches peuvent empêcher les réserves d'eau naturelles sous-terraines? Si oui ce qui peut mener à des pénuries d'eau ce sont les sécheresses.
-2. Votre commune risque t-elle des sécheresses aujourd'hui et à l'avenir? Quelle sera leur durée et leur intensité?
-2. Ces sécheresses peuvent-elles déboucher sur des pénuries d'eau potable? La réponse à cette question dépend notamment des réponses à la question: votre alimentation eu eau potable dépend elle de réserves en eau pérennes? 
+Il est possible d'évaluer le risque de pénurie d'eau potable grâce à plusieurs paramètres : 
 
-[Etape 1: résidez vous sur une des zones en violet ci dessous?](../eau-geologie-karstique)
+ n° | Etape | Explication
+------------ | ------------ | -------------
+1 | VOTRE REGION | Où résidez-vous ? Y a t-il des grandes réserves d'eau ?  
+2 | QUAND | Quand sont prévues des sécheresses ? Quelle sera leur durée et leur intensité ?
+3 | COMMENT |  Comment votre commune est alimentée en eau actuellement, est-ce des sources durables et suffisantes pour votre utilisation ? 
+
+## 1 / [Votre région](../eau-geologie-karstique)
 ---
 
+Résidez-vous sur une zone en violet en-dessous ? 
 ![zoneskarstiques](https://framapic.org/xew0XCOi6CGb/EytR2G0aYmA8)
 
 Si oui consultez le tutoriel [en cliquant ici](../eau-geologie-karstique) avant d'aller à l'étape 2. Seule une partie de ces zones est concernée. 
@@ -52,7 +64,7 @@ Si oui consultez le tutoriel [en cliquant ici](../eau-geologie-karstique) avant 
 
 Sur certaines de ces zones lorsqu'il pleut l'eau s'infiltre par des fissures de la roche et peut se déplacer jusqu'à 30 à 40 mètres par heure (ce qui est rapide). Si toute l'eau qui s'infiltre dans les roches est évacuée à plusieurs kilomètres de là il n'y a pas, ou peu, de réserves d'eau sous-terraines. D'où le fait que ce sont des zones très sensibles aux sécheresses.
 
-[Étape 2: votre commune risque t-elle des sécheresses conséquentes aujourd'hui et à l'avenir?](../indice-sswi)
+## 2 / [votre commune risque t-elle des sécheresses conséquentes aujourd'hui et à l'avenir?](../indice-sswi)
 ---
 
 Vous allez pouvoir découvrir pour votre territoire sur les années 2030-2040, 2050-2060, 2070-2080
@@ -67,8 +79,7 @@ Si pour votre commune les sécheresses classiques de la décénie 2030-2040 ou 2
 
 Si vous êtes sur une zone où il y a peu de possibilité de réserve d'eau et que vous traversez des sécheresses il se peut que les réserves d'eau soient taries quelques mois après le début des sécheresses. 
 
-Étape 3: de quelles réserves d'eau potable dépendez vous? Resteront-elles pérennes avec les sécheresses? 
----
+## 3 / de quelles réserves d'eau potable dépendez vous? Resteront-elles pérennes avec les sécheresses? 
 
 > Vous avez peut être découvert qu'à l'avenir les sécheresses seront plus longues et intenses qu'aujourd'hui. Peut être même que ce que nous appelons sécheresse aujourd'hui sera la normalité pour l'avenir. Respirez. Contrairement aux rivières que vous voyez avec vos yeux les eaux sous terraines sont parfois des vrais mystères. 
 
