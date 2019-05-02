@@ -5,29 +5,38 @@ description: Où ? À partir de quelles années ? Quels mois de l'année ? Avec 
 permalink: /risques-penurie-eau
 ---
 
-Massif du Jura, département du Doubs, automne 2018. Les municipalités en rouge sont celles ravitaillées par camion citerne, celles en orange celles qui ont réussi à se brancher sur des réservces d'eau d'autres municipalités, les jaunes sont en tension. La situation est critique aussi pour d'autres municipalités dans les Alpes, Languedoc, ...
+# Des pénuries ? 
 
-![penuries](../pages/images/cartepenuries.png)
-*Source: Préfecture du Doubs*
+##  :mountain: Dans le Doubs 
+> Massif du Jura, département du Doubs, automne 2018.
+Les municipalités en rouge ont été ravitaillées par camion citerne, celles en orange ont réussi à se brancher sur des réserves d'autres municipalités, les jaunes sont en tension.  
 
-## Pourquoi ? 
+![penuries](../pages/images/cartepenuries.png =50x20)  
 
-Dans ces régions, les roches sous-terraines ne stockent pas l'eau. Voici en images le phénomène :
+*Source: Préfecture du Doubs*  
 
-![explication1](../pages/images/explicationkarst1.png)
-> L'eau de pluie s'infiltre dans le sous-sol. C'est celle-ci qui est utilisée au quotidien par les communes. 
+La situation est critique aussi pour d'autres municipalités dans les Alpes, Languedoc, ...   
 
-![explication2](../pages/images/explicationkarst2.png)
-> Lors de périodes de sécheresses, l'eau s'évacue vers les plaines. 
+## Pourquoi ?
+Ces municipalités puisent l'eau potable sous-terre. Cependant, l'eau n'y est pas retenue longtemps, car sont des zones de **relief** à roches **calcaire**. Voici le phénomène en image : 
 
-![explication3](../pages/images/explicationkarst3.png)
-> Il faut chercher d'autres moyens de s'approvisionner en eau : châteaux d'eau, aide de communes/régions voisines, nouveaux forages... ou approvisionnements par camions-citerne.  
+ Image | Explication
+------------ | -------------
+![explication1](../pages/images/explicationkarst1.png ) | L'eau de pluie s'infiltre rapidement dans le sous-sol.  
+![explication2](../pages/images/explicationkarst2.png) | Lors de sécheresses, l'eau s'évacue vers les plaines. Jusqu'à 30 mètres par jour ! 
+![explication3](../pages/images/explicationkarst3.png) | Il faut utiliser d'autres sources d'eau (Châteaux d'eau ? Aides de communes voisines, nouveaux forages ..? )
 
+## A l'avenir ? 
 
-Le tutoriel
-===
+Une hausse des températures est prévue, accompagnée d'un **espacement des précipitations**. C'est à dire qu'il y a aura probablement plus de fortes pluies, suivies de longues périodes de sécheresse.   
 
-**Structure du tutoriel: en 3 étapes**
+La conséquence ? Une amplification du risque de pénurie d'eau.
+
+Sources : GIEC, météofrance... ( à préciser )
+
+# Tutoriel pour évaluer le risque
+
+**3 étapes**
 1. Votre commune réside t-elle sur une des zones où les roches peuvent empêcher les réserves d'eau naturelles sous-terraines? Si oui ce qui peut mener à des pénuries d'eau ce sont les sécheresses.
 2. Votre commune risque t-elle des sécheresses aujourd'hui et à l'avenir? Quelle sera leur durée et leur intensité?
 2. Ces sécheresses peuvent-elles déboucher sur des pénuries d'eau potable? La réponse à cette question dépend notamment des réponses à la question: votre alimentation eu eau potable dépend elle de réserves en eau pérennes? 
