@@ -13,11 +13,11 @@ Dans ce tutoriel vous allez pouvoir découvrir pour votre commune:
 * la provenance de l'eau potable que vous consommez (réserves souterraines ou lacs/rivières, ...?)
 * et si les réserves d'eau qui vous alimentent en eau potable peuvent être épuisées par les sécheresses
 
-**Comment est-ce possible?**
+**Comment est-ce possible de savoir sa?**
 
-Parce que l'eau est une des ressources les plus étudiée en Europe et en France. Et que comme pour les données climatiques beaucoup de ressources sont publiques. 
+Parce que l'eau est une des ressources les plus étudiées en Europe et en France. 
 
-1.D'où est captée l'eau potable que vous consommez? 
+1.D'où provient l'eau potable que vous consommez? 
 ---
 
 1. Cliquez sur [ce lien](https://bnpe.eaufrance.fr/acces-donnees), entrez le nom de votre commune. Dans "usages" indiquez "AEP" (ce qui signifie Alimentation Eau Potable). Validez. 
@@ -26,15 +26,15 @@ Parce que l'eau est une des ressources les plus étudiée en Europe et en France
 > Si rien n'apparaît pour votre commune il va falloir improviser ou demander à votre mairie ou syndicat des eaux, ils devraient pouvoir vous dire.
 
 **Exemples**
-Pour la commune X, 100% de son eau potable provient d'eaux souterraines. L'eau provient donc soit de sources, soit de forages, soit des deux. 
-Pour la commune Y, 100% de son eau potable provient d'eaux de surface. L'eau provient donc sûrement d'un lac, d'une rivière, des neiges d'altitudes, ...
+* Pour la commune X, 100% de son eau potable provient d'eaux souterraines. L'eau provient donc soit de sources, soit de forages, soit des deux. 
+* Pour la commune Y, 100% de son eau potable provient d'eaux de surface. L'eau provient donc sûrement d'un lac, d'une rivière, des neiges d'altitudes, ...
 
 2.Familiarisez vous avec le concept de bassin versant
 ---
 
-![Bassinversant](../cd/pages/images/bassin-versant.png)
+![Bassinversant](../pages/images/bassin-versant.png)
 
-L'eau potable peut provenir, initialement:
+L'eau potable peut provenir (le plus souvent après traitement):
 * de rivières
 * de lacs
 * de forages qui permettent d'accéder à des réserves d'eau souterraines. Ces forages peuvent être de 10 mètres comme 400 mètres.
@@ -42,14 +42,16 @@ L'eau potable peut provenir, initialement:
 * ...
 
 **Exemples**
-La commune X est située en haut du bassin versant et n'est alimentée en eau potable que par une source.
-La commune Y est située au milieu du bassin versant. Des canalisations lui permettent de bénéficier de l'eau potable qui provient d'un grand lac localisé à 5 km de là, plus en altitude.
-La commune Z est située au milieu du bassin versant. Elle est alimentée en eau potable par deux forages. Deux cours d'eau passent dans le village.
+* La commune X est située en haut du bassin versant et n'est alimentée en eau potable que par une source.
+* La commune Y est située au milieu du bassin versant. Des canalisations lui permettent de bénéficier de l'eau potable qui provient d'un grand lac localisé à 5 km de là, plus en altitude.
+* La commune Z est située au milieu du bassin versant. Elle est alimentée en eau potable par deux forages. Deux cours d'eau passent dans le village.
 
 > Après des sécheresses comme celles de 2018 des communes comme X mais aussi Z se sont retrouvés en pénuries d'eau. La commune Z est par exemple la ville de Morteau avec 6900 habitants; elle a connu des ravitaillements d'eau potable en automne 2018.
 
-3.Localisez les points d'eau par lesquels l'alimentation en eau potable est assuré: est-ce que ce sont des sources? Des lacs? Des rivières? Des forages? 
+3.Localisez les points d'eau par lesquels l'alimentation en eau potable est assurée
 ---
+
+L'eau de votre commune est-elle captée via des sources, des forages, des lacs? C'est ce que nous allons découvrir.
 
 Dans l'étape 1 vous avez découvert qu'une partie ou la totalité de la partie de l'eau dont vous dépendiez vous l'alimentation en eau potable était d'origine souterraine ou de surface. Nous allons découvrir très exactement où est captée l'eau sur votre commune. 
 
@@ -57,16 +59,15 @@ __Observez les sources, forages, ... qui peuvent être utilisés pour l'alimenta
 
 On a créé quelque chose ... d'unique pour votre permettre de le savoir.
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/captage-des-eaux-sous-terraines_260518?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/captage-des-eaux-sous-terraines_260518">Voir en plein écran</a></p>
+<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/captage-des-eaux-sous-terraines_260518?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/captage-des-eaux-sous-terraines_260518">Voir en plein écran</a></p>
 
 1. [Visualisez la carte](https://umap.openstreetmap.fr/fr/map/captage-des-eaux-sous-terraines_260518). Activez la recherche (icône de loupe) et renseignez le nom de votre commune. Il vous est aussi possible de changer les fonds de carte si cela vous est plus agréable.
 2. Visualisez pour votre commune les sources, forages et autres points d'eau qui peuvent alimenter en eau votre commune. Rappel: une source qui alimente une commune est habituellement à une altitude plus haute que la commune ;).
 3. Repérez grâce aux explications fournies sur la carte les sources, forages et autres points d'eau qui semblent être utilisés pour l'alimentation en eau potable.
 
 **Exemples:**
-
-La commune X a 3 sources et seules les eaux d'une des 3 sources semble être utilisée pour l'alimentation en eau potable.
-La commune Y présente 2 sources (dont une utilisée par eau potable) et 3 forages (dont 1 semble utilisé pour l'eau potable).
+* La commune X a 3 sources et seules les eaux d'une des 3 sources semble être utilisée pour l'alimentation en eau potable.
+* La commune Y présente 2 sources (dont une utilisée par eau potable) et 3 forages (dont 1 semble utilisé pour l'eau potable).
 
 __Observez les rivières, lacs, ... qui peuvent être utilisés pour l'alimentation en eau potable de votre commune #surface__
 
