@@ -1,52 +1,49 @@
 ---
 layout: default
-title: Zones à risques de pénuries en eau potable 
+title: Un tutoriel pour anticiper les zones à risques de pénuries en eau potable 
 description: Où ? À partir de quelles années ? Quels mois de l'année ? Avec quelle intensité/régularité  ?
 permalink: /risques-penurie-eau
 ---
 
 # Des pénuries ? 
 
-##  ⛰️ Dans le Doubs 
+##  ⛰️ Exemple dans le Doubs 
 
-![penuries](../pages/images/cartepenuries.png)  
+![penuries](../pages/images/cartepenuries.png) 
 
-> Massif du Jura, département du Doubs, automne 2018 : les municipalités en rouge ont été ravitaillées par camion citerne, celles en orange ont réussi à se brancher sur des réserves d'autres municipalités, les jaunes sont en tension.  
-*Source: Préfecture du Doubs*  
+> Massif du Jura, département du Doubs, automne 2018 : les municipalités en rouge ont été ravitaillées par camion citerne, celles en orange ont réussi à se brancher sur des réserves d'autres municipalités, les jaunes sont en tension.
+*Source: Préfecture du Doubs* 
 
 
-## ... Et ailleurs
+## ... mais aussi ailleurs
 
-La situation est critique pour d'autres municipalités dans les Alpes, Languedoc, ...   
+Alpes, Languedoc, Pyrénnés, ... les pénuries d'eau surviennent de plus en plus souvent. Les territoires s'étendent avec la montée des températures.
 
-Pourquoi ? Ces municipalités puisent l'eau potable sous-terre. Cependant, l'eau n'y est pas retenue longtemps, car sont des zones de **relief** à roches **calcaire**.  
+Pourquoi ? Ces municipalités sont sur des zones très dépendantes des sécheresses. L'eau n'y est pas retenue longtemps, car sont des zones de **relief** à roches **calcaire**. 
 
 Voici le phénomène en image : 
 
 ![explication1](../pages/images/explicationkarst1.png ) | ![explication2](../pages/images/explicationkarst2.png) | ![explication3](../pages/images/explicationkarst3.png)
 ------------ | ------------- | -------------
-  L'eau de pluie s'infiltre rapidement dans le sous-sol | Lors de sécheresses, l'eau s'évacue vers les plaines. Jusqu'à 30 mètres par jour ! |  Il faut utiliser d'autres sources d'eau (Châteaux d'eau ? Aides de communes voisines, nouveaux forages ..? )
+L'eau de pluie s'infiltre rapidement dans le sous-sol | Sur ces zones elle peut se déplacer jusqu'à 30 mètres par heure! Lors de sécheresses il n'y a plus de recharge. | Les semaines/mois qui suivent les sécheresses peuvent suffir à tarir les réserves d'eau (sources, rivières, forages, ...)
 
 
 ## A l'avenir ? 
 
-Il est prévu une hausse des températures moyennes d'environ 2° d'ici 30 ans, avec fiabilité.
+Les sécheresses seront plus intenses et plus longues. Vous allez même apprendre à définir pour votre commune la durée et l'intensité des sécheresses. Pour vous donner une idée la hausse des températures sera d'environ 2°C, d'ici 30 ans. 
 
-Quel impact de la hausse des températures ? 
-* 🌩Phénomènes orageux : la pluie tombe "d'un coup". Les périodes sans pluie sont plus longues, et au total, moins d'eau s'infiltre dans le sol.
+Quels impacts de la hausse des températures ? 
+* 🌩Plus de précipiations intenses : la pluie tombe "d'un coup". Les périodes sans pluie seront plus longues, et au total, moins d'eau s'infiltrera dans le sol.
 * 🌫 Evaporation
-* 🥛 Augmentation du besoin en eau des plantes : Lorsque l'air est trop sec, les plantes utilisent plus d'eau au sol (de nombreux arbres peuvent boire 300L d'eau par jour !)
+* 🥛 Augmentation du besoin en eau des plantes : les plantes utilisent plus d'eau au sol (de nombreux arbres peuvent boire 300L d'eau par jour !)
+* ...
 
-La hausse des températures peut amener une **réduction des stocks d'eau sous-terrains**.  
+Bref: une des conséquences des sécheresses est que les réserves d'eau souterraines peuvent tarrir. C'est ce qui est arrivé et continuera d'arriver. 
 
-> Dès que le sol et la flore sont impactés par le manque d'eau, on parle de [sécheresse](https://www.futura-sciences.com/planete/definitions/meteorologie-secheresse-6527/). Si les réserves d'eau sous-terraines se réduisent, on parle de sécheresse *hydrologique* . 
-
-> Sources : GIEC, météofrance... ( à préciser )
-
-# Evaluer le risque
+# Un tutoriel en 3 temps
 
 Vous pouvez évaluer le risque de pénurie d'eau potable dans votre commune (ou ailleurs) : 
 
-OU | QUAND | COMMENT
+1.OU | 2.QUAND | 3.COMMENT
  ------------ | ------------- | -------------
-[Où résidez-vous ? Y a t-il des grandes réserves d'eau ?](../eau-geologie-karstique) | [Quand sont prévues des sécheresses ? Quelle sera leur durée et leur intensité ?](../indice-sswi) | Comment votre commune est alimentée en eau actuellement, est-ce des sources durables et suffisantes pour votre utilisation ? (à venir)
+[Où résidez-vous ? Y a t-il des grandes réserves d'eau ?](../eau-geologie-karstique) | [Quand sont prévues des sécheresses ? Quelle sera leur durée et leur intensité sur les prochaines décénies?](../indice-sswi) | [Les sécheresses vont-elles à l'avenir venir à bout des réserves d'eau de votre commune?](../eau-perrenite)

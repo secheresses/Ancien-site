@@ -105,11 +105,7 @@ Pour une année classique de la décénie 2050-2060, par rapport à ce qui pour 
 3.Les sécheresses à venir sont-elles en mesure de causer des pénuries d'eau potable?
 ---
 
-Plusieurs mois de sécheresses peuvent causer des pénuries d'eau pour les municipalités n'ayant pas accès à des grandes réserves d'eau sous-terraines ou de surface.
-
-Votre municipalité a t-elle et peut être avoir accès à des réserves d'eau pérennes? C'est ce que nous allons chercher à savoir à l'[étape 3 du tutoriel](../risques-penurie-eau) que nous sommes entrain de préparer. En attendant ce tutoriel vous pouvez consulter les [jeux de données](../donnees) que nous mettons à disposition de même que  les [notes issues de la formation avec l'hydrogéologue Guy Faure](../hydrogeologie-penuries-explorations). Si vous êtes intéressés pour élaborer le tutoriel suivant merci de nous contacter. 
-
-> Si vous êtes arrivés jusqu'ici il se peut que vous ayez le moral dans les chaussettes. On ne sait trop quoi vous dire. Nous aussi. Beaucoup de choses vont changer si on regarde le décallage avec ce que nous connaisons aujourd'hui. Il est rare que dans l'histoire nous ayons accés à des prévisions aussi longtemps en avance. En 2050 vous aurez 30 ans de plus qu'ajourd'hui. Qu'en faisons nous? 
+Plusieurs mois de sécheresses peuvent causer des pénuries d'eau pour certaines municipalités. Votre municipalité est-elle concernée? C'est ce que nous allons chercher à savoir à l'[étape 3 du tutoriel](../eau-perrenite).
 
 Bonus
 ---
