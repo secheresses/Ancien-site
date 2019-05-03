@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Étape 3 du tutoriel
-description: Les réserves d'eau auxquelles votre commune à accès sont-elles pérennes? Les sécheresses peuvent-elles déboucher sur des pénuries d'eau?"
+description: Les réserves d'eau auxquelles votre commune a accès sont-elles pérennes? Les sécheresses peuvent-elles déboucher sur des pénuries d'eau?"
 permalink: /eau-perrenite
 ---
 
