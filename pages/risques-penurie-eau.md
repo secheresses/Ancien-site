@@ -7,7 +7,7 @@ permalink: /risques-penurie-eau
 
 # Des pénuries ? 
 
-##  ⛰️ Exemple dans le Doubs 
+##  ⛰️ Un exemple: le Doubs
 
 ![penuries](../pages/images/cartepenuries.png) 
 
@@ -25,7 +25,7 @@ Voici le phénomène en image :
 
 ![explication1](../pages/images/explicationkarst1.png ) | ![explication2](../pages/images/explicationkarst2.png) | ![explication3](../pages/images/explicationkarst3.png)
 ------------ | ------------- | -------------
-L'eau de pluie s'infiltre rapidement dans le sous-sol | Sur ces zones elle peut se déplacer jusqu'à 30 mètres par heure! Lors de sécheresses il n'y a plus de recharge. | Les semaines/mois qui suivent les sécheresses peuvent suffir à tarir les réserves d'eau (sources, rivières, forages, ...)
+L'eau de pluie s'infiltre rapidement dans le sous-sol. Sur ces zones elle peut se déplacer jusqu'à 30 mètres par heure! |  Plus les sécheresses durent longtemps, plus les "rares" réserves s'épuisent (sources, rivières, forages,...). | Des pénuries d'eau potable peuvent survenir dans les semaines/mois qui suivent les sécheresses.
 
 
 ## A l'avenir ? 
@@ -38,7 +38,7 @@ Quels impacts de la hausse des températures ?
 * 🥛 Augmentation du besoin en eau des plantes : les plantes utilisent plus d'eau au sol (de nombreux arbres peuvent boire 300L d'eau par jour !)
 * ...
 
-Bref: une des conséquences des sécheresses est que les réserves d'eau souterraines peuvent tarrir. C'est ce qui est arrivé et continuera d'arriver. 
+Bref: une des conséquences des sécheresses est que les réserves d'eau peuvent tarrir. C'est ce qui est arrivé et continuera d'arriver. 
 
 # Un tutoriel en 3 temps
 
@@ -46,4 +46,4 @@ Vous pouvez évaluer le risque de pénurie d'eau potable dans votre commune (ou 
 
 1.OU | 2.QUAND | 3.COMMENT
  ------------ | ------------- | -------------
-[Où résidez-vous ? Y a t-il des grandes réserves d'eau ?](../eau-geologie-karstique) | [Quand sont prévues des sécheresses ? Quelle sera leur durée et leur intensité sur les prochaines décénies?](../indice-sswi) | [Les sécheresses vont-elles à l'avenir venir à bout des réserves d'eau de votre commune?](../eau-perrenite)
+[Où résidez-vous ? Êtes vous sur un territoire très dépendant des sécheresses?](../eau-geologie-karstique) | [Quelle sera à l'avenir la durée et l'intensité des sécheresses que vous subirez sur votre territoire?](../indice-sswi) | [Des pénuries d'eau potable sont-elles possibles et sur combien de mois par an?](../eau-perrenite)

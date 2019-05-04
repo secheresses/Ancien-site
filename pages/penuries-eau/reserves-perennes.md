@@ -7,23 +7,24 @@ permalink: /eau-perrenite
 
 *[Revenir à la page précédente "Tutoriel zones à risques de pénuries en eau potable"](../risques-penurie-eau)*
 
-Vous avez défini à l'[étape 1](../eau-geologie-karstique) que vous étiez sur une zone potentiellement très sensible aux sécheresses. À l'[étape 2 du tutoriel](../indice-sswi) vous avez visualisé pour votre commune les estimations des durées et de l'intensité des sécheresses à venir. 
+Vous avez défini à l'[étape 1](../eau-geologie-karstique) que vous étiez sur une zone potentiellement très sensible aux sécheresses. À l'[étape 2](../indice-sswi) vous avez visualisé pour votre commune les estimations des durées et de l'intensité des sécheresses à venir. 
 
-Dans ce tutoriel vous allez pouvoir découvrir pour votre commune: 
-* la provenance de l'eau potable que vous consommez (réserves souterraines ou lacs/rivières, ...?)
+Dans ce tutoriel vous allez pouvoir découvrir: 
+* la provenance de l'eau potable que vous consommez sur votre municipalité (réserves souterraines ou lacs/rivières, ...?)
 * et si les réserves d'eau qui vous alimentent en eau potable peuvent être épuisées par les sécheresses
 
-**Comment est-ce possible de savoir sa?**
+**Comment est-ce possible de savoir cela?**
 
 Parce que l'eau est une des ressources les plus étudiées en Europe et en France. 
 
 1.D'où provient l'eau potable que vous consommez? 
 ---
 
-1. Cliquez sur [ce lien](https://bnpe.eaufrance.fr/acces-donnees), entrez le nom de votre commune. Dans "usages" indiquez "AEP" (ce qui signifie Alimentation Eau Potable). Validez. 
-2. Observez la rubrique "Type d'eau". Cette rubrique vous informe sur la part d'eau potable qui provient des eaux du "souterrain" ou des eaux de la "surface".
+1. Cliquez sur [ce lien](https://bnpe.eaufrance.fr/acces-donnees) et indiquez le nom de votre commune. 
+2. Dans "usages" indiquez "AEP" (ce qui signifie Alimentation Eau Potable) et validez. 
+2. Dans la rubrique "Type d'eau" notez la part d'eau qui provient des eaux du "souterrain" ou des eaux de la "surface".
 
-> Si rien n'apparaît pour votre commune il va falloir improviser ou demander à votre mairie ou syndicat des eaux, ils devraient pouvoir vous dire.
+> Si rien n'apparaît pour votre commune les données ne sont pas accessibles.
 
 **Exemples**
 * Pour la commune X, 100% de son eau potable provient d'eaux souterraines. L'eau provient donc soit de sources, soit de forages, soit des deux. 
@@ -34,11 +35,11 @@ Parce que l'eau est une des ressources les plus étudiées en Europe et en Franc
 
 ![Bassinversant](../pages/images/bassin-versant.png)
 
-L'eau potable peut provenir (le plus souvent après traitement):
+L'eau potable peut provenir des eaux:
 * de rivières
 * de lacs
 * de forages qui permettent d'accéder à des réserves d'eau souterraines. Ces forages peuvent être de 10 mètres comme 400 mètres.
-* de sources qui jaillissent là où une réserve d'eau souterraine est bloquée par une couche de roches imperméables
+* de sources qui jaillissent là où une réserve d'eau souterraine est bloquée par une couche de roches imperméable
 * ...
 
 **Exemples**
