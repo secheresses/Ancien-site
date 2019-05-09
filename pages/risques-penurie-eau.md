@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Un tutoriel pour anticiper les zones à risques de pénuries en eau potable 
-description: Où ? À partir de quelles années ? Quels mois de l'année ? Avec quelle intensité/régularité  ?
+title: Tutoriel 
+description: Anticiper les zones à risques de pénuries en eau potable
 permalink: /risques-penurie-eau
 ---
 
@@ -25,7 +25,7 @@ Voici le phénomène en image :
 
 ![explication1](../pages/images/explicationkarst1.png ) | ![explication2](../pages/images/explicationkarst2.png) | ![explication3](../pages/images/explicationkarst3.png)
 ------------ | ------------- | -------------
-L'eau de pluie s'infiltre rapidement dans le sous-sol. Sur ces zones elle peut se déplacer jusqu'à 30 mètres par heure! |  Plus les sécheresses durent longtemps, plus les "rares" réserves s'épuisent (sources, rivières, forages,...). | Des pénuries d'eau potable peuvent survenir dans les semaines/mois qui suivent les sécheresses.
+L'eau de pluie s'infiltre rapidement dans le sous-sol. Sur ces zones elle peut se déplacer jusqu'à 30 mètres par heure! |  Plus les sécheresses durent longtemps, plus les "rares" réserves s'épuisent (sources, rivières, forages,...). | Des pénuries d'eau potable peuvent survenir dans les semaines/mois qui suivent les sécheresses. 
 
 
 ## A l'avenir ? 
@@ -33,12 +33,12 @@ L'eau de pluie s'infiltre rapidement dans le sous-sol. Sur ces zones elle peut s
 Les sécheresses seront plus intenses et plus longues. Vous allez même apprendre à définir pour votre commune la durée et l'intensité des sécheresses. Pour vous donner une idée la hausse des températures sera d'environ 2°C, d'ici 30 ans. 
 
 Quels impacts de la hausse des températures ? 
-* 🌩Plus de précipiations intenses : la pluie tombe "d'un coup". Les périodes sans pluie seront plus longues, et au total, moins d'eau s'infiltrera dans le sol.
+* 🌩Plus de précipiations intenses : la pluie tombe "d'un coup". Lorsque les pluies sont régulières environ 80% de la pluie entre dans le sol. S'il pleut d'un coup ça peut être moins de 50%. 
 * 🌫 Evaporation
 * 🥛 Augmentation du besoin en eau des plantes : les plantes utilisent plus d'eau au sol (de nombreux arbres peuvent boire 300L d'eau par jour !)
 * ...
 
-Bref: une des conséquences des sécheresses est que les réserves d'eau peuvent tarrir. C'est ce qui est arrivé et continuera d'arriver. 
+Bref: une des conséquences des sécheresses est que les réserves d'eau peuvent tarrir. 
 
 # Un tutoriel en 3 temps
 
