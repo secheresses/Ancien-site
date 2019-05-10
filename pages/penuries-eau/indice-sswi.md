@@ -10,14 +10,15 @@ permalink: /indice-sswi
 Vous avez défini à l'étape 1 que vous étiez sur une zone potentiellement très sensible aux sécheresses.
 
 Vous allez pouvoir découvrir pour votre territoire sur les années 2030-2040, 2050-2060, 2070-2080
-* la durée des sécheresses moyennes (avec les mois de début et de fin)
+* les zones allant subir les plus forts manques en eau (déficit voire pénuries)
+* la durée des sécheresses à venir (avec les mois de début et de fin)
 * l'intensité des sécheresses moyennes durant ces périodes 
 
 **Comment est-ce qu'on peut savoir ça?**
 
 Les données des climatologues et du GIEC sont visualisables sur un interface qui s'appelle Drias-Climat et sont sans cesse corrigées, années après années, et vérifiées en essayant de retrouver des climats du passé. Les [données climatiques](../donnees) sont fiables lorsqu'il s'agit de la haute des température. La plus grosse incertitude concerne le scénario sio-économique que vous choisirez. Vous aurez le choix entre scénario intermédiaire où l'humain à mis en place des politiques climatiques à l'échelle mondiale ou le modèle pessimiste aussi nommé *business as usual*. 
 
-1.Définissez combien de temps les sécheresses moyennes vont durer en 2030-2040 et quelle sera leur intensité
+1.Définissez à quel point les sécheresses moyennes seront plus intenses en en 2030-2040 et quelle sera leur durées
 ---
 
 __Accédez aux données__
@@ -73,9 +74,12 @@ Une année classique de la décénie 2030 - 2040, la commune X traversera une s�
 
 __Aide à l'interprétation 1/2: l'intensité et la durée des sécheresses__
 
-Ce que vous observez c’est combien le sols vont devenir plus secs ... par rapport à ce que c’était à la fin du siècle dernier. Il faut un point de référence. En 2050/2060 une sécheresse terrible comme celle de 2018 deviendra la norme pour plusieurs zones de métropole. Les cartes que vous visualisez ne vous montrent pas les sécheresses qu'il va y avoir. Elles vous montrent à quel point les sécheresses seront plus intenses que celles que nous connaissions à la fin du siècle dernier. 
+Ce que vous observez c’est combien le sols vont devenir plus secs ... par rapport à ce que c’était à la fin du siècle dernier. Il nous faut un point de référence. En 2050/2060 une sécheresse terrible comme celle de 2018 deviendra la norme pour plusieurs zones de métropole. Les cartes que vous visualisez ne vous montrent pas les sécheresses qu'il va y avoir. Elles vous montrent à quel point les sécheresses seront plus intenses que celles que nous connaissions à la fin du siècle dernier. 
 
-En résumé : les cartes vous montrent à quel point l’agriculture, la végétation, les usages de l’eau... auront changé par rapport à ce que nous connaissions auparavant.
+Les cartes vous montrent nous renseignent donc sur: 
+* les déficits en eau au sol
+* les déficits en eaux souterraines (sur les zones que explorées)
+* l'intensité et la durée impacts que vont subir la végétation et l'agriculture
 
 __Aide à l'interpréation 2/2: il s'agit de la sécheresse moyenne des sols. Il y aura donc des sécheresses exeptionnelles qui casseront les scores...__
 
@@ -109,7 +113,11 @@ Pour une année classique de la décénie 2050-2060, par rapport à ce qui pour 
 3.Les sécheresses à venir sont-elles en mesure de causer des pénuries d'eau potable?
 ---
 
-Plusieurs mois de sécheresses peuvent causer des pénuries d'eau pour certaines municipalités. Votre municipalité est-elle concernée? C'est ce que nous allons chercher à savoir à l'[étape 3 du tutoriel](../eau-perrenite).
+Dans le cas où les sécheresses seront plus longues et plus intenses il est à prévoir, sur les zones que nous explorons:
+* une diminution des réserves d'eau souterraines (déficits) qui peuvent devenir chroniques.
+* pouvant mener (comme ça a été le cas lors de la sécheresse de 2018) à des pénuries d'eau potable
+
+Votre municipalité va t-elle subir des déficits d'eau et devoir remodeler sa gestion de l'eau? Ou y a t-il jusqu'à un risque de pénurie d'eau potable? C'est ce que nous allons chercher à savoir à l'[étape 3 du tutoriel](../eau-perrenite).
 
 Bonus 1
 ---
