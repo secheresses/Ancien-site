@@ -10,7 +10,7 @@ Projections climatiques pour la métropole & les outre-mer
 
 > [*Les projections climatiques dessinent des tendances*](http://www.climat-en-questions.fr/reponse/evolution-future/prevoir-meteo-prevoir-climat-par-olivier-talagrand). Les estimations climatiques sont devenues possible grâce aux données et simulations produites et mises en commun par des laboratoires de recherche de plusieurs nations. 
 La France participe à ce travail scientifique collectif avec la contribution de trois organismes : *Institut Pierre-Simon Laplace ou IPSL* (en lien avec le CNRS / UPMC / UPEC / Ecole Polytechnique/ CNES / IRD / ENS / Université Paris Diderot / UVSQ / CEA), le *Centre national de recherches météorologiques* (en lien avec leMétéo France / CNRS) et le *Centre européen de recherche et de formation avancée en calcul scientifique ou CERFACS* (en lien avec le CNRS / CERFACS / Total SA / Safran / EDF/ EADS France SAS / CNES / Météo-France / ONERA). 
-Une des manières les plus simples de lire leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/)
+Une des manières les plus simples de lire leurs données est d'utiliser le visualiseur [*Drias*](http://drias-climat.fr/).
 
 > Cependant, les estimations, comme celles présentées sur le site [Drias](http://drias-climat.fr), ne prennent pas en compte les spécificités locales comme les micro-climats. Un massif forestier, un lac, influencent sur le climat. Les estimations représentent des tendances.
 
@@ -18,9 +18,9 @@ Anticiper les évolutions de températures jusqu'aux environ 2070 - *métropole 
 ---
 
 * ce sont des prévisions et scénarios explicitement approuvés en assemblée plénière du [*Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC)*](https://www.ecologique-solidaire.gouv.fr/comprendre-giec).
-* si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *températures*. Cela peut vous amener à décider de choisir un scénario climatiques plus qu'un autre pour visualiser les données climatiques.
+* si vous souhaitez suivre les évolutions depuis 2014 jusqu'à aujourd'hui : se rendre sur [ClimatHD](http://www.meteofrance.fr/climat-passe-et-futur/climathd) > *démarrer* > *températures*. Cela peut vous amener à décider de choisir un scénario climatiques plus qu'un autre pour visualiser les données climatiques.
 
-Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères. Comme ci dessous la moyenne du nombre de journées d'été (journées avec des températures supérieures à 25°C), par an, à différents horizons temporels. 
+Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/experience?region=SAFRAN&generation=rcp)) va vous permettre de représenter différents critères. Comme ci-dessous la moyenne du nombre de journées d'été (journées avec des températures supérieures à 25°C), par an, à différents horizons temporels. 
 
 ![Journées d'été](../pages/images/climatjourneesete.png)
 *Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5 / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)*
@@ -57,7 +57,7 @@ Le visualiseur avancé ([cliquez ici](http://drias-climat.fr/decouverte/carte/ex
 ![Anomalies de precipitations](../pages/images/anomaliesprecipitationsete.png)
 *Drias, données Météo-France, CERFACS, IPSL* / *Scénario sans politique climatique 8,5* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
-> La carte ci dessus n'est pas évidente à lire mais nous donne des renseignements précieux. Dans l'horizon de référence (disons qu'il s'agissait de l'an 1990) on voit qu'il y a déjà dans le *sud de la métropole* des *précipitations intenses supérieures entre 80 et 85%* (en violet). Cala signifie que 80 à 85% des pluies y sont intenses. Dans l'horizon proche déjà on voit ce nombre de précipitations intenses augmenter avec une estimation de +10%. Autrement dit 90-95% des précipitations qui sont intenses. Pour la Bretagne où il pleut beaucoup en terme de *cumul* mais de manière régulière on part dans l'horizon de référence avec moins de 55% de précipitations intenses. Lorsqu'on regarde les anomalies il faut à chaque fois regarder d'où on part et comment ça évolue.
+> La carte ci dessus n'est pas évidente à lire mais nous donne des renseignements précieux. Dans l'horizon de référence (disons qu'il s'agissait de l'an 1990) on voit qu'il y a déjà dans le *sud de la métropole* des *précipitations intenses supérieures entre 80 et 85%* (en violet). Cala signifie que 80 à 85% des pluies y sont intenses. Dans l'horizon proche déjà on voit ce nombre de précipitations intenses augmenté avec une estimation de +10%. Autrement dit 90-95% des précipitations qui sont intenses. Pour la Bretagne, où il pleut beaucoup en terme de *cumul* mais de manière régulière, on part dans l'horizon de référence avec moins de 55% de précipitations intenses. Lorsqu'on regarde les anomalies il faut à chaque fois regarder d'où on part et comment ça évolue.
 
 **Vous avez la possibilité de représenter les estimations des données suivantes sur plusieurs horizons par mois, saisons, années**
 
@@ -78,12 +78,12 @@ Représenter les estimations de la sécheresse des sols jusqu'aux environ 2070 -
 
 **Visualiser les données de la sécheresse des sols**
 
-Le visualiseur du *Climsec-Drias* ([cliquez ici](http://drias-climat.fr/decouverte/carte/climsec/experience)) va vous permettre de représenter l'évolution de la sécheresse des sols nommée *Indicateur sècheresse d'humidité des sols (SSWI)*. Ce qui donne ceci pour avec le *scénario pessimiste* pour les *étés*:
+Le visualiseur du *Climsec-Drias* ([cliquez ici](http://drias-climat.fr/decouverte/carte/climsec/experience)) va vous permettre de représenter l'évolution de la sécheresse des sols, nommée *Indicateur sècheresse d'humidité des sols (SSWI)*. Ce qui donne ceci pour avec le *scénario pessimiste* pour les *étés*:
 
 ![Sécheresses](../pages/images/anomaliessecheresses.png)
 *Sécheresse des sols en été* / *Climsec* / *Scénario dit "pessimiste A2"* / [Crédits et conditions d'utilisation](http://www.drias-climat.fr/accompagnement/conditions)
 
-> Plus la couleur vire vers le rouge plus les sols seront *très secs* par rapport à en 1970. Si dans le *sud* de la métropole une partie de la zone reste en jaune dont en critère *normal* c'est il n'y a pas d'évolution de la sécheresse des sols. Ces sols étaient déjà considérés comme *très secs* en 1970. Un sol "très sec" ne veut pas non plus dire qu'il n'y a plus d'eau dans le sous-sol de la zone. On parle ici de sécheresse des sols de surface.
+> Plus la couleur vire au rouge plus les sols seront *très secs* par rapport à en 1970. Si dans le *sud* de la métropole une partie de la zone reste en jaune, donc en critère *normal*, c'est il n'y a pas d'évolution de la sécheresse des sols. Ces sols étaient déjà considérés comme *très secs* en 1970. Un sol "très sec" ne veut pas non plus dire qu'il n'y a plus d'eau dans le sous-sol de la zone. On parle ici de sécheresse des sols de surface.
 
 **Comprendre combien de temps vont durer les périodes sèches (pour les sols de surface) à l'avenir**
 
@@ -117,7 +117,7 @@ Accéder au [site Propulvia de l'état](http://propluvia.developpement-durable.g
 
 Découvrir le niveau des nappes phréatiques & leur localisation: pour commencer
 ---
-Pour savoir où en sont les nappes phréatiques mois par mois consulter les [cartographies du BRGM](https://www.brgm.fr/presse/liste-publications-presse?typepresse%5B0%5D=17&activites%5B0%5D=24).
+Pour savoir où en sont les nappes phréatiques mois par mois, consulter les [cartographies du BRGM](https://www.brgm.fr/presse/liste-publications-presse?typepresse%5B0%5D=17&activites%5B0%5D=24).
 
 **Voici un exemple**
 ![BRGM état nappes](../pages/images/brgm-nappes.png)
@@ -128,9 +128,9 @@ Hydrogéologie
 
 Le comportement des eaux-sous-terraines dans les roches dépend ... de la nature des roches. 
 
-* visualiser la [carte géologique de France](http://geoservices.brgm.fr/wms-c.html)
-* télécharger la [carte géologique de France au 1/1000000](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip) & [outils liés](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip)
-* accéder au [visualiseur des *entités hydrogéologiques de métropole*](https://bdlisa.eaufrance.fr/carte) conçu par les acteurs publics de l'eau en France. Pour les outre-mer vous avez possibilité de télécharger les données brutes sur [data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=bdlisa)
+* visualiser la [carte géologique de France](http://geoservices.brgm.fr/wms-c.html).
+* télécharger la [carte géologique de France au 1/1000000](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip) & [outils liés](http://infoterre.brgm.fr/telechargements/BDCharm50/FR_vecteur.zip).
+* accéder au [visualiseur des *entités hydrogéologiques de métropole*](https://bdlisa.eaufrance.fr/carte) conçu par les acteurs publics de l'eau en France. Pour les outre-mer vous avez possibilité de télécharger les données brutes sur [data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=bdlisa).
  * la couche *Entités hydrogéologiques affleurantes par nature* ne représente pas grand chose d'utile pour nous dans le sens où l'affleurant ne nous dit pas grand chose sur les centaines de mètres de profondeur de couches.
  * la couche *Entités hydrogéologiques affleurantes par milieu* est précieuse car en fonction de si la roche est *poreuse* *fissurée* ou *karstique* (donc calcaire) l'eau ne se comportera pas de la même manière. A savoir que cela ne nous renseigne pas grand chose pour la même raison que ci dessus.
  * la couche *Entités ou secteurs karstiques* représente les *zones calcaires*. Ne nous renseigne pas sur grand chose car il existe des calcaires compacts comme poreux dans lesquels l'eau va se comporter de manière totalement différente. 
@@ -140,8 +140,8 @@ Forages, puits, sources, chateaux d'eau ...
 
 Toutes les données sur les ouvrages (forages, sondages, puits et sources) souterrains du territoire sont collectées pour être conservées dans une base de données, la BSS, organisée et gérée par le BRGM.
 
-* avoir une [idée précise](https://bnpe.eaufrance.fr/) du volume de prélèvement sur votre commune
-* visualiser la [carte de tous les forages, sondages, puits, sources, ...](http://infoterre.brgm.fr/viewerlite/MainTileForward.do)
+* avoir une [idée précise](https://bnpe.eaufrance.fr/) du volume de prélèvement sur votre commune.
+* visualiser la [carte de tous les forages, sondages, puits, sources, ...](http://infoterre.brgm.fr/viewerlite/MainTileForward.do).
 * télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/72ab4d229c26513b99300a2f0a9934bbcecb3c47) sur l'ensemble des points d'eau. Chaque point d'eau est codifié avec un numéro de station BSSEAU. Et c'est grâce à ce numéro de station que vous pourrez retrouver toutes les informations concernant ce point d'eau.
 
 Eau potable
@@ -150,9 +150,9 @@ Eau potable
 ![mesures](https://bnpe.eaufrance.fr/sites/default/files/upload/images/BNPE_InfoTerre_0.png)
 
 * avoir une [idée précise](https://bnpe.eaufrance.fr/) du volume de prélèvement sur votre commune. Sélectionner le critère AEP (Alimention Eau Potable) pour découvrir le volume et l'origine de l'eau potable sur votre commune.
-* accéder aux [données du controle sanitaire de l'eau potable](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau#Resultats-du-controle-sanitaire-de-la-qualite-de-l-eau-potable-en-ligne-nbsp)
-* télécharger la [géolocalisation et les informations](https://www.data.gouv.fr/fr/datasets/aires-dalimentation-de-captage-metropole/) des Aires d'alimentation de captage
-* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage
+* accéder aux [données du controle sanitaire de l'eau potable](https://solidarites-sante.gouv.fr/sante-et-environnement/eaux/eau#Resultats-du-controle-sanitaire-de-la-qualite-de-l-eau-potable-en-ligne-nbsp).
+* télécharger la [géolocalisation et les informations](https://www.data.gouv.fr/fr/datasets/aires-dalimentation-de-captage-metropole/) des Aires d'alimentation de captage.
+* télécharger la [géolocalisation et les informations](https://geo.data.gouv.fr/fr/datasets/e38462f476f834432cd6578ed452f4e6c11bdb04) concernant les chateaux d'eau et les réservoirs, stations de pompage.
 
 
 
